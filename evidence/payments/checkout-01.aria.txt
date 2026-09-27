@@ -1,0 +1,136 @@
+URL: https://partners.fresha.com/calendar/drawer/new-sale/tips?date=2026-09-29&view=day&location_id=3210802&calendar_selected_resources=e-working&checkout-order-id=1078208179
+- link "Fresha":
+  - /url: /calendar
+  - img "Fresha"
+- button "Continue setup":
+  - paragraph: Continue setup
+- button "Search"
+- button "Performance insights"
+- button "Notifications"
+- link "Fresha Connect":
+  - /url: /connect
+- link "Wallet":
+  - /url: /calendar/drawer/wallet/all/accounts/?date=2026-09-29&view=day&location_id=3210802&calendar_selected_resources=e-working&checkout-order-id=1078208179
+  - text: "1"
+- button "Open user menu": NL
+- link:
+  - /url: /dashboard
+- link:
+  - /url: /calendar?date=2026-09-27&view=day&location_id=3210802&calendar_selected_resources=e-working&checkout-order-id=1078208179
+- button
+- button
+- button
+- button
+- button
+- button
+- link:
+  - /url: /reports
+- link:
+  - /url: /add-ons
+- link:
+  - /url: /setup
+- button
+- button "Today"
+- group:
+  - button "Go to previous month"
+  - button "Tue, Sep 29"
+  - button "Go to next month"
+- paragraph: Button group
+- button "Baber Shop"
+- button "Scheduled team"
+- link "Visibility Filters":
+  - /url: /calendar/drawer/visibility-filters?date=2026-09-29&view=day&location_id=3210802&calendar_selected_resources=e-working&checkout-order-id=1078208179
+- link "Calendar Settings":
+  - /url: /calendar/drawer/settings?date=2026-09-29&view=day&location_id=3210802&calendar_selected_resources=e-working&checkout-order-id=1078208179
+- link "Waitlist":
+  - /url: /calendar/drawer/waitlist?date=2026-09-29&view=day&location_id=3210802&calendar_selected_resources=e-working&checkout-order-id=1078208179
+- group:
+  - button "Reset calendar to default view"
+  - button "Day"
+- paragraph: Button group
+- button "Add"
+- text: 00:00 01:00 02:00 03:00 04:00 05:00 06:00 07:00 08:00 09:00 10:00 11:00 12:00 13:00 14:00 15:00 16:00 17:00 18:00 19:00 20:00 21:00 22:00 23:00
+- button
+- button
+- button "AT Aung Test Barber":
+  - text: AT
+  - paragraph: Aung Test Barber
+- button "NL Naing Aung Linn":
+  - text: NL
+  - paragraph: Naing Aung Linn
+- button "The avatar of Wendy Smith (Demo) Wendy Smith (Demo)":
+  - img "The avatar of Wendy Smith (Demo)"
+  - paragraph: Wendy Smith (Demo)
+- button "AT Aung Test Barber":
+  - text: AT
+  - paragraph: Aung Test Barber
+- button "NL Naing Aung Linn":
+  - text: NL
+  - paragraph: Naing Aung Linn
+- button "The avatar of Wendy Smith (Demo) Wendy Smith (Demo)":
+  - img "The avatar of Wendy Smith (Demo)"
+  - paragraph: Wendy Smith (Demo)
+- button "AT Aung Test Barber":
+  - text: AT
+  - paragraph: Aung Test Barber
+- button "NL Naing Aung Linn":
+  - text: NL
+  - paragraph: Naing Aung Linn
+- button "The avatar of Wendy Smith (Demo) Wendy Smith (Demo)":
+  - img "The avatar of Wendy Smith (Demo)"
+  - paragraph: Wendy Smith (Demo)
+- strong: Booking at Branch B
+- strong: Booking at Branch B
+- text: 10:15 - 11:00
+- strong: Walk-In
+- text: Haircut
+- dialog:
+  - button "Close Drawer"
+  - text: Free to use A point of sale solution to run your entire business Manage sales, take payments, collect tips and run your financial reports. It's simple, secure, and powerful. Handy ways to check out your clients in a flash Easily sell services, products, memberships and gift cards Reconcile quickly with powerful sales and payments reports
+  - button "Start now"
+  - img
+  - img
+  - img
+  - button "Add client"
+  - paragraph: Add client
+  - paragraph: Leave empty for walk-ins
+  - button
+  - button "Haircut"
+  - paragraph: Haircut
+  - paragraph: 45min • Aung Test Barber
+  - text: SGD 40
+  - button "Edit"
+  - button "Add to cart"
+  - button "Collapse"
+  - paragraph: Total
+  - paragraph: SGD 40
+  - button "Toggle":
+    - paragraph: To pay
+    - paragraph: SGD 40
+  - button "Open options"
+  - button "Continue to payment"
+  - heading "Select tip" [level=1]
+  - list:
+    - listitem:
+      - link "Cart":
+        - /url: /calendar/drawer/new-sale/?date=2026-09-29&view=day&location_id=3210802&calendar_selected_resources=e-working&checkout-order-id=1078208179
+    - listitem:
+      - link "Tip":
+        - /url: /calendar/drawer/new-sale/tips?date=2026-09-29&view=day&location_id=3210802&calendar_selected_resources=e-working&checkout-order-id=1078208179
+    - listitem:
+      - link "Payment":
+        - /url: /calendar/drawer/new-sale/payment-method?date=2026-09-29&view=day&location_id=3210802&calendar_selected_resources=e-working&checkout-order-id=1078208179
+  - paragraph: Select an amount for Naing Aung Linn
+  - button "No tip"
+  - paragraph: No tip
+  - button "10%"
+  - paragraph: 10%
+  - paragraph: SGD 4
+  - button "18%"
+  - paragraph: 18%
+  - paragraph: SGD 7.20
+  - button "25%"
+  - paragraph: 25%
+  - paragraph: SGD 10
+  - button "Custom tip"
+  - paragraph: Custom tip

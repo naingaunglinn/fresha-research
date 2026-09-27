@@ -1,0 +1,68 @@
+URL: https://partners.fresha.com/setup/team/permissions/manage-permissions/8139865?area=catalog
+- dialog "Edit Basic permission role":
+  - text: Edit Basic permission role
+  - button "Close"
+  - button "Save"
+  - heading "Edit Basic permission role" [level=1]
+  - text: Select the areas of your workspace that team members in this role can access and manage Search permissions
+  - textbox "Search permissions":
+    - /placeholder: Search permissions...
+  - paragraph: Permission area
+  - list:
+    - listitem:
+      - list:
+        - listitem:
+          - button
+          - text: Calendar
+        - listitem:
+          - button
+          - text: Sales
+        - listitem:
+          - button
+          - text: Clients
+        - listitem:
+          - button
+          - text: Catalog
+        - listitem:
+          - button
+          - text: Online profile
+        - listitem:
+          - button
+          - text: Marketing
+        - listitem:
+          - button
+          - text: Team
+        - listitem:
+          - button
+          - text: Reports
+        - listitem:
+          - button
+          - text: Payments and wallet
+        - listitem:
+          - button
+          - text: Workspace
+  - paragraph: Catalog
+  - text: "Off"
+  - paragraph: Allow access to the catalog and decide what actions the team members can perform.
+  - paragraph:
+    - link "Learn more":
+      - /url: https://www.fresha.com/help-center/knowledge-base/team/100687-create-permission-roles
+  - paragraph: Active
+  - checkbox "Active"
+  - paragraph: Catalog management
+  - paragraph: Can create or change the services in the catalog
+  - checkbox "Can create or change the services in the catalog" [disabled]
+  - paragraph: Can bulk edit services
+  - checkbox "Can bulk edit services" [disabled]
+  - paragraph: Can create or change the products in the catalog
+  - checkbox "Can create or change the products in the catalog" [disabled]
+  - paragraph: Can import products to the catalog in bulk
+  - checkbox "Can import products to the catalog in bulk" [disabled]
+  - paragraph: Can perform bulk operations on the product catalog
+  - checkbox "Can perform bulk operations on the product catalog" [disabled]
+  - paragraph: Can create or change gift cards
+  - checkbox "Can create or change gift cards" [disabled]
+  - paragraph: Can create or change memberships
+  - checkbox "Can create or change memberships" [disabled]
+  - paragraph: Can create or change packages
+  - checkbox "Can create or change packages" [disabled]

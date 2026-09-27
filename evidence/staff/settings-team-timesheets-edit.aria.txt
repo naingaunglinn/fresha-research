@@ -1,0 +1,28 @@
+URL: https://partners.fresha.com/setup/team/timesheets/edit/
+- dialog "Timesheets settings":
+  - text: Timesheets settings
+  - button "Close"
+  - button "Save"
+  - heading "Timesheets settings" [level=1]
+  - paragraph: Proximity controls
+  - text: "Off"
+  - paragraph:
+    - text: Allow team members to only clock in within the configured distance of the location. Edit your
+    - link "business location":
+      - /url: /setup/locations
+  - paragraph: Enable location check
+  - checkbox "Enable location check"
+  - paragraph: Timesheets automations
+  - paragraph: Configure which timesheet entries are automatically created from your schedule.
+  - paragraph: Scheduled shifts
+  - paragraph: Auto clock in
+  - paragraph: Automatically clock in at the beginning of scheduled shifts
+  - checkbox "Auto clock in"
+  - paragraph: Auto clock out
+  - paragraph: Automatically clock out at the end of scheduled shifts
+  - checkbox "Auto clock out"
+  - paragraph: Scheduled breaks
+  - paragraph: Auto start and end scheduled breaks
+  - paragraph: Automatically record timesheet entries when scheduled breaks start and end
+  - checkbox "Auto start and end scheduled breaks"
+  - text: These settings can be customized individually per team member

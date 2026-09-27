@@ -1,0 +1,28 @@
+URL: https://partners.fresha.com/setup/scheduling/closed-periods/create/
+- dialog "Add closed period":
+  - text: Add closed period
+  - button "Close"
+  - button "Add"
+  - heading "Add closed period" [level=1]
+  - paragraph: Set the period when your business is closed
+  - text: Online bookings cannot be placed when your business is closed. Start date
+  - textbox "Start date":
+    - /placeholder: Select start date
+  - button "Start date"
+  - text: End date
+  - textbox "End date":
+    - /placeholder: Select end date
+  - button "End date"
+  - text: Description
+  - textbox "Description":
+    - /placeholder: e.g. Public Holiday
+  - group "Locations":
+    - paragraph: Locations
+    - heading "All locations" [level=3]
+    - checkbox "All locations"
+    - separator
+    - heading "Branch B" [level=3]
+    - checkbox "Branch B"
+    - separator
+    - heading "Baber Shop" [level=3]
+    - checkbox "Baber Shop"

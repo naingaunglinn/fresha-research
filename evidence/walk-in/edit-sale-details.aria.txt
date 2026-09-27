@@ -1,0 +1,33 @@
+URL: https://partners.fresha.com/sales/sales-list/drawer/invoice/565428531/details/edit-sale/
+- dialog "Edit sale details":
+  - text: Edit sale details
+  - button "Close"
+  - button "Save"
+  - heading "Edit sale details" [level=1]
+  - text: "Sale #3 • Sunday, Sep 27, 2026 • Baber Shop Changes will be reflected in all reports."
+  - link "Learn more":
+    - /url: https://www.fresha.com/help-center/knowledge-base/sales/173-edit-a-sale
+  - paragraph: Items sold
+  - paragraph: Haircut
+  - paragraph: SGD 40
+  - paragraph: With Aung Test Barber
+  - text: Team member Aung Test Barber
+  - combobox "Team member":
+    - option "Naing Aung Linn"
+    - option "Aung Test Barber" [selected]
+    - option "Wendy Smith (Demo)"
+  - paragraph: ZZTest Pomade
+  - paragraph: SGD 15
+  - paragraph: Aung Test Barber
+  - text: Team member Aung Test Barber
+  - combobox "Team member":
+    - option "Naing Aung Linn"
+    - option "Aung Test Barber" [selected]
+    - option "Wendy Smith (Demo)"
+  - separator
+  - paragraph: Payment collected
+  - text: SGD 55 cash Aung Test Barber
+  - combobox "SGD 55 cash":
+    - option "Naing Aung Linn"
+    - option "Aung Test Barber" [selected]
+    - option "Wendy Smith (Demo)"

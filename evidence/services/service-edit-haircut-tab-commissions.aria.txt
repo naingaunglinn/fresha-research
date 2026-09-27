@@ -1,0 +1,52 @@
+URL: https://partners.fresha.com/catalogue/services/service/edit/25689868?section=commissions
+- dialog "Edit service":
+  - text: Edit service
+  - button "Close"
+  - button "Save"
+  - heading "Edit service" [level=1]
+  - list:
+    - listitem:
+      - list:
+        - listitem:
+          - button
+          - text: Basic details
+        - listitem:
+          - button
+          - text: Locations 2
+        - listitem:
+          - button
+          - text: Team members 2
+        - listitem:
+          - button
+          - text: Resources
+        - listitem:
+          - button
+          - text: Service add-ons
+    - listitem:
+      - text: Settings
+      - list:
+        - listitem:
+          - button
+          - text: Online booking
+        - listitem:
+          - button
+          - text: Portfolio images
+        - listitem:
+          - button
+          - text: Forms 1
+        - listitem:
+          - button
+          - text: Commissions
+        - listitem:
+          - button
+          - text: Settings
+  - paragraph: Team member commission
+  - text: "On"
+  - paragraph: Calculate team member commission when the service is sold
+  - paragraph: Enable commissions
+  - checkbox "Enable commissions" [checked]
+  - textbox:
+    - /placeholder: Team members
+  - button "Actions"
+  - img "A magnifying glass over an empty page"
+  - text: No commissions set up for this service Assign team members to this service and set up their commissions to see them here

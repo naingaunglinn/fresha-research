@@ -1,0 +1,146 @@
+URL: https://partners.fresha.com/reports/table/advanced-commission-summary
+- link "Fresha":
+  - /url: /calendar
+  - img "Fresha"
+- button "Continue setup":
+  - paragraph: Continue setup
+- button "Search"
+- button "Performance insights"
+- button "Notifications"
+- link "Fresha Connect":
+  - /url: /connect
+- link "Wallet":
+  - /url: /reports/table/advanced-commission-summary/drawer/wallet/all/accounts/
+  - text: "1"
+- button "Open user menu": NL
+- link:
+  - /url: /dashboard
+- link:
+  - /url: /calendar
+- button
+- button
+- button
+- button
+- button
+- button
+- link:
+  - /url: /reports
+- link:
+  - /url: /add-ons
+- link:
+  - /url: /setup
+- button
+- button "Back"
+- navigation:
+  - list:
+    - listitem:
+      - link "All reports •":
+        - /url: /reports
+    - listitem:
+      - link "Team •":
+        - /url: /reports/report-group/1?category=team
+    - listitem: Commission summary
+- paragraph: Commission summary
+- button "Add to favorites"
+- paragraph: Overview of commission earned by team members, locations and sale items. Data from 27 mins ago
+- button "Options"
+- button "Team member"
+- button "Month to date"
+- button "Filters"
+- button "Advanced filters"
+- button "Customize"
+- region:
+  - table:
+    - rowgroup:
+      - row "Team member Sales qty Items solds Gross sales Refunds Tax Discounts Costs Commission base Commission % Commission":
+        - columnheader "Team member":
+          - button "Team member"
+        - button "Sales qty":
+          - button "Sales qty"
+        - button "Items solds":
+          - button "Items solds"
+        - button "Gross sales":
+          - button "Gross sales"
+        - button "Refunds":
+          - button "Refunds"
+        - button "Tax":
+          - button "Tax"
+        - button "Discounts":
+          - button "Discounts"
+        - button "Costs":
+          - button "Costs"
+        - button "Commission base":
+          - button "Commission base"
+        - button "Commission":
+          - button "Commission"
+        - button "% Commission":
+          - button "% Commission"
+  - table:
+    - rowgroup:
+      - row "Total 2 0 SGD 40.00 - SGD 40.00 SGD 0.00 SGD 0.00 SGD 0.00 SGD 0.00 SGD 0.00":
+        - cell "Total":
+          - paragraph: Total
+        - cell "2":
+          - paragraph:
+            - paragraph: "2"
+        - cell "0":
+          - paragraph:
+            - paragraph: "0"
+        - cell "SGD 40.00":
+          - paragraph:
+            - paragraph: SGD 40.00
+        - cell "- SGD 40.00":
+          - paragraph:
+            - paragraph: "- SGD 40.00"
+        - cell "SGD 0.00":
+          - paragraph:
+            - paragraph: SGD 0.00
+        - cell "SGD 0.00":
+          - paragraph:
+            - paragraph: SGD 0.00
+        - cell "SGD 0.00":
+          - paragraph:
+            - paragraph: SGD 0.00
+        - cell "SGD 0.00":
+          - paragraph:
+            - paragraph: SGD 0.00
+        - cell "SGD 0.00":
+          - paragraph:
+            - paragraph: SGD 0.00
+        - cell:
+          - paragraph
+      - row "Aung Test Barber 2 0 SGD 40.00 - SGD 40.00 SGD 0.00 SGD 0.00 SGD 0.00 SGD 0.00 SGD 0.00":
+        - cell "Aung Test Barber":
+          - link "Aung Test Barber":
+            - /url: /reports/table/advanced-commission-activity?employee_id=5609627&shortcut=month_to_date
+        - cell "2":
+          - paragraph:
+            - paragraph: "2"
+        - cell "0":
+          - paragraph:
+            - paragraph: "0"
+        - cell "SGD 40.00":
+          - paragraph:
+            - paragraph: SGD 40.00
+        - cell "- SGD 40.00":
+          - paragraph:
+            - paragraph: "- SGD 40.00"
+        - cell "SGD 0.00":
+          - paragraph:
+            - paragraph: SGD 0.00
+        - cell "SGD 0.00":
+          - paragraph:
+            - paragraph: SGD 0.00
+        - cell "SGD 0.00":
+          - paragraph:
+            - paragraph: SGD 0.00
+        - cell "SGD 0.00":
+          - paragraph:
+            - paragraph: SGD 0.00
+        - cell "SGD 0.00":
+          - paragraph:
+            - paragraph: SGD 0.00
+        - cell:
+          - paragraph
+- status
+- text: Viewing results 1 to 1 of 1

@@ -1,0 +1,60 @@
+URL: https://partners.fresha.com/catalogue/services/service/edit/25689868?section=team-members
+- dialog "Edit service":
+  - text: Edit service
+  - button "Close"
+  - button "Save"
+  - heading "Edit service" [level=1]
+  - list:
+    - listitem:
+      - list:
+        - listitem:
+          - button
+          - text: Basic details
+        - listitem:
+          - button
+          - text: Locations 2
+        - listitem:
+          - button
+          - text: Team members 2
+        - listitem:
+          - button
+          - text: Resources
+        - listitem:
+          - button
+          - text: Service add-ons
+    - listitem:
+      - text: Settings
+      - list:
+        - listitem:
+          - button
+          - text: Online booking
+        - listitem:
+          - button
+          - text: Portfolio images
+        - listitem:
+          - button
+          - text: Forms 1
+        - listitem:
+          - button
+          - text: Commissions
+        - listitem:
+          - button
+          - text: Settings
+  - paragraph: Team members required
+  - paragraph: Choose which team members will perform this service
+  - button
+  - paragraph: All team members
+  - checkbox "All team members" [checked]
+  - paragraph: All team members
+  - text: "2"
+  - button
+  - paragraph: Naing Aung Linn
+  - checkbox "Naing Aung Linn" [checked]
+  - text: NL
+  - paragraph: Naing Aung Linn
+  - separator
+  - button
+  - paragraph: Wendy Smith (Demo)
+  - checkbox "Wendy Smith (Demo)" [checked]
+  - text: WS
+  - paragraph: Wendy Smith (Demo)

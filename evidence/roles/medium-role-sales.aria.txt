@@ -1,0 +1,115 @@
+URL: https://partners.fresha.com/setup/team/permissions/manage-permissions/8139867?area=sales
+- dialog "Edit Medium permission role":
+  - text: Edit Medium permission role
+  - button "Close"
+  - button "Save"
+  - heading "Edit Medium permission role" [level=1]
+  - text: Select the areas of your workspace that team members in this role can access and manage Search permissions
+  - textbox "Search permissions":
+    - /placeholder: Search permissions...
+  - paragraph: Permission area
+  - list:
+    - listitem:
+      - list:
+        - listitem:
+          - button
+          - text: Calendar
+        - listitem:
+          - button
+          - text: Sales
+        - listitem:
+          - button
+          - text: Clients
+        - listitem:
+          - button
+          - text: Catalog
+        - listitem:
+          - button
+          - text: Online profile
+        - listitem:
+          - button
+          - text: Marketing
+        - listitem:
+          - button
+          - text: Team
+        - listitem:
+          - button
+          - text: Reports
+        - listitem:
+          - button
+          - text: Payments and wallet
+        - listitem:
+          - button
+          - text: Workspace
+  - paragraph: Sales
+  - text: Active
+  - paragraph: Allow access to sales and decide what actions the team member can perform.
+  - paragraph:
+    - link "Learn more":
+      - /url: https://www.fresha.com/help-center/knowledge-base/team/100687-create-permission-roles
+  - paragraph: Active
+  - checkbox "Active" [checked]
+  - paragraph: Checkout actions
+  - paragraph: Can check out sales
+  - checkbox "Can check out sales" [checked]
+  - paragraph: Can add a tip during checkout
+  - checkbox "Can add a tip during checkout" [checked]
+  - paragraph: Can edit prices at checkout
+  - checkbox "Can edit prices at checkout" [checked]
+  - paragraph: Can apply discounts to orders
+  - checkbox "Can apply discounts to orders" [checked]
+  - paragraph: Can apply discounts to individual items
+  - checkbox "Can apply discounts to individual items" [checked]
+  - paragraph: Can view all sales
+  - checkbox "Can view all sales" [checked]
+  - paragraph: Can view own sales
+  - checkbox "Can view own sales"
+  - paragraph: Can void a sale
+  - checkbox "Can void a sale" [checked]
+  - paragraph: Can edit a sale
+  - checkbox "Can edit a sale" [checked]
+  - paragraph: Can refund a sale
+  - checkbox "Can refund a sale" [checked]
+  - paragraph: Can collect cash payments
+  - checkbox "Can collect cash payments" [checked]
+  - paragraph: Can use tap to pay
+  - checkbox "Can use tap to pay" [checked]
+  - paragraph: Can sell memberships
+  - checkbox "Can sell memberships" [checked]
+  - paragraph: Can sell packages
+  - checkbox "Can sell packages" [checked]
+  - paragraph: Cash registers
+  - paragraph: Can take cash payments
+  - checkbox "Can take cash payments"
+  - paragraph: Can view cash registers
+  - checkbox "Can view cash registers"
+  - paragraph: Can manage cash registers
+  - paragraph: Team member can create, edit and archive cash registers
+  - checkbox "Can manage cash registers" [disabled]
+  - paragraph: Can view previously closed cash registers
+  - checkbox "Can view previously closed cash registers" [disabled]
+  - paragraph: Can open the cash register
+  - checkbox "Can open the cash register" [disabled]
+  - paragraph: Can close the cash register
+  - checkbox "Can close the cash register" [disabled]
+  - paragraph: Can manually cash in or out
+  - checkbox "Can manually cash in or out" [disabled]
+  - paragraph: Can do a count of the cash register mid-day
+  - paragraph: Requires mid-day count setting to be enabled for register
+  - checkbox "Can do a count of the cash register mid-day" [disabled]
+  - paragraph: Sales reports
+  - paragraph: Can view the daily sales summary
+  - checkbox "Can view the daily sales summary" [checked]
+  - paragraph: Can view the list of appointments
+  - checkbox "Can view the list of appointments" [checked]
+  - paragraph: Can view gift card templates in the catalog
+  - checkbox "Can view gift card templates in the catalog" [checked]
+  - paragraph: Can view the list of packages sold
+  - checkbox "Can view the list of packages sold" [checked]
+  - paragraph: Can view the list of memberships sold
+  - checkbox "Can view the list of memberships sold" [checked]
+  - paragraph: Can export sales reports
+  - checkbox "Can export sales reports"
+  - paragraph: Gift cards
+  - paragraph: Can view the list of sold gift cards
+  - checkbox "Can view the list of sold gift cards" [checked]

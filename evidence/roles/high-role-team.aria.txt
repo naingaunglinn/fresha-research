@@ -1,0 +1,91 @@
+URL: https://partners.fresha.com/setup/team/permissions/manage-permissions/8139868?area=team
+- dialog "Edit High permission role":
+  - text: Edit High permission role
+  - button "Close"
+  - button "Save"
+  - heading "Edit High permission role" [level=1]
+  - text: Select the areas of your workspace that team members in this role can access and manage Search permissions
+  - textbox "Search permissions":
+    - /placeholder: Search permissions...
+  - paragraph: Permission area
+  - list:
+    - listitem:
+      - list:
+        - listitem:
+          - button
+          - text: Calendar
+        - listitem:
+          - button
+          - text: Sales
+        - listitem:
+          - button
+          - text: Clients
+        - listitem:
+          - button
+          - text: Catalog
+        - listitem:
+          - button
+          - text: Online profile
+        - listitem:
+          - button
+          - text: Marketing
+        - listitem:
+          - button
+          - text: Team
+        - listitem:
+          - button
+          - text: Reports
+        - listitem:
+          - button
+          - text: Payments and wallet
+        - listitem:
+          - button
+          - text: Workspace
+  - paragraph: Team
+  - text: Active
+  - paragraph: Allow access to team management and decide what actions they can perform.
+  - paragraph:
+    - link "Learn more":
+      - /url: https://www.fresha.com/help-center/knowledge-base/team/100687-create-permission-roles
+  - paragraph: Active
+  - checkbox "Active" [checked]
+  - paragraph: Team member list
+  - paragraph: Can view the team member list
+  - checkbox "Can view the team member list" [checked]
+  - paragraph: Time management
+  - paragraph: Can view their own scheduled shifts
+  - checkbox "Can view their own scheduled shifts"
+  - paragraph: Can manage other team members' scheduled shifts
+  - checkbox "Can manage other team members' scheduled shifts" [checked] [disabled]
+  - paragraph: Can manage their scheduled shifts
+  - checkbox "Can manage their scheduled shifts" [disabled]
+  - paragraph: Can manage their own timesheets
+  - checkbox "Can manage their own timesheets" [checked]
+  - paragraph: Can manage other team members' timesheets
+  - checkbox "Can manage other team members' timesheets" [checked]
+  - paragraph: Compensation
+  - paragraph: Can run pay runs
+  - paragraph: Can pay out wages, commissions, and tips to team members
+  - checkbox "Can run pay runs"
+  - paragraph: Can manage team member compensation settings
+  - paragraph: Required to view and edit team members' wages, commissions, and pay run details
+  - checkbox "Can manage team member compensation settings" [checked]
+  - paragraph: Can manage merchant accounts
+  - paragraph: Merchant accounts enable payments directly from clients to team members
+  - checkbox "Can manage merchant accounts"
+  - paragraph: Team settings
+  - paragraph: Can manage permission levels
+  - checkbox "Can manage permission levels"
+  - paragraph: Can manage PIN switching
+  - checkbox "Can manage PIN switching"
+  - paragraph: Can manage timesheet settings for the workspace
+  - checkbox "Can manage timesheet settings for the workspace" [checked]
+  - paragraph: Can manage provider onboarding
+  - checkbox "Can manage provider onboarding"
+  - paragraph: Team Connect
+  - paragraph: Can access Team Connect
+  - checkbox "Can access Team Connect" [checked]
+  - paragraph: Can manage public channels
+  - checkbox "Can manage public channels" [checked]
+  - paragraph: Can manage private channels
+  - checkbox "Can manage private channels" [checked]

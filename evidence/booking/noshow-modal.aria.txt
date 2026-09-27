@@ -1,0 +1,15 @@
+URL: https://partners.fresha.com/sales/appointments-list/drawer/view-appointment/1314210097/no-show-appointment/1314210097
+- dialog "Are you sure you want to mark as no-show?":
+  - text: Are you sure you want to mark as no-show?
+  - button "Close"
+  - heading "Are you sure you want to mark as no-show?" [level=1]
+  - paragraph: No-show details
+  - paragraph: Appointment total
+  - paragraph: SGD 40
+  - separator
+  - paragraph: No fee will be charged
+  - button "Set as no-show"
+  - text: No policy was applied to this appointment
+  - paragraph: Send a no-show notification
+  - paragraph: Send a message informing the client their appointment has been updated
+  - checkbox "Send a no-show notification" [checked]

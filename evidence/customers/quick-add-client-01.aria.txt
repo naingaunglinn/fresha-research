@@ -1,0 +1,113 @@
+URL: https://partners.fresha.com/clients/list/add?data=
+- dialog "Add a new client":
+  - text: Add a new client
+  - button "Close"
+  - button "Save"
+  - heading "Add a new client" [level=1]
+  - paragraph: Profile
+  - paragraph: Manage your client's personal profile
+  - button
+  - text: First name
+  - textbox "First name":
+    - /placeholder: e.g. John
+  - text: Last name
+  - textbox "Last name":
+    - /placeholder: e.g. Hancock
+  - text: Email
+  - textbox "Email":
+    - /placeholder: example@domain.com
+  - text: Phone
+  - button "+65"
+  - textbox "Country code":
+    - /placeholder: e.g. ‎+1 234 567 8901
+  - text: Birthday Month
+  - combobox "Month":
+    - option "Month" [selected]
+    - option "Jan"
+    - option "Feb"
+    - option "Mar"
+    - option "Apr"
+    - option "May"
+    - option "Jun"
+    - option "Jul"
+    - option "Aug"
+    - option "Sep"
+    - option "Oct"
+    - option "Nov"
+    - option "Dec"
+  - spinbutton "Birthday"
+  - spinbutton "Year"
+  - text: Gender Select an option
+  - combobox "Gender":
+    - option "Select an option" [disabled] [selected]
+    - option "Female"
+    - option "Male"
+    - option "Non-binary"
+    - option "Prefer not to say"
+  - text: Pronouns Select an option
+  - combobox "Pronouns":
+    - option "Select an option" [disabled] [selected]
+    - option "She/Her"
+    - option "He/Him"
+    - option "They/Them"
+    - option "Prefer not to say"
+  - separator
+  - paragraph: Additional info
+  - paragraph: Edit additional information about the client
+  - text: Client source Walk-In
+  - combobox "Client source":
+    - option "Walk-In" [selected]
+  - paragraph:
+    - text: Choose how this client found your business.
+    - button "Learn more"
+  - text: Referred by
+  - button "Referred by":
+    - text: Select a client
+    - button "Add"
+  - paragraph:
+    - text: Choose who referred this client to your business.
+    - link "Learn more":
+      - /url: https://www.fresha.com/help-center/knowledge-base/clients/603-add-client-referrals-manually
+  - text: Preferred language
+  - textbox "Preferred language":
+    - /placeholder: Select language
+  - button "Add"
+  - paragraph:
+    - text: Set the language of automated client notifications.
+    - link "Learn more":
+      - /url: https://www.fresha.com/help-center/knowledge-base/marketing/101299-automated-messages-overview
+  - text: Occupation 0/255
+  - textbox "Occupation 0/255":
+    - /placeholder: Enter client job information
+  - text: Country
+  - button "Select country Country": Select country
+  - text: Additional email
+  - textbox "Additional email":
+    - /placeholder: example+1@domain.com
+  - text: Additional phone
+  - button "+65"
+  - textbox "Country code":
+    - /placeholder: e.g. ‎+1 234 567 8901
+  - text: Tags
+  - textbox "Select or create a tag"
+  - paragraph:
+    - text: Add tags to group clients and filter them across Fresha. Manage tags in
+    - button "client settings"
+    - text: .
+  - list:
+    - listitem:
+      - text: Personal
+      - list:
+        - listitem:
+          - button
+          - paragraph: Profile
+        - listitem:
+          - button
+          - paragraph: Addresses
+        - listitem:
+          - button
+          - paragraph: Emergency contacts
+        - separator
+        - listitem:
+          - button
+          - paragraph: Settings

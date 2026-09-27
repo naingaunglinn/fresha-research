@@ -1,0 +1,123 @@
+URL: https://partners.fresha.com/calendar/drawer/new-appointment/?appt_startDate=2026-09-27&appt_employeeId=&appt_roomId=&appt_locationId=3210819&appt_customerId=&appt_groupId=&appt_startTime=&appt_flow=pickFromCalendar&date=2026-09-27&view=day&location_id=3210819&calendar_selected_resources=e-working
+- dialog:
+  - button "Close Drawer"
+  - button "Minimize Drawer"
+  - button "Focus appointment"
+  - text: Z
+  - paragraph: ZZTest Client A
+  - paragraph:
+    - button "zztest.clienta@example.com"
+  - button "Actions"
+  - button "View profile"
+  - separator
+  - paragraph:
+    - link "Add pronouns":
+      - /url: /clients/list/299746603/edit?focus=pronoun
+  - paragraph:
+    - link "Add date of birth":
+      - /url: /clients/list/299746603/edit?focus=birthday
+  - paragraph: Created Sep 27, 2026
+  - paragraph: Select a time
+  - list:
+    - listitem:
+      - button "Services"
+    - listitem:
+      - button "Time"
+  - heading "Select a time" [level=1]
+  - button "Any team member":
+    - paragraph: Any team member
+  - button "2026-09-27"
+  - button "Go to earlier date" [disabled]
+  - button "Go to later date"
+  - text: September
+  - button "27 Sun":
+    - paragraph: 27 Sun
+  - button "28 Mon":
+    - paragraph: 28 Mon
+  - button "29 Tue":
+    - paragraph: 29 Tue
+  - button "30 Wed":
+    - paragraph: 30 Wed
+  - text: October
+  - button "1 Thu":
+    - paragraph: 1 Thu
+  - button "2 Fri":
+    - paragraph: 2 Fri
+  - button "3 Sat":
+    - paragraph: 3 Sat
+  - button "4 Sun":
+    - paragraph: 4 Sun
+  - button "5 Mon":
+    - paragraph: 5 Mon
+  - button "6 Tue":
+    - paragraph: 6 Tue
+  - button "7 Wed":
+    - paragraph: 7 Wed
+  - button "8 Thu":
+    - paragraph: 8 Thu
+  - button "9 Fri":
+    - paragraph: 9 Fri
+  - button "10 Sat":
+    - paragraph: 10 Sat
+  - button "11 Sun":
+    - paragraph: 11 Sun
+  - button "12 Mon":
+    - paragraph: 12 Mon
+  - button "13 Tue":
+    - paragraph: 13 Tue
+  - button "14 Wed":
+    - paragraph: 14 Wed
+  - button "15 Thu":
+    - paragraph: 15 Thu
+  - button "16 Fri":
+    - paragraph: 16 Fri
+  - button "17 Sat":
+    - paragraph: 17 Sat
+  - button "18 Sun":
+    - paragraph: 18 Sun
+  - button "19 Mon":
+    - paragraph: 19 Mon
+  - button "20 Tue":
+    - paragraph: 20 Tue
+  - button "21 Wed":
+    - paragraph: 21 Wed
+  - button "22 Thu":
+    - paragraph: 22 Thu
+  - button "23 Fri":
+    - paragraph: 23 Fri
+  - button "24 Sat":
+    - paragraph: 24 Sat
+  - button "25 Sun":
+    - paragraph: 25 Sun
+  - button "26 Mon":
+    - paragraph: 26 Mon
+  - button "27 Tue":
+    - paragraph: 27 Tue
+  - button "28 Wed":
+    - paragraph: 28 Wed
+  - button "29 Thu":
+    - paragraph: 29 Thu
+  - button "30 Fri":
+    - paragraph: 30 Fri
+  - button "31 Sat":
+    - paragraph: 31 Sat
+  - text: November
+  - button "1 Sun":
+    - paragraph: 1 Sun
+  - button "2 Mon":
+    - paragraph: 2 Mon
+  - button "3 Tue":
+    - paragraph: 3 Tue
+  - paragraph: Available times
+  - button "Pick from calendar"
+  - paragraph: Fully booked on this date
+  - paragraph: Available from Mon 28 Sep
+  - button "Next available date"
+  - button "Join the waitlist"
+  - button "Collapse"
+  - paragraph: Total
+  - paragraph: SGD 40
+  - button "Toggle":
+    - paragraph: To pay
+    - paragraph: SGD 40
+  - button "Continue" [disabled]

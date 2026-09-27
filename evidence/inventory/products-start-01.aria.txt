@@ -1,0 +1,92 @@
+URL: https://partners.fresha.com/catalogue/products/product-add
+- dialog:
+  - button "Close"
+  - paragraph: Add new product
+  - button "Save"
+  - paragraph: Add new product
+  - paragraph: Basic info
+  - text: Product name
+  - textbox "Product name"
+  - text: Product barcode (Optional)
+  - textbox "Product barcode (Optional)":
+    - /placeholder: UPC, EAN, GTIN
+  - text: Product brand
+  - button "Select a brand"
+  - text: Measure Milliliters (ml)
+  - combobox "Measure":
+    - option "Milliliters (ml)" [selected]
+    - option "Liters (l)"
+    - option "Fluid ounces (Fl. oz.)"
+    - option "Grams (g)"
+    - option "Kilograms (kg)"
+    - option "Gallons (gal)"
+    - option "Ounces (oz)"
+    - option "Pounds (lb)"
+    - option "Centimeters (cm)"
+    - option "Feet (ft)"
+    - option "Inches (in)"
+    - option "A whole product"
+  - text: Amount ml
+  - spinbutton "0.00"
+  - text: Short description 0/100
+  - textbox "Short description 0/100"
+  - text: Product description 0/1000
+  - textbox "Product description 0/1000"
+  - text: Product category
+  - button "Select a category"
+  - paragraph: Pricing
+  - text: Supply price SGD
+  - spinbutton "0.00"
+  - paragraph: Retail sales
+  - paragraph: Allow sales of this product at checkout.
+  - text: Enable retail sales Retail price SGD
+  - spinbutton "0.00"
+  - text: Markup %
+  - spinbutton "0.00"
+  - text: Tax (Included in prices) Default setting
+  - paragraph:
+    - button "Edit"
+  - paragraph: Team member commission
+  - paragraph: Calculate team member commission when the product is sold.
+  - text: Enable team member commission
+  - paragraph: Inventory
+  - paragraph: Manage stock levels of this product through Fresha.
+  - text: SKU (Stock Keeping Unit)
+  - textbox "SKU (Stock Keeping Unit)"
+  - button "Generate SKU automatically"
+  - button "Add another SKU code"
+  - text: Supplier
+  - button "Select a supplier"
+  - paragraph: Stock quantity
+  - text: Track stock quantity
+  - paragraph: Branch B
+  - paragraph: Orchard Boulevard, Singapore (Central Area)
+  - text: Current stock quantity
+  - spinbutton "0"
+  - paragraph: Baber Shop
+  - paragraph: Thukha Dagon Housing, South Dagon, No-203, Building-(A-3), Chanthar Street, Yangon (South Dagon)
+  - text: Current stock quantity
+  - spinbutton "0"
+  - paragraph: Low stock and reordering
+  - paragraph:
+    - text: Fresha will automatically notify you and pre-fill the reorder quantity set for future stock orders.
+    - link "Learn more":
+      - /url: https://www.fresha.com/help-center/knowledge-base/inventory/156-set-up-stock-quantity-tracking
+  - paragraph: Branch B
+  - paragraph: Orchard Boulevard, Singapore (Central Area)
+  - text: Low stock level
+  - spinbutton "0"
+  - text: The level to get notified to reorder Reorder quantity
+  - spinbutton "0"
+  - text: The default amount to order Receive low stock notifications.
+  - paragraph: Baber Shop
+  - paragraph: Thukha Dagon Housing, South Dagon, No-203, Building-(A-3), Chanthar Street, Yangon (South Dagon)
+  - text: Low stock level
+  - spinbutton "0"
+  - text: The level to get notified to reorder Reorder quantity
+  - spinbutton "0"
+  - text: The default amount to order Receive low stock notifications.
+  - paragraph: Product photos
+  - paragraph: Drag and drop a photo to change the order.
+  - paragraph: Add a photo
+  - button "Add a photo"

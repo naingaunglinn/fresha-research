@@ -1,0 +1,110 @@
+URL: https://partners.fresha.com/catalogue/services
+- link "Fresha":
+  - /url: /calendar
+  - img "Fresha"
+- button "Continue setup":
+  - paragraph: Continue setup
+- button "Search"
+- button "Performance insights"
+- button "Notifications"
+- link "Fresha Connect":
+  - /url: /connect
+- link "Wallet":
+  - /url: /catalogue/services/drawer/wallet/all/accounts/
+  - text: "1"
+- button "Open user menu": NL
+- link:
+  - /url: /dashboard
+- link:
+  - /url: /calendar
+- button
+- button
+- button
+- button
+- button
+- button
+- link:
+  - /url: /reports
+- link:
+  - /url: /add-ons
+- link:
+  - /url: /setup
+- button
+- button "Collapse Navigation Menu"
+- paragraph: Catalog
+- link "Service menu":
+  - /url: /catalogue/services
+  - paragraph: Service menu
+- link "Packages":
+  - /url: /catalogue/packages
+  - paragraph: Packages
+- link "Memberships":
+  - /url: /catalogue/memberships
+  - paragraph: Memberships
+- link "Products":
+  - /url: /catalogue/products
+  - paragraph: Products
+- separator
+- paragraph: Inventory
+- link "Stocktakes":
+  - /url: /catalogue/stocktakes
+  - paragraph: Stocktakes
+- link "Stock orders":
+  - /url: /catalogue/orders
+  - paragraph: Stock orders
+- link "Suppliers":
+  - /url: /catalogue/suppliers
+  - paragraph: Suppliers
+- paragraph: Service menu
+- paragraph:
+  - text: View and manage the services offered by your business.
+  - link "Learn more":
+    - /url: https://www.fresha.com/help-center/knowledge-base/catalog
+- button "Options"
+- button "Add"
+- textbox:
+  - /placeholder: Search service name
+- button "All locations"
+- button "Filters"
+- button "Manage order"
+- list:
+  - listitem:
+    - text: Categories
+    - list:
+      - listitem:
+        - button
+        - text: All categories 4
+      - listitem:
+        - button
+        - text: Hair & styling 4
+      - listitem:
+        - button
+        - text: Add category
+- button "Hair & styling Actions":
+  - paragraph: Hair & styling
+  - button "Actions"
+- button "Haircut 45 min SGD 40 More":
+  - button "Haircut"
+  - paragraph: Haircut
+  - paragraph: 45 min
+  - text: SGD 40
+  - button "More"
+- button "Hair Color 1 hr, 15 min SGD 57 More":
+  - button "Hair Color"
+  - paragraph: Hair Color
+  - paragraph: 1 hr, 15 min
+  - text: SGD 57
+  - button "More"
+- button "Blow Dry 35 min SGD 35 More":
+  - button "Blow Dry"
+  - paragraph: Blow Dry
+  - paragraph: 35 min
+  - text: SGD 35
+  - button "More"
+- button "Balayage 2 hr, 30 min SGD 150 More":
+  - button "Balayage"
+  - paragraph: Balayage
+  - paragraph: 2 hr, 30 min
+  - text: SGD 150
+  - button "More"
+- status

@@ -1,0 +1,17 @@
+URL: https://partners.fresha.com/sales/appointments-list/drawer/view-appointment/1314234131/cancel-appointment/1314234131
+- dialog "Are you sure you want to cancel?":
+  - text: Are you sure you want to cancel?
+  - button "Close"
+  - heading "Are you sure you want to cancel?" [level=1]
+  - paragraph: Cancellation details
+  - paragraph: Appointment total
+  - paragraph: SGD 40
+  - separator
+  - paragraph: No fee will be charged
+  - button "Cancel appointment"
+  - text: No policy was applied to this appointment
+  - paragraph: Send a cancellation notification
+  - paragraph: Send a message informing the client their appointment has been updated
+  - checkbox "Send a cancellation notification" [checked]
+  - text: Cancellation reason
+  - button "No reason provided Cancellation reason": No reason provided

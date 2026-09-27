@@ -1,0 +1,58 @@
+URL: https://partners.fresha.com/setup/team/permissions/manage-permissions/8139867?area=workspace
+- dialog "Edit Medium permission role":
+  - text: Edit Medium permission role
+  - button "Close"
+  - button "Save"
+  - heading "Edit Medium permission role" [level=1]
+  - text: Select the areas of your workspace that team members in this role can access and manage Search permissions
+  - textbox "Search permissions":
+    - /placeholder: Search permissions...
+  - paragraph: Permission area
+  - list:
+    - listitem:
+      - list:
+        - listitem:
+          - button
+          - text: Calendar
+        - listitem:
+          - button
+          - text: Sales
+        - listitem:
+          - button
+          - text: Clients
+        - listitem:
+          - button
+          - text: Catalog
+        - listitem:
+          - button
+          - text: Online profile
+        - listitem:
+          - button
+          - text: Marketing
+        - listitem:
+          - button
+          - text: Team
+        - listitem:
+          - button
+          - text: Reports
+        - listitem:
+          - button
+          - text: Payments and wallet
+        - listitem:
+          - button
+          - text: Workspace
+  - paragraph: Workspace
+  - text: Active
+  - paragraph: Allow access to business setup and other workspace settings.
+  - paragraph: Active
+  - checkbox "Active" [checked]
+  - paragraph: Can access business setup settings
+  - checkbox "Can access business setup settings"
+  - paragraph: Other
+  - paragraph: Can access the home page
+  - checkbox "Can access the home page"
+  - paragraph: Can view and access all locations
+  - paragraph: Team member can perform actions for all locations, even those they are not assigned to
+  - checkbox "Can view and access all locations" [checked]
+  - paragraph: Can receive tips notifications
+  - checkbox "Can receive tips notifications" [checked]

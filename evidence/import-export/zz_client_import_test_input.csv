@@ -1,0 +1,6 @@
+First name,Last name,Email,Mobile phone,Gender,Birthday,Staff alert,Tags
+ZZImport,One,zzimport.one@example.com,,Male,1990-05-01,Prefers scissors only,TEST|import
+ZZImport,Two (same email as One),zzimport.one@example.com,,M,01/06/1991,,TEST
+ZZImport,Three (email of existing client),zztest.clienta@example.com,,Female,,,TEST
+,NoFirstName,zzimport.four@example.com,,,,,TEST
+ZZImport,Five (bad values),zzimport.five@example.com,,X,31/31/2000,,TEST

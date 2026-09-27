@@ -1,0 +1,110 @@
+URL: https://partners.fresha.com/setup/team/permissions/manage-permissions/8139867?area=clients
+- dialog "Edit Medium permission role":
+  - text: Edit Medium permission role
+  - button "Close"
+  - button "Save"
+  - heading "Edit Medium permission role" [level=1]
+  - text: Select the areas of your workspace that team members in this role can access and manage Search permissions
+  - textbox "Search permissions":
+    - /placeholder: Search permissions...
+  - paragraph: Permission area
+  - list:
+    - listitem:
+      - list:
+        - listitem:
+          - button
+          - text: Calendar
+        - listitem:
+          - button
+          - text: Sales
+        - listitem:
+          - button
+          - text: Clients
+        - listitem:
+          - button
+          - text: Catalog
+        - listitem:
+          - button
+          - text: Online profile
+        - listitem:
+          - button
+          - text: Marketing
+        - listitem:
+          - button
+          - text: Team
+        - listitem:
+          - button
+          - text: Reports
+        - listitem:
+          - button
+          - text: Payments and wallet
+        - listitem:
+          - button
+          - text: Workspace
+  - paragraph: Clients
+  - text: Active
+  - paragraph: Allow access to client profiles, the client list and decide what actions the team member can perform.
+  - paragraph:
+    - link "Learn more":
+      - /url: https://www.fresha.com/help-center/knowledge-base/team/100687-create-permission-roles
+  - paragraph: Active
+  - checkbox "Active" [checked]
+  - paragraph: Client profile details
+  - paragraph: Can view client profile
+  - checkbox "Can view client profile" [checked] [disabled]
+  - paragraph: Can view client's details
+  - checkbox "Can view client's details" [checked]
+  - paragraph: Can view client's full name
+  - checkbox "Can view client's full name" [checked]
+  - paragraph: Can view client's email and phone number
+  - checkbox "Can view client's email and phone number" [checked]
+  - paragraph: Can add and remove tags from clients
+  - checkbox "Can add and remove tags from clients" [checked]
+  - paragraph: Can view client responses in consultation forms
+  - checkbox "Can view client responses in consultation forms"
+  - paragraph: Can complete consultation forms on behalf of clients
+  - checkbox "Can complete consultation forms on behalf of clients"
+  - paragraph: Can create and edit consultation forms
+  - checkbox "Can create and edit consultation forms" [checked]
+  - paragraph: Can manually add client rewards to a client
+  - checkbox "Can manually add client rewards to a client"
+  - paragraph: Client notes
+  - paragraph: Can view client notes at assigned locations
+  - checkbox "Can view client notes at assigned locations" [checked]
+  - paragraph: Can view client notes at all locations
+  - checkbox "Can view client notes at all locations" [checked]
+  - paragraph: Can create and edit client notes
+  - checkbox "Can create and edit client notes" [checked]
+  - paragraph: Can edit other team members' notes
+  - checkbox "Can edit other team members' notes"
+  - paragraph: Clients list
+  - paragraph: Can download client details
+  - checkbox "Can download client details" [checked]
+  - paragraph: Can create and manage client segments
+  - checkbox "Can create and manage client segments"
+  - paragraph: Online reputation
+  - paragraph: Can view Online reputation section
+  - checkbox "Can view Online reputation section" [checked]
+  - paragraph: Can manage Online reputation settings for the workspace
+  - checkbox "Can manage Online reputation settings for the workspace"
+  - paragraph: Can reply to reviews
+  - checkbox "Can reply to reviews"
+  - paragraph: Client loyalty
+  - paragraph: Can view loyalty settings for the workspace
+  - checkbox "Can view loyalty settings for the workspace" [checked]
+  - paragraph: Can manage loyalty settings for the workspace
+  - checkbox "Can manage loyalty settings for the workspace"
+  - paragraph: Can manage client loyalty rewards
+  - checkbox "Can manage client loyalty rewards"
+  - paragraph: Client messaging
+  - paragraph: Can view client messages
+  - checkbox "Can view client messages" [checked]
+  - paragraph: Can send messages to clients
+  - checkbox "Can send messages to clients" [checked]
+  - paragraph: Client settings
+  - paragraph: Can manage client sources
+  - paragraph: Client sources are labels that track how clients found your business (e.g. Walk-in, Instagram etc.)
+  - checkbox "Can manage client sources"
+  - paragraph: Can manage client tags
+  - paragraph: Client tags are custom labels you can create and assign to clients to organize and filter them (e.g. VIP, Regular etc.)
+  - checkbox "Can manage client tags" [checked]

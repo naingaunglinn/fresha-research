@@ -1,0 +1,45 @@
+URL: https://partners.fresha.com/setup/location/new/address
+- link "Fresha":
+  - /url: /calendar
+  - img "Fresha"
+- button "Continue setup":
+  - paragraph: Continue setup
+- button "Search"
+- button "Performance insights"
+- button "Notifications"
+- link "Fresha Connect":
+  - /url: /connect
+- link "Wallet":
+  - /url: /setup/location/new/address/drawer/wallet/all/accounts/
+  - text: "1"
+- button "Open user menu": NL
+- link:
+  - /url: /dashboard
+- link:
+  - /url: /calendar
+- button
+- button
+- button
+- button
+- button
+- button
+- link:
+  - /url: /reports
+- link:
+  - /url: /add-ons
+- link:
+  - /url: /setup
+- button
+- progressbar "Step 3 of 4, 75% complete":
+  - paragraph: Step 3 of 4, 75% complete
+- button "Go back"
+- text: Add your location
+- button "Close"
+- button "Continue"
+- text: Add new location
+- heading "Add your location" [level=1]
+- paragraph: Business location
+- paragraph: I don't have a business address (mobile and online services only)
+- checkbox "I don't have a business address (mobile and online services only)"
+- text: Where is your business located?
+- combobox "Where is your business located?"

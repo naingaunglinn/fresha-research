@@ -1,0 +1,132 @@
+URL: https://partners.fresha.com/reports/table/sales-summary
+- link "Fresha":
+  - /url: /calendar
+  - img "Fresha"
+- button "Continue setup":
+  - paragraph: Continue setup
+- button "Search"
+- button "Performance insights"
+- button "Notifications"
+- link "Fresha Connect":
+  - /url: /connect
+- link "Wallet":
+  - /url: /reports/table/sales-summary/drawer/wallet/all/accounts/
+  - text: "1"
+- button "Open user menu": NL
+- link:
+  - /url: /dashboard
+- link:
+  - /url: /calendar
+- button
+- button
+- button
+- button
+- button
+- button
+- link:
+  - /url: /reports
+- link:
+  - /url: /add-ons
+- link:
+  - /url: /setup
+- button
+- button "Back"
+- navigation:
+  - list:
+    - listitem:
+      - link "All reports •":
+        - /url: /reports
+    - listitem:
+      - link "Sales •":
+        - /url: /reports/report-group/1?category=salesPerformance
+    - listitem: Sales summary
+- paragraph: Sales summary
+- button "Add to favorites"
+- paragraph: Sales quantities and value, excluding tips and gift card sales. Data from 26 mins ago
+- button "Options"
+- button "Type"
+- button "Month to date"
+- button "Filters"
+- button "Advanced filters"
+- button "Customize"
+- region:
+  - table:
+    - rowgroup:
+      - row "Type Sales qty Items sold Gross sales Total discounts Refunds Net sales Taxes Total sales":
+        - columnheader "Type":
+          - button "Type"
+        - button "Sales qty":
+          - button "Sales qty"
+        - button "Items sold":
+          - button "Items sold"
+        - button "Gross sales":
+          - button "Gross sales"
+        - button "Total discounts":
+          - button "Total discounts"
+        - button "Refunds":
+          - button "Refunds"
+        - button "Net sales":
+          - button "Net sales"
+        - button "Taxes":
+          - button "Taxes"
+        - button "Total sales":
+          - button "Total sales"
+  - table:
+    - rowgroup:
+      - row "Total 2 0 SGD 40.00 SGD 0.00 - SGD 40.00 SGD 0.00 SGD 0.00 SGD 0.00":
+        - cell "Total":
+          - paragraph: Total
+        - cell "2":
+          - paragraph:
+            - paragraph: "2"
+        - cell "0":
+          - paragraph:
+            - paragraph: "0"
+        - cell "SGD 40.00":
+          - paragraph:
+            - paragraph: SGD 40.00
+        - cell "SGD 0.00":
+          - paragraph:
+            - paragraph: SGD 0.00
+        - cell "- SGD 40.00":
+          - paragraph:
+            - paragraph: "- SGD 40.00"
+        - cell "SGD 0.00":
+          - paragraph:
+            - paragraph: SGD 0.00
+        - cell "SGD 0.00":
+          - paragraph:
+            - paragraph: SGD 0.00
+        - cell "SGD 0.00":
+          - paragraph:
+            - paragraph: SGD 0.00
+      - row "Service 2 0 SGD 40.00 SGD 0.00 - SGD 40.00 SGD 0.00 SGD 0.00 SGD 0.00":
+        - cell "Service":
+          - link "Service":
+            - /url: /reports/table/sales-summary?groupBy=item_name&item_type=service&shortcut=month_to_date
+        - cell "2":
+          - paragraph:
+            - paragraph: "2"
+        - cell "0":
+          - paragraph:
+            - paragraph: "0"
+        - cell "SGD 40.00":
+          - paragraph:
+            - paragraph: SGD 40.00
+        - cell "SGD 0.00":
+          - paragraph:
+            - paragraph: SGD 0.00
+        - cell "- SGD 40.00":
+          - paragraph:
+            - paragraph: "- SGD 40.00"
+        - cell "SGD 0.00":
+          - paragraph:
+            - paragraph: SGD 0.00
+        - cell "SGD 0.00":
+          - paragraph:
+            - paragraph: SGD 0.00
+        - cell "SGD 0.00":
+          - paragraph:
+            - paragraph: SGD 0.00
+- status
+- text: Viewing results 1 to 1 of 1

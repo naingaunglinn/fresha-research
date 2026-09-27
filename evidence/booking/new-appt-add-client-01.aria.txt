@@ -1,0 +1,40 @@
+URL: https://partners.fresha.com/calendar/drawer/new-appointment/?appt_startDate=2026-09-27&appt_employeeId=&appt_roomId=&appt_locationId=3210819&appt_customerId=&appt_groupId=&appt_startTime=&appt_flow=pickFromCalendar&date=2026-09-27&view=day&location_id=3210819&calendar_selected_resources=e-working
+- dialog:
+  - button "Close Drawer"
+  - button "Minimize Drawer"
+  - button "Focus appointment"
+  - paragraph: Select a client
+  - textbox "Search client or leave empty for walk-in"
+  - list:
+    - paragraph: Add new client
+    - paragraph: Walk-In
+    - text: J
+    - paragraph: Jack Doe
+    - paragraph: jack@example.com
+    - text: J
+    - paragraph: Jane Doe
+    - paragraph: jane@example.com
+    - text: J
+    - paragraph: John Doe
+    - paragraph: john@example.com
+  - text: Select a service
+  - heading "Select a service" [level=1]
+  - textbox "Search by service name"
+  - paragraph: Hair & styling
+  - text: "4"
+  - button "Haircut"
+  - paragraph: Haircut
+  - paragraph: 45min
+  - text: SGD 40
+  - button "Hair Color"
+  - paragraph: Hair Color
+  - paragraph: 1h 15min
+  - text: SGD 57
+  - button "Blow Dry"
+  - paragraph: Blow Dry
+  - paragraph: 35min
+  - text: SGD 35
+  - button "Balayage"
+  - paragraph: Balayage
+  - paragraph: 2h 30min
+  - text: SGD 150

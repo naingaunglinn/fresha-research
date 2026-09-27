@@ -1,0 +1,65 @@
+URL: https://partners.fresha.com/team/team-members/add/?section=settings
+- dialog "Add team member":
+  - text: Add team member
+  - button "Close"
+  - button "Add"
+  - heading "Add team member" [level=1]
+  - heading "Calendar bookings" [level=3]
+  - text: "On"
+  - paragraph:
+    - text: Allow this team member to appear on the calendar and receive appointments.
+    - link "Learn more":
+      - /url: https://www.fresha.com/help-center/knowledge-base/team/102281-update-team-member-account-details#make-team-members-bookable-for-appointments
+    - text: .
+  - paragraph: Enable/Disable calendar bookings
+  - checkbox "Enable/Disable calendar bookings" [checked]
+  - button "Advanced options"
+  - paragraph: Exclude team member from online bookings
+  - paragraph: Prevent this team member from appearing in online booking channels. Clients won't be able to book appointments with them online.
+  - checkbox "Exclude team member from online bookings"
+  - paragraph: Team member excluded from auto assignment
+  - paragraph: These team members will still be bookable online but will never be automatically selected when a client selects "Any professional"
+  - checkbox "Team member excluded from auto assignment"
+  - separator
+  - paragraph: Permission role
+  - paragraph: Choose the access level this team member has to the workspace
+  - text: Permission role
+  - button "Basic Permission role": Basic
+  - paragraph: Partial access to Calendar, Sales, and Reports.
+  - list:
+    - listitem:
+      - text: Personal
+      - list:
+        - listitem:
+          - button
+          - text: Profile
+        - listitem:
+          - button
+          - text: Addresses
+        - listitem:
+          - button
+          - text: Emergency contacts
+    - listitem:
+      - text: Workspace
+      - list:
+        - listitem:
+          - button
+          - text: Services 2
+        - listitem:
+          - button
+          - text: Locations 2
+        - listitem:
+          - button
+          - text: Settings
+    - listitem:
+      - text: Pay
+      - list:
+        - listitem:
+          - button
+          - text: Wages and timesheets
+        - listitem:
+          - button
+          - text: Commissions
+        - listitem:
+          - button
+          - text: Pay runs

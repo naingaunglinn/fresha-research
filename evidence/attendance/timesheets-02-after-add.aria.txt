@@ -1,0 +1,87 @@
+URL: https://partners.fresha.com/team/timesheets
+- link "Fresha":
+  - /url: /calendar
+  - img "Fresha"
+- button "Continue setup":
+  - paragraph: Continue setup
+- button "Search"
+- button "Performance insights"
+- button "Notifications"
+- link "Fresha Connect":
+  - /url: /connect
+- link "Wallet":
+  - /url: /team/timesheets/drawer/wallet/all/accounts/
+  - text: "1"
+- button "Open user menu": NL
+- link:
+  - /url: /dashboard
+- link:
+  - /url: /calendar
+- button
+- button
+- button
+- button
+- button
+- button
+- link:
+  - /url: /reports
+- link:
+  - /url: /add-ons
+- link:
+  - /url: /setup
+- button
+- button "Collapse Navigation Menu"
+- paragraph: Team
+- link "Team members":
+  - /url: /team/team-members
+  - paragraph: Team members
+- link "Scheduled shifts":
+  - /url: /team/scheduled-shifts
+  - paragraph: Scheduled shifts
+- link "Timesheets":
+  - /url: /team/timesheets
+  - paragraph: Timesheets
+- link "Pay runs":
+  - /url: /team/payrun/overview
+  - paragraph: Pay runs
+- paragraph: Timesheets
+- paragraph: Manage your team members' timesheets
+- button "Options"
+- button "Add"
+- textbox:
+  - /placeholder: Search
+- button "This week"
+- button "Filters"
+- button "Date (newest first)"
+- region:
+  - table:
+    - rowgroup:
+      - row "Team member Date Clock in/out Breaks Hours worked Status":
+        - columnheader "Team member"
+        - columnheader "Date":
+          - button "Date"
+        - columnheader "Clock in/out":
+          - button "Clock in/out"
+        - columnheader "Breaks":
+          - button "Breaks"
+        - columnheader "Hours worked"
+        - columnheader "Status"
+  - table:
+    - rowgroup:
+      - button "AT Aung Test Barber Branch B Sep 27, 2026 10:00 - 16:00 - 6h Clocked out":
+        - cell "AT Aung Test Barber Branch B":
+          - text: AT
+          - paragraph: Aung Test Barber
+          - heading "Branch B" [level=4]
+        - cell "Sep 27, 2026":
+          - paragraph: Sep 27, 2026
+        - cell "10:00 - 16:00":
+          - paragraph: 10:00 - 16:00
+        - cell "-":
+          - paragraph: "-"
+        - cell "6h":
+          - paragraph: 6h
+        - cell "Clocked out"
+- status:
+  - paragraph: Timesheet added
+  - button "Close Toast"

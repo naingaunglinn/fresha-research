@@ -1,0 +1,21 @@
+URL: https://partners.fresha.com/setup/scheduling/dynamic-assignment/edit-dynamic-reassignment/
+- dialog "Booked appointment reassignment":
+  - text: Booked appointment reassignment
+  - button "Close"
+  - button "Save"
+  - heading "Booked appointment reassignment" [level=1]
+  - paragraph:
+    - text: Automatically move eligible appointments between team members to create more availability for clients who request a specific person.
+    - link "Learn more":
+      - /url: https://www.fresha.com/help-center/knowledge-base/calendar/101735-set-up-dynamic-reassignment-for-appointments
+  - paragraph: Maximize availability
+  - paragraph: Accommodate new appointments for clients who select a specific person
+  - group "Reassignable appointment types":
+    - paragraph: Reassignable appointment types
+    - paragraph: Appointments booked online can be reassigned
+    - checkbox "Appointments booked online can be reassigned" [checked]
+    - paragraph: Appointments booked by your team can be reassigned
+    - checkbox "Appointments booked by your team can be reassigned"
+  - text: Reassignment cut off
+  - button "15 minutes before appointment start time Reassignment cut off": 15 minutes before appointment start time
+  - paragraph: Appointments cannot be automatically reassigned within this period ahead of their scheduled start

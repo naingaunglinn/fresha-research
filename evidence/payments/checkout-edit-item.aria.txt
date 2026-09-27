@@ -1,0 +1,20 @@
+URL: https://partners.fresha.com/calendar/drawer/new-sale/tips/edit-order-item/1620758622/SERVICE_PRICING_LEVEL?date=2026-09-29&view=day&location_id=3210802&calendar_selected_resources=e-working&checkout-order-id=1078208179
+- dialog "Edit Haircut":
+  - paragraph: Edit Haircut
+  - button "Close modal"
+  - text: Price SGD
+  - spinbutton "Price": "40.00"
+  - text: Quantity
+  - spinbutton "Quantity": "1"
+  - button "Decrease value"
+  - button "Increase value"
+  - text: Discounts
+  - button "Discounts": None available
+  - text: Team member Aung Test Barber
+  - combobox "Team member":
+    - option "Naing Aung Linn"
+    - option "Wendy Smith (Demo)"
+    - option "Aung Test Barber" [selected]
+  - paragraph: Item total
+  - text: SGD 40
+  - button "Apply"

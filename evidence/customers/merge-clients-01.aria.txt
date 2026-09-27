@@ -1,0 +1,36 @@
+URL: https://partners.fresha.com/clients/list/merge/all
+- button "Go back"
+- button "Cancel"
+- heading "Merge duplicates" [level=1]
+- text: 2 duplicate clients found Merging combines appointments, sales and profile info of duplicated clients into one client. This action cannot be undone.
+- region:
+  - table:
+    - rowgroup:
+      - row "Select all Select all Client name Mobile number Email":
+        - columnheader "Select all Select all":
+          - paragraph: Select all
+          - checkbox "Select all" [checked]
+        - columnheader "Client name"
+        - columnheader "Mobile number"
+        - columnheader "Email"
+  - paragraph: Select all
+  - checkbox "Select all" [checked]
+  - paragraph: 1 selected
+  - button "Merge selected"
+  - table:
+    - rowgroup:
+      - button "Select merge group Select merge group Z ZZTest Duplicate Email Z ZZTest Client A — — zztest.clienta@example.com zztest.clienta@example.com":
+        - cell "Select merge group Select merge group":
+          - paragraph: Select merge group
+          - checkbox "Select merge group" [checked]
+        - cell "Z ZZTest Duplicate Email Z ZZTest Client A":
+          - text: Z
+          - paragraph: ZZTest Duplicate Email
+          - text: Z
+          - paragraph: ZZTest Client A
+        - cell "— —":
+          - paragraph: —
+          - paragraph: —
+        - cell "zztest.clienta@example.com zztest.clienta@example.com":
+          - paragraph: zztest.clienta@example.com
+          - paragraph: zztest.clienta@example.com

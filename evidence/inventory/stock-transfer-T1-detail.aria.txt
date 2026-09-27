@@ -1,0 +1,146 @@
+URL: https://partners.fresha.com/catalogue/orders/drawer/stock-order/1770054?orders-list-page=1&orders-list-id=stock-order-list-filters&orders-list-page-size=10&orders-list-sort-order=desc&orders-list-sort-by=updated_at
+- link "Fresha":
+  - /url: /calendar
+  - img "Fresha"
+- button "Continue setup":
+  - paragraph: Continue setup
+- button "Search"
+- button "Performance insights"
+- button "Notifications"
+- link "Fresha Connect":
+  - /url: /connect
+- link "Wallet":
+  - /url: /catalogue/orders/drawer/wallet/all/accounts/?orders-list-page=1&orders-list-id=stock-order-list-filters&orders-list-page-size=10&orders-list-sort-order=desc&orders-list-sort-by=updated_at
+  - text: "1"
+- button "Open user menu": NL
+- link:
+  - /url: /dashboard
+- link:
+  - /url: /calendar
+- button
+- button
+- button
+- button
+- button
+- button
+- link:
+  - /url: /reports
+- link:
+  - /url: /add-ons
+- link:
+  - /url: /setup
+- button
+- button "Collapse Navigation Menu"
+- paragraph: Catalog
+- link "Service menu":
+  - /url: /catalogue/services
+  - paragraph: Service menu
+- link "Packages":
+  - /url: /catalogue/packages
+  - paragraph: Packages
+- link "Memberships":
+  - /url: /catalogue/memberships
+  - paragraph: Memberships
+- link "Products":
+  - /url: /catalogue/products
+  - paragraph: Products
+- separator
+- paragraph: Inventory
+- link "Stocktakes":
+  - /url: /catalogue/stocktakes
+  - paragraph: Stocktakes
+- link "Stock orders":
+  - /url: /catalogue/orders
+  - paragraph: Stock orders
+- link "Suppliers":
+  - /url: /catalogue/suppliers
+  - paragraph: Suppliers
+- paragraph: Stock orders
+- text: "1"
+- paragraph:
+  - paragraph:
+    - text: Add and manage your stock orders.
+    - link "Learn more":
+      - /url: https://www.fresha.com/help-center/knowledge-base/inventory/160-create-stock-orders
+- button "Options"
+- button "Add"
+- text: Search
+- textbox "Search":
+  - /placeholder: Search product or order
+- button "Filters"
+- button "Updated (newest first)"
+- table:
+  - rowgroup:
+    - 'row "Order # Created Expected Deliver to Deliver from Total cost Status"':
+      - 'columnheader "Order #"':
+        - paragraph: "Order #"
+      - columnheader "Created":
+        - paragraph: Created
+      - columnheader "Expected":
+        - paragraph: Expected
+      - columnheader "Deliver to":
+        - paragraph: Deliver to
+      - columnheader "Deliver from":
+        - paragraph: Deliver from
+      - columnheader "Total cost":
+        - paragraph: Total cost
+      - columnheader "Status":
+        - paragraph: Status
+- table:
+  - rowgroup:
+    - row "T1 Sep 27, 2026 - Branch B Baber Shop SGD 15 Ordered":
+      - cell "T1":
+        - paragraph: T1
+      - cell "Sep 27, 2026"
+      - cell "-"
+      - cell "Branch B"
+      - cell "Baber Shop"
+      - cell "SGD 15":
+        - paragraph: SGD 15
+      - cell "Ordered"
+  - rowgroup:
+    - row "1 of 1":
+      - cell "1 of 1":
+        - paragraph: "1"
+        - paragraph: of 1
+- dialog:
+  - button "Close Drawer"
+  - paragraph: Transfer T1
+  - paragraph: Created Sep 27, 2026
+  - text: Ordered
+  - button "Actions"
+  - separator
+  - list:
+    - listitem:
+      - list:
+        - listitem:
+          - button
+          - paragraph: Transfer details
+        - listitem:
+          - button
+          - paragraph: Activity
+  - heading "Transfer details" [level=1]
+  - paragraph: Summary
+  - link "Edit":
+    - /url: /catalogue/orders/stock-order/transfer/1770054
+  - paragraph: Deliver to
+  - paragraph:
+    - link "Branch B":
+      - /url: /setup/locations/3210819
+  - paragraph: Deliver from
+  - paragraph:
+    - link "Baber Shop":
+      - /url: /setup/locations/3210802
+  - paragraph: Created at
+  - paragraph: Sep 27, 2026, 16:47
+  - paragraph: Total quantity
+  - paragraph: "3"
+  - paragraph: Total cost
+  - paragraph: SGD 15
+  - paragraph: Products
+  - separator
+  - img
+  - paragraph: ZZTest Pomade
+  - paragraph: SGD 15
+  - paragraph: "Price: SGD 5"
+  - paragraph: "Ordered quantity: 3"

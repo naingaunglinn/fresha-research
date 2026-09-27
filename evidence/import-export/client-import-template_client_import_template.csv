@@ -1,0 +1,4 @@
+First name,Last name,Email,Mobile phone,Gender,Birthday,Staff alert,Tags
+John,Doe,johndoe@example.com,+44 755 555 5555,Prefer not to say,31/01/2000,Allergic to hair dye,VIP|returning
+Jane,Doe,janedoe@example.com,+44 766 666 6666,Female,12/05/1989,,
+First name of the client (required),Last name of the client,Email address of the client,"Mobile phone number of the client, Please include country code","Gender of the client, Accepted values: M, F, Male, Female, Non binary, Prefer not to say","Birthday of the client: format YYYY-MM-DD, DD/MM/YYYY or MM/DD/YYYY if your business is in USA, Panama, or the Philippines",This staff alert will appear on the client's profile and appointments,"Tags assigned to the client, separate multiple tags with a pipe character (|), e.g. VIP|returning"

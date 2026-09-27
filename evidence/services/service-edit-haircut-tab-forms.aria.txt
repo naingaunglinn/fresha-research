@@ -1,0 +1,55 @@
+URL: https://partners.fresha.com/catalogue/services/service/edit/25689868?section=forms
+- dialog "Edit service":
+  - text: Edit service
+  - button "Close"
+  - button "Save"
+  - heading "Edit service" [level=1]
+  - list:
+    - listitem:
+      - list:
+        - listitem:
+          - button
+          - text: Basic details
+        - listitem:
+          - button
+          - text: Locations 2
+        - listitem:
+          - button
+          - text: Team members 2
+        - listitem:
+          - button
+          - text: Resources
+        - listitem:
+          - button
+          - text: Service add-ons
+    - listitem:
+      - text: Settings
+      - list:
+        - listitem:
+          - button
+          - text: Online booking
+        - listitem:
+          - button
+          - text: Portfolio images
+        - listitem:
+          - button
+          - text: Forms 1
+        - listitem:
+          - button
+          - text: Commissions
+        - listitem:
+          - button
+          - text: Settings
+  - paragraph: Forms
+  - paragraph:
+    - text: Select the forms that need to be completed for this service and how often they need to be completed.
+    - link "Learn more":
+      - /url: https://www.fresha.com/help-center/knowledge-base/clients/61-create-a-basic-form-template
+  - paragraph: Consultation form name
+  - paragraph: Policy
+  - separator
+  - paragraph: COVID 19
+  - paragraph: Inactive
+  - paragraph: Every time they book an appointment
+  - button "Remove"
+  - button "Add"

@@ -1,0 +1,134 @@
+URL: https://partners.fresha.com/clients/client-import/preview
+- link "Fresha":
+  - /url: /calendar
+  - img "Fresha"
+- button "Continue setup":
+  - paragraph: Continue setup
+- button "Search"
+- button "Performance insights"
+- button "Notifications"
+- link "Fresha Connect":
+  - /url: /connect
+- link "Wallet":
+  - /url: /clients/client-import/preview/drawer/wallet/all/accounts/
+  - text: "1"
+- button "Open user menu": NL
+- link:
+  - /url: /dashboard
+- link:
+  - /url: /calendar
+- button
+- button
+- button
+- button
+- button
+- button
+- link:
+  - /url: /reports
+- link:
+  - /url: /add-ons
+- link:
+  - /url: /setup
+- button
+- button "Collapse Navigation Menu"
+- paragraph: Clients
+- link "Clients list":
+  - /url: /clients/list
+  - paragraph: Clients list
+- link "Client segments":
+  - /url: /clients/segments
+  - paragraph: Client segments
+- separator
+- paragraph: Engage
+- link "Client loyalty":
+  - /url: /clients/loyalty
+  - paragraph: Client loyalty
+- link "Online reputation":
+  - /url: /clients/online-reputation
+  - paragraph: Online reputation
+- progressbar "Customer Import - Step 3 of 4":
+  - paragraph: Customer Import - Step 3 of 4
+- button "Go back"
+- text: Preview client list
+- button "Options"
+- button "Close"
+- button "Start import"
+- text: Import clients
+- heading "Preview client list" [level=1]
+- text: Check if all fields are imported correctly. Errors in a row will result in that row not being imported. Client details will be imported exactly as entered. By choosing to import them, you confirm they have agreed to receive messages (SMS or email) from your business that Fresha may send on your behalf.
+- tablist:
+  - tab "To be imported (0)"
+  - tab "Errors (5)" [selected]
+- tabpanel "Errors (5)":
+  - button "Scroll right"
+  - table:
+    - rowgroup:
+      - row "Error Error Reason First name Last name Email Mobile Number Gender Birthday Staff alert Tags":
+        - columnheader "Error"
+        - columnheader "Error Reason"
+        - columnheader "First name"
+        - columnheader "Last name"
+        - columnheader "Email"
+        - columnheader "Mobile Number"
+        - columnheader "Gender"
+        - columnheader "Birthday"
+        - columnheader "Staff alert"
+        - columnheader "Tags"
+    - rowgroup:
+      - 'row "Data Error First name: Can''t be blank. - NoFirstName zzimport.four@example.com - - - - TEST"':
+        - cell "Data Error"
+        - 'cell "First name: Can''t be blank."'
+        - cell "-"
+        - cell "NoFirstName"
+        - cell "zzimport.four@example.com"
+        - cell "-"
+        - cell "-"
+        - cell "-"
+        - cell "-"
+        - cell "TEST"
+      - 'row "Data Error Birthday: Has invalid format. Gender: Is invalid. ZZImport Five (bad values) zzimport.five@example.com - - - - TEST"':
+        - cell "Data Error"
+        - 'cell "Birthday: Has invalid format. Gender: Is invalid."'
+        - cell "ZZImport"
+        - cell "Five (bad values)"
+        - cell "zzimport.five@example.com"
+        - cell "-"
+        - cell "-"
+        - cell "-"
+        - cell "-"
+        - cell "TEST"
+      - 'row "Duplicated Email: Duplicated row found in file. ZZImport One zzimport.one@example.com - Male May 1, 1990 Prefers scissors only TEST|import"':
+        - cell "Duplicated"
+        - 'cell "Email: Duplicated row found in file."'
+        - cell "ZZImport"
+        - cell "One"
+        - cell "zzimport.one@example.com"
+        - cell "-"
+        - cell "Male"
+        - cell "May 1, 1990"
+        - cell "Prefers scissors only":
+          - paragraph: Prefers scissors only
+        - cell "TEST|import"
+      - 'row "Duplicated Email: Duplicated row found in file. ZZImport Two (same email as One) zzimport.one@example.com - Male June 1, 1991 - TEST"':
+        - cell "Duplicated"
+        - 'cell "Email: Duplicated row found in file."'
+        - cell "ZZImport"
+        - cell "Two (same email as One)"
+        - cell "zzimport.one@example.com"
+        - cell "-"
+        - cell "Male"
+        - cell "June 1, 1991"
+        - cell "-"
+        - cell "TEST"
+      - 'row "Duplicated Email: Duplicated record found in existing customers. ZZImport Three (email of existing client) zztest.clienta@example.com - Female - - TEST"':
+        - cell "Duplicated"
+        - 'cell "Email: Duplicated record found in existing customers."'
+        - cell "ZZImport"
+        - cell "Three (email of existing client)"
+        - cell "zztest.clienta@example.com"
+        - cell "-"
+        - cell "Female"
+        - cell "-"
+        - cell "-"
+        - cell "TEST"
+  - paragraph: "1"

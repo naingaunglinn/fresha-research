@@ -1,0 +1,45 @@
+URL: https://partners.fresha.com/setup/scheduling/dynamic-assignment/new-appointment-assignment/
+- dialog "New appointment assignment":
+  - text: New appointment assignment
+  - button "Close"
+  - button "Save"
+  - heading "New appointment assignment" [level=1]
+  - paragraph:
+    - text: For clients who don't select a specific person, automatically assign appointments to the best available team member based on your business goals, such as filling calendars, balancing workloads, or building experience.
+    - link "Learn more":
+      - /url: https://www.fresha.com/help-center/knowledge-base/calendar/102178-set-up-new-appointment-assignment
+  - radiogroup "Assignment strategy":
+    - paragraph: Assignment strategy
+    - paragraph: Fill open calendars
+    - paragraph: Assign appointments to the team member with the most availability
+    - radio "Fill open calendars" [checked]
+    - radiogroup "Strategy period":
+      - paragraph: Strategy period
+      - paragraph: Most availability on the day booked
+      - radio "Most availability on the day booked" [checked]
+      - paragraph: Most availability over the prior 7 days
+      - radio "Most availability over the prior 7 days"
+      - paragraph: Most availability over the prior 14 days
+      - radio "Most availability over the prior 14 days"
+    - paragraph: Take turns
+    - paragraph: Assign appointments to the team member who has gone longest without an automatic assignment
+    - radio "Take turns"
+    - paragraph: Build ratings and reviews
+    - paragraph: Assign appointments to the team member with fewest client reviews
+    - radio "Build ratings and reviews"
+    - paragraph: Use a custom priority order
+    - paragraph: Assign appointments based on the order of your main team member list, starting from the top
+    - radio "Use a custom priority order"
+  - separator
+  - paragraph: Prioritize last booked team member
+  - paragraph: When possible, assign returning clients to the team member they booked with most recently
+  - checkbox "Prioritize last booked team member"
+  - button "Advanced options"
+  - paragraph: Exclude team member from new appointment assignment
+  - paragraph: Prevent this team member from being selected when a client selects "Any professional". Clients will still be able to book appointments with them online if they choose them.
+  - textbox:
+    - /placeholder: Select team members
+  - paragraph: Allow splitting multi-service appointments across team members
+  - paragraph: Allow splitting multi-service appointments across team members
+  - checkbox "Allow splitting multi-service appointments across team members" [checked]
+  - paragraph: When a client books multiple services without choosing a specific person, different team members can be assigned to each service. This increases availability and helps secure appointments that might not fit into one team member's schedule.

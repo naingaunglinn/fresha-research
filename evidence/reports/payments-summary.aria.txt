@@ -1,0 +1,127 @@
+URL: https://partners.fresha.com/reports/table/payments-summary
+- link "Fresha":
+  - /url: /calendar
+  - img "Fresha"
+- button "Continue setup":
+  - paragraph: Continue setup
+- button "Search"
+- button "Performance insights"
+- button "Notifications"
+- link "Fresha Connect":
+  - /url: /connect
+- link "Wallet":
+  - /url: /reports/table/payments-summary/drawer/wallet/all/accounts/
+  - text: "1"
+- button "Open user menu": NL
+- link:
+  - /url: /dashboard
+- link:
+  - /url: /calendar
+- button
+- button
+- button
+- button
+- button
+- button
+- link:
+  - /url: /reports
+- link:
+  - /url: /add-ons
+- link:
+  - /url: /setup
+- button
+- button "Back"
+- navigation:
+  - list:
+    - listitem:
+      - link "All reports •":
+        - /url: /reports
+    - listitem:
+      - link "Finance •":
+        - /url: /reports/report-group/1?category=finances
+    - listitem: Payments summary
+- paragraph: Payments summary
+- button "Add to favorites"
+- paragraph: Payments split by payment methods. Data from 26 mins ago
+- button "Options"
+- button "Month to date"
+- button "Filters"
+- button "Advanced filters"
+- button "Customize"
+- region:
+  - table:
+    - rowgroup:
+      - row "Payment method No. of payments Payment amount No. of refunds Refunds Net payments":
+        - columnheader "Payment method":
+          - button "Payment method"
+        - button "No. of payments":
+          - button "No. of payments"
+        - button "Payment amount":
+          - button "Payment amount"
+        - button "No. of refunds":
+          - button "No. of refunds"
+        - button "Refunds":
+          - button "Refunds"
+        - button "Net payments":
+          - button "Net payments"
+  - table:
+    - rowgroup:
+      - row "Total 2 SGD 44.00 2 - SGD 40.00 SGD 4.00":
+        - cell "Total":
+          - paragraph:
+            - paragraph: Total
+        - cell "2":
+          - paragraph:
+            - paragraph: "2"
+        - cell "SGD 44.00":
+          - paragraph:
+            - paragraph: SGD 44.00
+        - cell "2":
+          - paragraph:
+            - paragraph: "2"
+        - cell "- SGD 40.00":
+          - paragraph:
+            - paragraph: "- SGD 40.00"
+        - cell "SGD 4.00":
+          - paragraph:
+            - paragraph: SGD 4.00
+      - row "KBZPay 1 SGD 24.00 1 - SGD 20.00 SGD 4.00":
+        - cell "KBZPay":
+          - paragraph:
+            - paragraph: KBZPay
+        - cell "1":
+          - paragraph:
+            - paragraph: "1"
+        - cell "SGD 24.00":
+          - paragraph:
+            - paragraph: SGD 24.00
+        - cell "1":
+          - paragraph:
+            - paragraph: "1"
+        - cell "- SGD 20.00":
+          - paragraph:
+            - paragraph: "- SGD 20.00"
+        - cell "SGD 4.00":
+          - paragraph:
+            - paragraph: SGD 4.00
+      - row "Cash 1 SGD 20.00 1 - SGD 20.00 SGD 0.00":
+        - cell "Cash":
+          - paragraph:
+            - paragraph: Cash
+        - cell "1":
+          - paragraph:
+            - paragraph: "1"
+        - cell "SGD 20.00":
+          - paragraph:
+            - paragraph: SGD 20.00
+        - cell "1":
+          - paragraph:
+            - paragraph: "1"
+        - cell "- SGD 20.00":
+          - paragraph:
+            - paragraph: "- SGD 20.00"
+        - cell "SGD 0.00":
+          - paragraph:
+            - paragraph: SGD 0.00
+- status
+- text: Viewing results 1 to 2 of 2

@@ -1,0 +1,9 @@
+URL: https://partners.fresha.com/calendar/confirm-reschedule-appointment/?date=2026-09-28&view=day&location_id=3210819&calendar_selected_resources=e-working
+- dialog "Update appointment":
+  - paragraph: Update appointment
+  - button "Close modal"
+  - paragraph: Notify ZZTest Client A about reschedule
+  - paragraph: Send a message informing ZZTest Client A their appointment was rescheduled
+  - checkbox "Notify ZZTest Client A about reschedule" [checked]
+  - button "Cancel"
+  - button "Update"

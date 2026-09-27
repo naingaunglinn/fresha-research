@@ -1,0 +1,118 @@
+URL: https://partners.fresha.com/catalogue/stocktakes/1274893/count
+- link "Fresha":
+  - /url: /calendar
+  - img "Fresha"
+- button "Continue setup":
+  - paragraph: Continue setup
+- button "Search"
+- button "Performance insights"
+- button "Notifications"
+- link "Fresha Connect":
+  - /url: /connect
+- link "Wallet":
+  - /url: /catalogue/stocktakes/1274893/count/drawer/wallet/all/accounts/
+  - text: "1"
+- button "Open user menu": NL
+- link:
+  - /url: /dashboard
+- link:
+  - /url: /calendar
+- button
+- button
+- button
+- button
+- button
+- button
+- link:
+  - /url: /reports
+- link:
+  - /url: /add-ons
+- link:
+  - /url: /setup
+- button
+- button "Collapse Navigation Menu"
+- paragraph: Catalog
+- link "Service menu":
+  - /url: /catalogue/services
+  - paragraph: Service menu
+- link "Packages":
+  - /url: /catalogue/packages
+  - paragraph: Packages
+- link "Memberships":
+  - /url: /catalogue/memberships
+  - paragraph: Memberships
+- link "Products":
+  - /url: /catalogue/products
+  - paragraph: Products
+- separator
+- paragraph: Inventory
+- link "Stocktakes":
+  - /url: /catalogue/stocktakes
+  - paragraph: Stocktakes
+- link "Stock orders":
+  - /url: /catalogue/orders
+  - paragraph: Stock orders
+- link "Suppliers":
+  - /url: /catalogue/suppliers
+  - paragraph: Suppliers
+- text: Count products
+- paragraph: Quick-scan counting
+- checkbox "Quick-scan counting"
+- button "Pause"
+- button "Close"
+- button "Review stocktake"
+- text: Search
+- textbox "Search":
+  - /placeholder: Search by name or barcode
+- button "Filters"
+- button "Product name (A-Z)"
+- table:
+  - rowgroup:
+    - row "Select all Select all Product Details Expected Counted":
+      - columnheader "Select all Select all":
+        - paragraph: Select all
+        - checkbox "Select all"
+      - columnheader "Product":
+        - paragraph: Product
+      - columnheader "Details":
+        - paragraph: Details
+      - columnheader "Expected":
+        - paragraph: Expected
+      - columnheader "Counted":
+        - paragraph: Counted
+      - columnheader
+  - rowgroup:
+    - row "Select ZZTest Pomade Select ZZTest Pomade ZZTest Pomade 16 Counted Decrease value Increase value Row actions":
+      - cell "Select ZZTest Pomade Select ZZTest Pomade":
+        - paragraph: Select ZZTest Pomade
+        - checkbox "Select ZZTest Pomade"
+      - cell "ZZTest Pomade":
+        - img
+        - paragraph: ZZTest Pomade
+      - cell
+      - cell "16":
+        - paragraph: "16"
+      - cell "Counted Decrease value Increase value":
+        - text: Counted
+        - spinbutton "Counted"
+        - button "Decrease value" [disabled]
+        - button "Increase value"
+      - cell "Row actions":
+        - button "Row actions"
+- paragraph: ZZTest count Baber Shop
+- paragraph: Started 1 second ago
+- paragraph: Baber Shop
+- paragraph: Thukha Dagon Housing, South Dagon, No-203, Building-(A-3), Chanthar Street, Yangon (South Dagon)
+- paragraph: Summary
+- paragraph: Total products
+- paragraph: "1"
+- paragraph: Counted
+- paragraph: "0"
+- paragraph: Uncounted
+- paragraph: "1"
+- paragraph: Progress
+- paragraph: 0%
+- paragraph: Activity
+- paragraph: Product
+- paragraph: Counted
+- text: Products that you count will appear here to help you keep track.

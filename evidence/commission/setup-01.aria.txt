@@ -1,0 +1,16 @@
+URL: https://partners.fresha.com/team/team-members/edit/5609627/campaign-wizard/new/choose-type?section=commissions
+- dialog:
+  - progressbar:
+    - paragraph
+  - text: Choose a commission type
+  - button "Close"
+  - heading "Choose a commission type" [level=1]
+  - text: Select whether commission is earned at a fixed rate or increases once sales reach certain thresholds.
+  - link "Learn more":
+    - /url: https://www.fresha.com/help-center/knowledge-base/team/98-set-up-commissions-for-team-members
+  - button
+  - paragraph: Fixed rate commission
+  - paragraph: Set a fixed percentage or amount earned
+  - button
+  - paragraph: Tiered commission
+  - paragraph: Set a percentage or amount earned, with higher rates applied once earnings exceed a defined threshold

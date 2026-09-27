@@ -1,0 +1,109 @@
+URL: https://partners.fresha.com/catalogue/stocktakes/1274893/review
+- link "Fresha":
+  - /url: /calendar
+  - img "Fresha"
+- button "Continue setup":
+  - paragraph: Continue setup
+- button "Search"
+- button "Performance insights"
+- button "Notifications"
+- link "Fresha Connect":
+  - /url: /connect
+- link "Wallet":
+  - /url: /catalogue/stocktakes/1274893/review/drawer/wallet/all/accounts/
+  - text: "1"
+- button "Open user menu": NL
+- link:
+  - /url: /dashboard
+- link:
+  - /url: /calendar
+- button
+- button
+- button
+- button
+- button
+- button
+- link:
+  - /url: /reports
+- link:
+  - /url: /add-ons
+- link:
+  - /url: /setup
+- button
+- button "Collapse Navigation Menu"
+- paragraph: Catalog
+- link "Service menu":
+  - /url: /catalogue/services
+  - paragraph: Service menu
+- link "Packages":
+  - /url: /catalogue/packages
+  - paragraph: Packages
+- link "Memberships":
+  - /url: /catalogue/memberships
+  - paragraph: Memberships
+- link "Products":
+  - /url: /catalogue/products
+  - paragraph: Products
+- separator
+- paragraph: Inventory
+- link "Stocktakes":
+  - /url: /catalogue/stocktakes
+  - paragraph: Stocktakes
+- link "Stock orders":
+  - /url: /catalogue/orders
+  - paragraph: Stock orders
+- link "Suppliers":
+  - /url: /catalogue/suppliers
+  - paragraph: Suppliers
+- text: ZZTest count Baber Shop Review stocktake
+- button "Options"
+- button "Close"
+- button "Complete stocktake"
+- text: ZZTest count Baber Shop
+- heading "Review stocktake" [level=1]
+- paragraph: Started 20 seconds ago
+- paragraph: Baber Shop
+- text: Search
+- textbox "Search":
+  - /placeholder: Search by name or barcode
+- button "Product name (A-Z)"
+- button "All": All 1
+- button "Uncounted": Uncounted 0
+- button "Unmatched": Unmatched 1
+- button "Matched": Matched 0
+- button "Excluded": Excluded 0
+- table:
+  - rowgroup:
+    - row "Product Expected Counted Difference Cost":
+      - columnheader "Product":
+        - paragraph: Product
+      - columnheader "Expected":
+        - paragraph: Expected
+      - columnheader "Counted":
+        - paragraph: Counted
+      - columnheader "Difference":
+        - paragraph: Difference
+      - columnheader "Cost":
+        - paragraph: Cost
+      - columnheader
+- table:
+  - rowgroup:
+    - row "ZZTest Pomade 16 15 -1 - SGD 5 Options":
+      - cell "ZZTest Pomade":
+        - paragraph: ZZTest Pomade
+        - button
+      - cell "16":
+        - paragraph: "16"
+      - cell "15":
+        - paragraph: "15"
+      - cell "-1":
+        - paragraph: "-1"
+      - cell "- SGD 5":
+        - paragraph: "- SGD 5"
+      - cell "Options":
+        - button "Options"
+  - rowgroup:
+    - row "1 of 1":
+      - cell "1 of 1":
+        - paragraph: "1"
+        - paragraph: of 1

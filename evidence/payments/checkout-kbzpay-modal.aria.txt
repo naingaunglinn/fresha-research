@@ -1,0 +1,12 @@
+URL: https://partners.fresha.com/calendar/drawer/new-sale/payment-method/split-payment/add-other/6170863?date=2026-09-29&view=day&location_id=3210802&calendar_selected_resources=e-working&checkout-order-id=1078208179
+- dialog "Add KBZPay payment":
+  - button "Go back"
+  - paragraph: Add KBZPay payment
+  - button "Close modal"
+  - paragraph: Amount to pay
+  - paragraph: SGD 24
+  - text: Amount to pay on KBZPay SGD
+  - spinbutton "Enter amount": "24.00"
+  - paragraph: SGD 0 left to be paid
+  - button "Cancel"
+  - button "Add payment"

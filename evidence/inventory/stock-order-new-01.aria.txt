@@ -1,0 +1,75 @@
+URL: https://partners.fresha.com/catalogue/orders
+- link "Fresha":
+  - /url: /calendar
+  - img "Fresha"
+- button "Continue setup":
+  - paragraph: Continue setup
+- button "Search"
+- button "Performance insights"
+- button "Notifications"
+- link "Fresha Connect":
+  - /url: /connect
+- link "Wallet":
+  - /url: /catalogue/orders/drawer/wallet/all/accounts/
+  - text: "1"
+- button "Open user menu": NL
+- link:
+  - /url: /dashboard
+- link:
+  - /url: /calendar
+- button
+- button
+- button
+- button
+- button
+- button
+- link:
+  - /url: /reports
+- link:
+  - /url: /add-ons
+- link:
+  - /url: /setup
+- button
+- button "Collapse Navigation Menu"
+- paragraph: Catalog
+- link "Service menu":
+  - /url: /catalogue/services
+  - paragraph: Service menu
+- link "Packages":
+  - /url: /catalogue/packages
+  - paragraph: Packages
+- link "Memberships":
+  - /url: /catalogue/memberships
+  - paragraph: Memberships
+- link "Products":
+  - /url: /catalogue/products
+  - paragraph: Products
+- separator
+- paragraph: Inventory
+- link "Stocktakes":
+  - /url: /catalogue/stocktakes
+  - paragraph: Stocktakes
+- link "Stock orders":
+  - /url: /catalogue/orders
+  - paragraph: Stock orders
+- link "Suppliers":
+  - /url: /catalogue/suppliers
+  - paragraph: Suppliers
+- paragraph: Stock orders
+- text: "0"
+- paragraph:
+  - paragraph:
+    - text: Add and manage your stock orders.
+    - link "Learn more":
+      - /url: https://www.fresha.com/help-center/knowledge-base/inventory/160-create-stock-orders
+- button "Add" [expanded]
+- img "Products illustration"
+- text: No stock orders yet Click
+- link "here":
+  - /url: /catalogue/orders/stock-order/purchase/new
+- text: to add a stock orders now.
+- menu:
+  - group:
+    - menuitem "Add new order"
+    - menuitem "Add new transfer"
+- button "Dismiss"

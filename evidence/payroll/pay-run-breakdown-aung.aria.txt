@@ -1,0 +1,106 @@
+URL: https://partners.fresha.com/team/payrun/overview/balance-breakdown-modal/5609627/3210802?tabs=overview
+- dialog "Breakdown":
+  - text: Breakdown
+  - button "Options"
+  - button "Close"
+  - heading "Breakdown" [level=1]
+  - text: AT
+  - paragraph: Aung Test Barber
+  - paragraph: Baber Shop
+  - paragraph: Sep 21 – 27, 2026
+  - tablist:
+    - tab "Overview" [selected]
+    - tab "Activity"
+  - tabpanel "Overview":
+    - paragraph: Earnings
+    - paragraph: SGD 20
+    - paragraph: Other
+    - paragraph: SGD 0
+    - paragraph: Paid
+    - paragraph: SGD 0
+    - paragraph: To pay
+    - paragraph: SGD 20
+    - paragraph: Earnings
+    - paragraph: Wages
+    - paragraph: SGD 0
+    - button "Hourly rate SGD 0":
+      - paragraph: Hourly rate
+      - paragraph: SGD 0
+    - button "Regular hours 0 min":
+      - paragraph: Regular hours
+      - paragraph: 0 min
+    - button "Regular hours total SGD 0":
+      - paragraph: Regular hours total
+      - paragraph: SGD 0
+    - button "Overtime hourly rate SGD 0":
+      - paragraph: Overtime hourly rate
+      - paragraph: SGD 0
+    - button "Overtime hours 0 min":
+      - paragraph: Overtime hours
+      - paragraph: 0 min
+    - button "Overtime total SGD 0":
+      - paragraph: Overtime total
+      - paragraph: SGD 0
+    - separator
+    - paragraph: Commissions
+    - paragraph: SGD 16
+    - button "Service SGD 16":
+      - paragraph: Service
+      - paragraph: SGD 16
+    - button "Service add-ons SGD 0":
+      - paragraph: Service add-ons
+      - paragraph: SGD 0
+    - button "Product SGD 0":
+      - paragraph: Product
+      - paragraph: SGD 0
+    - button "Gift Card SGD 0":
+      - paragraph: Gift Card
+      - paragraph: SGD 0
+    - button "Voucher SGD 0":
+      - paragraph: Voucher
+      - paragraph: SGD 0
+    - button "Membership SGD 0":
+      - paragraph: Membership
+      - paragraph: SGD 0
+    - button "Package SGD 0":
+      - paragraph: Package
+      - paragraph: SGD 0
+    - button "No-show SGD 0":
+      - paragraph: No-show
+      - paragraph: SGD 0
+    - button "Cancellation SGD 0":
+      - paragraph: Cancellation
+      - paragraph: SGD 0
+    - separator
+    - paragraph: Tips
+    - paragraph: SGD 4
+    - button "At Checkout SGD 4":
+      - paragraph: At Checkout
+      - paragraph: SGD 4
+    - button "Pay by App SGD 0":
+      - paragraph: Pay by App
+      - paragraph: SGD 0
+    - button "Terminal SGD 0":
+      - paragraph: Terminal
+      - paragraph: SGD 0
+    - button "After Checkout SGD 0":
+      - paragraph: After Checkout
+      - paragraph: SGD 0
+    - separator
+    - paragraph: Earnings total
+    - paragraph: SGD 20
+    - paragraph: Other
+    - paragraph: Other
+    - paragraph: SGD 0
+    - button "Payment processing fees SGD 0":
+      - paragraph: Payment processing fees
+      - paragraph: SGD 0
+    - button "New client fees SGD 0":
+      - paragraph: New client fees
+      - paragraph: SGD 0
+    - separator
+    - paragraph: Other total
+    - paragraph: SGD 0
+    - paragraph: Paid
+    - paragraph
+    - paragraph: No payments made

@@ -1,0 +1,47 @@
+URL: https://partners.fresha.com/user-account/personal-settings
+- link "Fresha":
+  - /url: /calendar
+  - img "Fresha"
+- button "Open user menu": NL
+- list:
+  - listitem:
+    - button
+    - text: Back
+  - listitem:
+    - paragraph: Your account
+    - list:
+      - listitem:
+        - button
+        - text: My profile
+      - listitem:
+        - button
+        - text: Portfolio
+      - listitem:
+        - button
+        - text: Reviews
+      - listitem:
+        - button
+        - text: Pay runs
+      - listitem:
+        - button
+        - text: Workspaces
+      - listitem:
+        - button
+        - text: Personal settings
+- paragraph: Account settings
+- paragraph:
+  - text: Manage settings for your personal area.
+  - link "Learn more.":
+    - /url: https://www.fresha.com/help-center/knowledge-base/personal-account
+- link:
+  - /url: /user-account/personal-settings/personal-info
+- paragraph: Personal info
+- paragraph: Customize your personal details and how we can contact you
+- link:
+  - /url: /user-account/personal-settings/login-security
+- paragraph: Login & security
+- paragraph: Update your password and secure your account
+- link:
+  - /url: /user-account/personal-settings/appearance
+- paragraph: Appearance
+- paragraph: Select the look and feel of your platform

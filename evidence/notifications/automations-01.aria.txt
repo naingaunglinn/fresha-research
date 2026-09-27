@@ -1,0 +1,174 @@
+URL: https://partners.fresha.com/marketing/automated-messages
+- link "Fresha":
+  - /url: /calendar
+  - img "Fresha"
+- button "Continue setup":
+  - paragraph: Continue setup
+- button "Search"
+- button "Performance insights"
+- button "Notifications"
+- link "Fresha Connect":
+  - /url: /connect
+- link "Wallet":
+  - /url: /marketing/automated-messages/drawer/wallet/all/accounts/
+  - text: "1"
+- button "Open user menu": NL
+- link:
+  - /url: /dashboard
+- link:
+  - /url: /calendar
+- button
+- button
+- button
+- button
+- button
+- button
+- link:
+  - /url: /reports
+- link:
+  - /url: /add-ons
+- link:
+  - /url: /setup
+- button
+- button "Collapse Navigation Menu"
+- paragraph: Messaging
+- link "Blast campaigns":
+  - /url: /marketing/blast-campaigns/home
+  - paragraph: Blast campaigns
+- link "Automations":
+  - /url: /marketing/automated-messages
+  - paragraph: Automations
+- link "Messages history":
+  - /url: /marketing/notifications
+  - paragraph: Messages history
+- separator
+- paragraph: Promotion
+- link "Deals":
+  - /url: /marketing/deals
+  - paragraph: Deals
+- link "Smart pricing":
+  - /url: /marketing/peak-pricing
+  - paragraph: Smart pricing
+- separator
+- paragraph: Engage
+- link "Reviews":
+  - /url: /clients/online-reputation?tab=all
+  - paragraph: Reviews
+- paragraph: Automations
+- paragraph:
+  - text: View and manage all automated messages sent to your clients.
+  - link "Learn more":
+    - /url: https://www.fresha.com/help-center/knowledge-base/marketing/101299-automated-messages-overview
+- paragraph: Communication balance
+- paragraph: SGD 0
+- button "Show balance management actions"
+- paragraph: Make sure your messages always send with automatic top-ups
+- paragraph: Prevent your balance from reaching zero, and your messages will always reach your clients.
+- button "Set up now"
+- tablist:
+  - tab "Reminders" [selected]
+  - tab "Appointment updates"
+  - tab "Waitlist updates"
+  - tab "Increase bookings"
+  - tab "Celebrate milestones"
+  - tab "Client messages"
+  - tab "Client loyalty"
+- button "Scroll left" [disabled]
+- button "Scroll right"
+- paragraph: Reminders
+- button
+- heading "3 days upcoming appointment reminder" [level=3]
+- paragraph: Notifies clients reminding them of their upcoming appointment.
+- text: Enabled
+- button
+- heading "24 hours upcoming appointment reminder" [level=3]
+- paragraph: Notifies clients reminding them of their upcoming appointment.
+- text: Enabled
+- button
+- heading "1 hour upcoming appointment reminder" [level=3]
+- paragraph: Notifies clients reminding them of their upcoming appointment.
+- text: Enabled
+- paragraph: Appointment updates
+- button
+- heading "New appointment" [level=3]
+- paragraph: Reach out to clients when their appointment is booked for them.
+- text: Enabled
+- button
+- heading "Rescheduled appointment" [level=3]
+- paragraph: Automatically sends to clients when their appointment start time is changed.
+- text: Enabled
+- button
+- heading "Canceled appointment" [level=3]
+- paragraph: Automatically sends to clients when their appointment is canceled.
+- text: Enabled
+- button
+- heading "Did not show up" [level=3]
+- paragraph: Automatically sends to clients when their appointment is marked as a no-show.
+- text: Enabled
+- button
+- heading "Thank you for visiting" [level=3]
+- paragraph: Reach out to clients when their appointment is checked out, with a link to leave a review.
+- text: Enabled
+- button
+- heading "Thank you for tipping" [level=3]
+- paragraph: Reach out to clients when they add a tip after their appointment.
+- text: Disabled
+- paragraph: Waitlist updates
+- button
+- heading "Joined the waitlist" [level=3]
+- paragraph: Automatically sends to clients when they join the waitlist.
+- text: Enabled
+- button
+- heading "Time slot available" [level=3]
+- paragraph: Automatically sends to clients when a time slot becomes available to book.
+- text: Enabled
+- paragraph: Increase bookings
+- button
+- heading "Reminder to rebook" [level=3]
+- paragraph: Remind your clients to rebook a few weeks after their last appointment.
+- text: Enabled
+- button
+- heading "Celebrate birthdays" [level=3]
+- paragraph: Surprise clients on their special day, a proven way to boost client loyalty and retention.
+- button "Enable"
+- button
+- heading "Win back lapsed clients" [level=3]
+- paragraph: Reach clients that you haven't seen for a while and encourage them to book their next appointment.
+- button "Enable"
+- button
+- heading "Reward loyal clients" [level=3]
+- paragraph: Message top spenders and get them even more engaged with a special offer.
+- button "Enable"
+- paragraph: Celebrate milestones
+- button
+- heading "Welcome new clients" [level=3]
+- paragraph: Celebrate new clients joining your business by offering them a discount.
+- button "Enable"
+- button
+- paragraph: Create new
+- paragraph: Client messages
+- button
+- heading "New chat message" [level=3]
+- paragraph: Notifies clients when you send them a message via Fresha Connect.
+- text: Enabled
+- button
+- heading "Message received" [level=3]
+- paragraph: Notifies clients that you received the message they sent through your contact page
+- text: Enabled
+- paragraph: Client loyalty
+- button
+- heading "Earned points summary" [level=3]
+- paragraph: Send clients a summary of points earned
+- button "Enable"
+- button
+- heading "Achieved loyalty tier" [level=3]
+- paragraph: Notify clients when they achieve a new tier
+- button "Enable"
+- button
+- heading "Earned rewards summary" [level=3]
+- paragraph: Send clients a summary of their rewards
+- button "Enable"
+- button
+- heading "Referrer rewards earned" [level=3]
+- paragraph: Notify existing clients when their friends complete their first appointments
+- button "Enable"

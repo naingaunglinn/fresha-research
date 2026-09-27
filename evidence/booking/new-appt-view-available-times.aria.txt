@@ -1,0 +1,72 @@
+URL: https://partners.fresha.com/calendar/drawer/new-appointment/?date=2026-09-27&view=day&location_id=3210819&calendar_selected_resources=e-working&appt_startDate=2026-09-27&appt_employeeId=&appt_roomId=&appt_locationId=3210819&appt_customerId=&appt_groupId=&appt_startTime=&resetAppointmentState=true&appt_flow=pickFromCalendar
+- link "Fresha":
+  - /url: /calendar
+  - img "Fresha"
+- button "Continue setup":
+  - paragraph: Continue setup
+- button "Search"
+- button "Performance insights"
+- button "Notifications"
+- link "Fresha Connect":
+  - /url: /connect
+- link "Wallet":
+  - /url: /calendar/drawer/wallet/all/accounts/?date=2026-09-27&view=day&location_id=3210819&calendar_selected_resources=e-working&appt_startDate=2026-09-27&appt_employeeId=&appt_roomId=&appt_locationId=3210819&appt_customerId=&appt_groupId=&appt_startTime=&resetAppointmentState=true&appt_flow=pickFromCalendar
+  - text: "1"
+- button "Open user menu": NL
+- link:
+  - /url: /dashboard
+- link:
+  - /url: /calendar?date=2026-09-27&view=day&location_id=3210819&calendar_selected_resources=e-working&appt_startDate=2026-09-27&appt_employeeId=&appt_roomId=&appt_locationId=3210819&appt_customerId=&appt_groupId=&appt_startTime=&resetAppointmentState=true&appt_flow=pickFromCalendar
+- button
+- button
+- button
+- button
+- button
+- button
+- link:
+  - /url: /reports
+- link:
+  - /url: /add-ons
+- link:
+  - /url: /setup
+- button
+- button "Today"
+- group:
+  - button "Go to previous month"
+  - button "Sun, Sep 27"
+  - button "Go to next month"
+- paragraph: Button group
+- button "Branch B"
+- button "Scheduled team"
+- link "Visibility Filters":
+  - /url: /calendar/drawer/visibility-filters?date=2026-09-27&view=day&location_id=3210819&calendar_selected_resources=e-working&appt_startDate=2026-09-27&appt_employeeId=&appt_roomId=&appt_locationId=3210819&appt_customerId=&appt_groupId=&appt_startTime=&resetAppointmentState=true&appt_flow=pickFromCalendar
+- link "Calendar Settings":
+  - /url: /calendar/drawer/settings?date=2026-09-27&view=day&location_id=3210819&calendar_selected_resources=e-working&appt_startDate=2026-09-27&appt_employeeId=&appt_roomId=&appt_locationId=3210819&appt_customerId=&appt_groupId=&appt_startTime=&resetAppointmentState=true&appt_flow=pickFromCalendar
+- link "Waitlist":
+  - /url: /calendar/drawer/waitlist?date=2026-09-27&view=day&location_id=3210819&calendar_selected_resources=e-working&appt_startDate=2026-09-27&appt_employeeId=&appt_roomId=&appt_locationId=3210819&appt_customerId=&appt_groupId=&appt_startTime=&resetAppointmentState=true&appt_flow=pickFromCalendar
+- group:
+  - button "Reset calendar to default view"
+  - button "Day"
+- paragraph: Button group
+- button "Add"
+- text: 00:00 01:00 02:00 03:00 04:00 05:00 06:00 07:00 08:00 09:00 10:00 11:00 12:00 13:00 14:00 15:00 16:00 17:00 18:00 19:00 20:00 21:00 22:00 23:00 15:29
+- button
+- button
+- button "MT Min Test Barber":
+  - text: MT
+  - paragraph: Min Test Barber
+- button "AT Aung Test Barber":
+  - text: AT
+  - paragraph: Aung Test Barber
+- button "MT Min Test Barber":
+  - text: MT
+  - paragraph: Min Test Barber
+- button "AT Aung Test Barber":
+  - text: AT
+  - paragraph: Aung Test Barber
+- button "MT Min Test Barber":
+  - text: MT
+  - paragraph: Min Test Barber
+- button "AT Aung Test Barber":
+  - text: AT
+  - paragraph: Aung Test Barber

@@ -1,0 +1,37 @@
+URL: https://partners.fresha.com/sales/refund-sale/565420462
+- dialog "Refund SGD 40":
+  - button "Go back"
+  - text: Refund SGD 40
+  - button "Close"
+  - button "Issue refund"
+  - heading "Refund SGD 40" [level=1]
+  - paragraph: "Sale #1 • Sunday, Sep 27, 2026 • Baber Shop"
+  - link "Learn more":
+    - /url: https://www.fresha.com/help-center/knowledge-base/sales/368-refund-a-sale
+  - paragraph: Payment 1
+  - paragraph: Refund method
+  - button "Cash Refund method": Cash
+  - paragraph: Original payment method
+  - text: Refund amount SGD
+  - spinbutton "Refund amount": "0.00"
+  - text: SGD 20 available to refund Cash refund given by Naing Aung Linn
+  - combobox "Cash refund given by":
+    - option "Aung Test Barber"
+    - option "Wendy Smith (Demo)"
+    - option "Naing Aung Linn" [selected]
+  - paragraph: Payment 2
+  - paragraph: Refund method
+  - button "KBZPay Refund method": KBZPay
+  - paragraph: Original payment method
+  - text: Refund amount SGD
+  - spinbutton "Refund amount": "0.00"
+  - text: SGD 24 available to refund Reason for refund Choose a reason for refund
+  - combobox "Reason for refund":
+    - option "Choose a reason for refund" [disabled] [selected]
+    - option "Accidental charge"
+    - option "Incorrect amount"
+    - option "Duplicate transaction"
+    - option "Item not available"
+    - option "Client's request"
+    - option "Potential fraud"
+    - option "Other"

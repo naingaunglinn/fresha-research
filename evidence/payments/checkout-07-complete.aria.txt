@@ -1,0 +1,39 @@
+URL: https://partners.fresha.com/calendar/drawer/invoice/565420462/details?date=2026-09-29&view=day&location_id=3210802&calendar_selected_resources=e-working
+- dialog:
+  - button "Close Drawer"
+  - text: Summary
+  - button "Rebook"
+  - button "Open options"
+  - paragraph: Sale
+  - paragraph: Sun, Sep 27, 2026 • Baber Shop
+  - text: Completed
+  - paragraph: Walk-In
+  - paragraph: "Sale #1"
+  - paragraph: Sun, Sep 27, 2026
+  - paragraph: Haircut
+  - paragraph: 10:15, 29 Sep 2026 • 45min • Aung Test Barber
+  - text: SGD 40
+  - separator
+  - paragraph: Subtotal
+  - text: SGD 40
+  - paragraph: Total
+  - text: SGD 44
+  - paragraph: Tip to Aung
+  - text: SGD 4
+  - separator
+  - paragraph: Payment
+  - paragraph: Cash
+  - text: Sun 27 Sep 2026 at 15:59 SGD 20
+  - paragraph: Payment
+  - paragraph: KBZPay
+  - text: Sun 27 Sep 2026 at 15:59 SGD 24
+  - list:
+    - listitem:
+      - button "Summary":
+        - paragraph: Summary
+    - listitem:
+      - button "Notes":
+        - paragraph: Notes
+    - listitem:
+      - button "Activity":
+        - paragraph: Activity

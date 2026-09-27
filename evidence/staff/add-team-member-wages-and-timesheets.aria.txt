@@ -1,0 +1,51 @@
+URL: https://partners.fresha.com/team/team-members/add/?section=wagesAndTimesheets
+- dialog "Add team member":
+  - text: Add team member
+  - button "Close"
+  - button "Add"
+  - heading "Add team member" [level=1]
+  - paragraph: Wages and timesheets
+  - text: "Off"
+  - paragraph:
+    - text: Set up how much this team member earns.
+    - link "Learn more":
+      - /url: https://www.fresha.com/help-center/knowledge-base/team/291-set-up-wages-for-team-members
+  - paragraph: Enable wages and timesheets
+  - checkbox "Enable wages and timesheets"
+  - list:
+    - listitem:
+      - text: Personal
+      - list:
+        - listitem:
+          - button
+          - text: Profile
+        - listitem:
+          - button
+          - text: Addresses
+        - listitem:
+          - button
+          - text: Emergency contacts
+    - listitem:
+      - text: Workspace
+      - list:
+        - listitem:
+          - button
+          - text: Services 4
+        - listitem:
+          - button
+          - text: Locations
+        - listitem:
+          - button
+          - text: Settings
+    - listitem:
+      - text: Pay
+      - list:
+        - listitem:
+          - button
+          - text: Wages and timesheets
+        - listitem:
+          - button
+          - text: Commissions
+        - listitem:
+          - button
+          - text: Pay runs

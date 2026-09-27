@@ -1,0 +1,60 @@
+URL: https://partners.fresha.com/fresha/online-booking/locations
+- link "Fresha":
+  - /url: /calendar
+  - img "Fresha"
+- button "Continue setup":
+  - paragraph: Continue setup
+- button "Search"
+- button "Performance insights"
+- button "Notifications"
+- link "Fresha Connect":
+  - /url: /connect
+- link "Wallet":
+  - /url: /fresha/online-booking/locations/drawer/wallet/all/accounts/
+  - text: "1"
+- button "Open user menu": NL
+- link:
+  - /url: /dashboard
+- link:
+  - /url: /calendar
+- button
+- button
+- button
+- button
+- button
+- button
+- link:
+  - /url: /reports
+- link:
+  - /url: /add-ons
+- link:
+  - /url: /setup
+- button
+- button "Collapse Navigation Menu"
+- paragraph: Online bookings
+- link "Marketplace profile":
+  - /url: /fresha/online-booking/locations
+  - paragraph: Marketplace profile
+- link "Reserve with Google":
+  - /url: /fresha/online-booking/google-reserve
+  - paragraph: Reserve with Google
+- link "Facebook and Instagram bookings":
+  - /url: /fresha/online-booking/facebook-setup
+  - paragraph: Facebook and Instagram bookings
+- link "Link builder":
+  - /url: /fresha/online-booking/buttons-and-links
+  - paragraph: Link builder
+- separator
+- paragraph: Your websites
+- link "Smart Website":
+  - /url: /fresha/online-booking/smart-website
+  - paragraph: Smart Website
+- link "Product store":
+  - /url: /fresha/online-booking/store
+  - paragraph: Product store
+- text: Attract new clients with online bookings Join the world's largest beauty and wellness marketplace Get your business listed on the Fresha app Reach thousands of new clients who visit Fresha every day Free up time and get your clients self-booking online 24/7
+- button "Start now"
+- link "Learn more":
+  - /url: https://www.fresha.com/help-center/knowledge-base/online-presence/597-fresha-marketplace-overview
+- img
+- img

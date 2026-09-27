@@ -1,0 +1,47 @@
+URL: https://partners.fresha.com/catalogue/services/service/edit/25689868?section=add-ons
+- dialog "Edit service":
+  - text: Edit service
+  - button "Close"
+  - button "Save"
+  - heading "Edit service" [level=1]
+  - list:
+    - listitem:
+      - list:
+        - listitem:
+          - button
+          - text: Basic details
+        - listitem:
+          - button
+          - text: Locations 2
+        - listitem:
+          - button
+          - text: Team members 2
+        - listitem:
+          - button
+          - text: Resources
+        - listitem:
+          - button
+          - text: Service add-ons
+    - listitem:
+      - text: Settings
+      - list:
+        - listitem:
+          - button
+          - text: Online booking
+        - listitem:
+          - button
+          - text: Portfolio images
+        - listitem:
+          - button
+          - text: Forms 1
+        - listitem:
+          - button
+          - text: Commissions
+        - listitem:
+          - button
+          - text: Settings
+  - img "Two puzzle pieces illustrating the services add-on feature"
+  - text: Service add-ons Allow clients to add customizations and extras to their booking.
+  - link "Learn more":
+    - /url: https://www.fresha.com/help-center/knowledge-base/catalog/101649-create-service-add-ons
+  - button "Add group"

@@ -1,0 +1,8 @@
+URL: https://partners.fresha.com/sales/sales-list/drawer/invoice/565439644/details/void/
+- dialog "Void sale?":
+  - paragraph: Void sale?
+  - button "Close modal"
+  - paragraph: This action is permanent and cannot be undone.
+  - text: Following payments will be deleted SGD 49.50 paid by KBZPay on Sunday, 27 Sep 2026 Product stock will be returned to Baber Shop 1 of ZZTest Pomade
+  - button "Cancel"
+  - button "Void"

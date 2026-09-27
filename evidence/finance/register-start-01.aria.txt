@@ -1,0 +1,28 @@
+URL: https://partners.fresha.com/sales/register/setup/
+- dialog:
+  - text: Set up register preferences
+  - button "Close"
+  - button "Continue"
+  - heading "Set up register preferences" [level=1]
+  - text: Adding a register to Branch B Register name 0/32
+  - textbox "Register name 0/32":
+    - /placeholder: Front desk
+  - paragraph: Advanced options
+  - paragraph: Require register to be opened to start taking sales
+  - paragraph: No in-person sales can be taken at this location until a register is open
+  - checkbox "Require register to be opened to start taking sales" [checked]
+  - paragraph: Set minimum float
+  - paragraph: Team members will be prompted to add a minimum float into the register before they open or close the register
+  - checkbox "Set minimum float"
+  - paragraph: Allow midday counts
+  - paragraph: Allow team members to perform interim register counts during the day
+  - checkbox "Allow midday counts"
+  - paragraph: Prompt if register was left open
+  - paragraph: Alert team members when a register remains open from the previous day
+  - checkbox "Prompt if register was left open"
+  - paragraph: Automatically print report on register count
+  - paragraph: Once a register is counted or closed a count report will be automatically printed
+  - checkbox "Automatically print report on register count"
+  - paragraph: Automatically email report on register count
+  - paragraph: Once a register is counted or closed a count report will be automatically emailed
+  - checkbox "Automatically email report on register count"

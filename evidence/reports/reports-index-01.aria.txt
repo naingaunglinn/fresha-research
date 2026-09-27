@@ -1,0 +1,336 @@
+URL: https://partners.fresha.com/reports/report-group/1?category=all
+- link "Fresha":
+  - /url: /calendar
+  - img "Fresha"
+- button "Continue setup":
+  - paragraph: Continue setup
+- button "Search"
+- button "Performance insights"
+- button "Notifications"
+- link "Fresha Connect":
+  - /url: /connect
+- link "Wallet":
+  - /url: /reports/report-group/1/drawer/wallet/all/accounts/?category=all
+  - text: "1"
+- button "Open user menu": NL
+- link:
+  - /url: /dashboard
+- link:
+  - /url: /calendar
+- button
+- button
+- button
+- button
+- button
+- button
+- link:
+  - /url: /reports
+- link:
+  - /url: /add-ons
+- link:
+  - /url: /setup
+- button
+- list:
+  - listitem:
+    - paragraph: Reports
+    - list:
+      - listitem:
+        - button
+        - text: All reports 60
+      - listitem:
+        - button
+        - text: Favourites 0
+      - listitem:
+        - button
+        - text: Dashboards 4
+      - listitem:
+        - button
+        - text: Standard 51
+      - listitem:
+        - button
+        - text: Premium 9
+      - listitem:
+        - button
+        - text: Custom 0
+  - listitem:
+    - text: Folders
+    - list:
+      - listitem:
+        - button
+        - text: Add folder
+  - listitem:
+    - list:
+      - listitem:
+        - button
+        - img "Data connector addon"
+        - text: Data connector
+- paragraph: Reporting and analytics
+- text: "60"
+- paragraph:
+  - text: Access all of your Fresha reports.
+  - link "Learn more":
+    - /url: https://www.fresha.com/help-center/knowledge-base/reports
+- button "Add"
+- text: Search
+- textbox "Search":
+  - /placeholder: Search by report name or description
+- button "Created by"
+- button "Category"
+- tablist:
+  - tab "All reports" [selected]
+  - tab "Sales"
+  - tab "Finance"
+  - tab "Appointments"
+  - tab "Team"
+  - tab "Clients"
+  - tab "Inventory"
+  - tab "Other"
+- button
+- heading "Performance dashboard" [level=3]
+- heading "Dashboard of your business performance." [level=4]
+- button "Add to favorites"
+- button
+- heading "Online presence dashboard" [level=3]
+- heading "Online sales and online client performance" [level=4]
+- button "Add to favorites"
+- button
+- heading "Loyalty dashboard" [level=3]
+- heading "Dashboard of your loyalty program performance." [level=4]
+- button "Add to favorites"
+- button
+- heading "AI Concierge dashboard" [level=3]
+- heading "Dashboard of your AI Concierge performance." [level=4]
+- button "Add to favorites"
+- button
+- heading "Performance summary" [level=3]
+- heading "Overview of business performance by team or location" [level=4]
+- text: Premium
+- button "Add to favorites"
+- button
+- heading "Performance over time" [level=3]
+- heading "View of key business metrics by Location or Team Member over time" [level=4]
+- text: Premium
+- button "Add to favorites"
+- button
+- heading "Sales summary" [level=3]
+- heading "Sales quantities and value, excluding tips and gift card sales." [level=4]
+- button "Add to favorites"
+- button
+- heading "Sales by time period" [level=3]
+- heading "Detailed sales data based on selected time periods." [level=4]
+- text: Premium
+- button "Add to favorites"
+- button
+- heading "Sales list" [level=3]
+- heading "Complete listing of all sales transactions." [level=4]
+- button "Add to favorites"
+- button
+- heading "Sales log detail" [level=3]
+- heading "In-depth view into each sale transaction." [level=4]
+- button "Add to favorites"
+- button
+- heading "Gift card by time period" [level=3]
+- heading "Gift card sales and usage data based on selected time periods." [level=4]
+- text: Premium
+- button "Add to favorites"
+- button
+- heading "Gift card list" [level=3]
+- heading "Full list of issued and outstanding gift cards." [level=4]
+- button "Add to favorites"
+- button
+- heading "Membership list" [level=3]
+- heading "Complete list of active memberships." [level=4]
+- button "Add to favorites"
+- button
+- heading "Packages list" [level=3]
+- heading "Operational details of your packages including benefits and financials." [level=4]
+- button "Add to favorites"
+- button
+- heading "Packages summary" [level=3]
+- heading "Aggregated view of packages performance." [level=4]
+- button "Add to favorites"
+- button
+- heading "Packages benefits consumption" [level=3]
+- heading "Benefit-level package redemptions and recognized revenue, for packages accounting. Unlimited packages are recognized by duration rather than per benefit." [level=4]
+- text: Premium
+- button "Add to favorites"
+- button
+- heading "Cash register summary" [level=3]
+- heading "Overview of register activities. Excludes online purchases." [level=4]
+- button "Add to favorites"
+- button
+- heading "Discount summary" [level=3]
+- heading "Overview of discounts granted and their impact on sales." [level=4]
+- button "Add to favorites"
+- button
+- heading "Taxes summary" [level=3]
+- heading "Summary of all tax-related transactions." [level=4]
+- button "Add to favorites"
+- button
+- heading "Finance summary" [level=3]
+- heading "High-level summary of sales, payments and liabilities" [level=4]
+- button "Add to favorites"
+- button
+- heading "Payments summary" [level=3]
+- heading "Payments split by payment methods." [level=4]
+- button "Add to favorites"
+- button
+- heading "Payment transactions" [level=3]
+- heading "Detailed view of all payment transactions." [level=4]
+- button "Add to favorites"
+- button
+- heading "Cash flow summary" [level=3]
+- heading "Overview of funds inflow and outflows." [level=4]
+- button "Add to favorites"
+- button
+- heading "Cash flow statement" [level=3]
+- heading "Detailed record of cash flow over a selected period." [level=4]
+- button "Add to favorites"
+- button
+- heading "Service charges" [level=3]
+- heading "Breakdown of service charge revenue." [level=4]
+- button "Add to favorites"
+- button
+- heading "Liability summary" [level=3]
+- heading "Overview of company liabilities by type. This report excludes unpaid and voided gift cards." [level=4]
+- button "Add to favorites"
+- button
+- heading "Liability activity" [level=3]
+- heading "Detailed view of liability-related transactions." [level=4]
+- button "Add to favorites"
+- button
+- heading "Prepayments by time period" [level=3]
+- heading "Analysis of prepayments over a selected time period." [level=4]
+- text: Premium
+- button "Add to favorites"
+- button
+- heading "Prepayment list" [level=3]
+- heading "Complete record of all prepayments." [level=4]
+- button "Add to favorites"
+- button
+- heading "Taxes list" [level=3]
+- heading "Complete listing of all taxes transactions." [level=4]
+- button "Add to favorites"
+- button
+- heading "Appointments summary" [level=3]
+- heading "General overview of appointment trends and patterns, including cancellations and no-shows." [level=4]
+- button "Add to favorites"
+- button
+- heading "Appointments list" [level=3]
+- heading "Full list of scheduled appointments." [level=4]
+- button "Add to favorites"
+- button
+- heading "Appointments cancellations & no-show summary" [level=3]
+- heading "Insight into appointment cancellations and no-shows." [level=4]
+- button "Add to favorites"
+- button
+- heading "Waitlist detail" [level=3]
+- heading "Detailed view of waitlist entries" [level=4]
+- button "Add to favorites"
+- button
+- heading "Waitlist summary" [level=3]
+- heading "Overview of waitlist trends and patterns, including appointments booked and expired waitlist entries" [level=4]
+- text: Premium
+- button "Add to favorites"
+- button
+- heading "Working hours activity" [level=3]
+- heading "Detailed view of team members worked hours, shifts, and timesheets" [level=4]
+- button "Add to favorites"
+- button
+- heading "Break activity" [level=3]
+- heading "Detailed view of team members' breaks" [level=4]
+- button "Add to favorites"
+- button
+- heading "Attendance summary" [level=3]
+- heading "Overview of team members' punctuality and attendance for their shifts" [level=4]
+- button "Add to favorites"
+- button
+- heading "Wages detail" [level=3]
+- heading "Detailed view of wages earned by team members across locations" [level=4]
+- button "Add to favorites"
+- button
+- heading "Wages summary" [level=3]
+- heading "Overview of wages earned by team members" [level=4]
+- button "Add to favorites"
+- button
+- heading "Fee deduction activity" [level=3]
+- heading "Complete list of fees applied to team member earnings" [level=4]
+- button "Add to favorites"
+- button
+- heading "Fee deduction summary" [level=3]
+- heading "Overview of fees applied to earnings by team member, locations and sale items" [level=4]
+- button "Add to favorites"
+- button
+- heading "Pay summary" [level=3]
+- heading "Overview of team member compensation" [level=4]
+- button "Add to favorites"
+- button
+- heading "Scheduled shifts" [level=3]
+- heading "Detailed view of team members scheduled shifts" [level=4]
+- button "Add to favorites"
+- button
+- heading "Working hours summary" [level=3]
+- heading "Overview of operational hours and productivity" [level=4]
+- button "Add to favorites"
+- button
+- heading "Team time off report" [level=3]
+- heading "Detailed view of team time off." [level=4]
+- button "Add to favorites"
+- button
+- heading "Tips summary" [level=3]
+- heading "Analysis of gratuity income." [level=4]
+- button "Add to favorites"
+- button
+- heading "Tips detail" [level=3]
+- heading "Comprehensive breakdown of all tips received." [level=4]
+- button "Add to favorites"
+- button
+- heading "Commission activity" [level=3]
+- heading "Full list of all sales with commissions payable." [level=4]
+- button "Add to favorites"
+- button
+- heading "Commission summary" [level=3]
+- heading "Overview of commission earned by team members, locations and sale items." [level=4]
+- button "Add to favorites"
+- button
+- heading "Client summary" [level=3]
+- heading "Overview of new, returning and walk-in clients with appointments in the chosen timeframe" [level=4]
+- text: Premium
+- button "Add to favorites"
+- button
+- heading "Client list" [level=3]
+- heading "Comprehensive list of all active clients." [level=4]
+- button "Add to favorites"
+- button
+- heading "Client insights" [level=3]
+- heading "Deep dive into individual client behaviour and preferences." [level=4]
+- text: Premium
+- button "Add to favorites"
+- button
+- heading "Stock on hand" [level=3]
+- heading "Current status and quantity of stock items." [level=4]
+- button "Add to favorites"
+- button
+- heading "Stock movement summary" [level=3]
+- heading "Summary of stock inflow and outflow." [level=4]
+- button "Add to favorites"
+- button
+- heading "Stock movement log" [level=3]
+- heading "Detailed record of all stock movements." [level=4]
+- button "Add to favorites"
+- button
+- heading "Product list" [level=3]
+- heading "Comprehensive list of all products." [level=4]
+- button "Add to favorites"
+- button
+- heading "Ordered stock" [level=3]
+- heading "Detailed record of all stock orders." [level=4]
+- button "Add to favorites"
+- button
+- heading "AI Concierge summary" [level=3]
+- heading "Overview of AI Concierge calls and chats, including bookings and sentiment." [level=4]
+- button "Add to favorites"
+- button
+- heading "AI Concierge activity" [level=3]
+- heading "Detailed list of AI Concierge calls and chats, including outcomes and bookings." [level=4]
+- button "Add to favorites"

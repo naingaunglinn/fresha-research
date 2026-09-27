@@ -1,0 +1,90 @@
+URL: https://partners.fresha.com/catalogue/orders/stock-order/transfer/1770054/select-products
+- link "Fresha":
+  - /url: /calendar
+  - img "Fresha"
+- button "Continue setup":
+  - paragraph: Continue setup
+- button "Search"
+- button "Performance insights"
+- button "Notifications"
+- link "Fresha Connect":
+  - /url: /connect
+- link "Wallet":
+  - /url: /catalogue/orders/stock-order/transfer/1770054/select-products/drawer/wallet/all/accounts/
+  - text: "1"
+- button "Open user menu": NL
+- link:
+  - /url: /dashboard
+- link:
+  - /url: /calendar
+- button
+- button
+- button
+- button
+- button
+- button
+- link:
+  - /url: /reports
+- link:
+  - /url: /add-ons
+- link:
+  - /url: /setup
+- button
+- button "Collapse Navigation Menu"
+- paragraph: Catalog
+- link "Service menu":
+  - /url: /catalogue/services
+  - paragraph: Service menu
+- link "Packages":
+  - /url: /catalogue/packages
+  - paragraph: Packages
+- link "Memberships":
+  - /url: /catalogue/memberships
+  - paragraph: Memberships
+- link "Products":
+  - /url: /catalogue/products
+  - paragraph: Products
+- separator
+- paragraph: Inventory
+- link "Stocktakes":
+  - /url: /catalogue/stocktakes
+  - paragraph: Stocktakes
+- link "Stock orders":
+  - /url: /catalogue/orders
+  - paragraph: Stock orders
+- link "Suppliers":
+  - /url: /catalogue/suppliers
+  - paragraph: Suppliers
+- progressbar:
+  - paragraph
+- paragraph: Manage products for order
+- text: Select which products to transfer from one location to another.
+- paragraph: "Last saved: Sep 27, 2026, 16:47"
+- button "Close"
+- button "Create order"
+- paragraph: Manage products for order
+- paragraph: Select which products to transfer from one location to another.
+- img "Products illustration"
+- text: No products yet You haven't added any products to your stock transfer.
+- button "Add products"
+- paragraph: Deliver from
+- button
+- paragraph: Baber Shop
+- paragraph: Thukha Dagon Housing, South Dagon, No-203, Building-(A-3), Chanthar Street, Yangon (South Dagon)
+- button "Edit"
+- paragraph: Deliver to
+- button
+- paragraph: Branch B
+- paragraph: Orchard Boulevard, Singapore (Central Area)
+- button "Edit"
+- paragraph: Expected By
+- button "Add"
+- paragraph: Fees
+- button "Add"
+- paragraph: Subtotal
+- paragraph: SGD 0
+- paragraph: Fees
+- paragraph: SGD 0
+- separator
+- paragraph: Total
+- paragraph: SGD 0

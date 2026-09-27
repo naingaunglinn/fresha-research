@@ -1,0 +1,77 @@
+URL: https://partners.fresha.com/catalogue/stocktakes/new
+- link "Fresha":
+  - /url: /calendar
+  - img "Fresha"
+- button "Continue setup":
+  - paragraph: Continue setup
+- button "Search"
+- button "Performance insights"
+- button "Notifications"
+- link "Fresha Connect":
+  - /url: /connect
+- link "Wallet":
+  - /url: /catalogue/stocktakes/new/drawer/wallet/all/accounts/
+  - text: "1"
+- button "Open user menu": NL
+- link:
+  - /url: /dashboard
+- link:
+  - /url: /calendar
+- button
+- button
+- button
+- button
+- button
+- button
+- link:
+  - /url: /reports
+- link:
+  - /url: /add-ons
+- link:
+  - /url: /setup
+- button
+- button "Collapse Navigation Menu"
+- paragraph: Catalog
+- link "Service menu":
+  - /url: /catalogue/services
+  - paragraph: Service menu
+- link "Packages":
+  - /url: /catalogue/packages
+  - paragraph: Packages
+- link "Memberships":
+  - /url: /catalogue/memberships
+  - paragraph: Memberships
+- link "Products":
+  - /url: /catalogue/products
+  - paragraph: Products
+- separator
+- paragraph: Inventory
+- link "Stocktakes":
+  - /url: /catalogue/stocktakes
+  - paragraph: Stocktakes
+- link "Stock orders":
+  - /url: /catalogue/orders
+  - paragraph: Stock orders
+- link "Suppliers":
+  - /url: /catalogue/suppliers
+  - paragraph: Suppliers
+- progressbar:
+  - paragraph
+- button "Go back"
+- text: Add the stocktake info
+- button "Close"
+- button "Start stocktake"
+- text: Create a new stocktake
+- heading "Add the stocktake info" [level=1]
+- text: Start a full inventory count to keep accurate stock levels.
+- link "Learn more":
+  - /url: https://www.fresha.com/help-center/knowledge-base/inventory/159-complete-stocktakes
+- button
+- heading "Baber Shop" [level=3]
+- heading "Thukha Dagon Housing, South Dagon, No-203, Building-(A-3), Chanthar Street, Yangon (South Dagon)" [level=4]
+- button "Change"
+- paragraph: Stocktake info
+- text: Stocktake name (Optional)
+- textbox "Stocktake name (Optional)"
+- text: Stocktake description (Optional) 0/200
+- textbox "Stocktake description (Optional) 0/200"

@@ -1,0 +1,48 @@
+URL: https://partners.fresha.com/team/team-members/add/?section=addresses
+- dialog "Add team member":
+  - text: Add team member
+  - button "Close"
+  - button "Add"
+  - heading "Add team member" [level=1]
+  - paragraph: Addresses
+  - paragraph: Manage your team member's correspondence addresses.
+  - list:
+    - listitem:
+      - button "Add an address"
+  - list:
+    - listitem:
+      - text: Personal
+      - list:
+        - listitem:
+          - button
+          - text: Profile
+        - listitem:
+          - button
+          - text: Addresses
+        - listitem:
+          - button
+          - text: Emergency contacts
+    - listitem:
+      - text: Workspace
+      - list:
+        - listitem:
+          - button
+          - text: Services 4
+        - listitem:
+          - button
+          - text: Locations
+        - listitem:
+          - button
+          - text: Settings
+    - listitem:
+      - text: Pay
+      - list:
+        - listitem:
+          - button
+          - text: Wages and timesheets
+        - listitem:
+          - button
+          - text: Commissions
+        - listitem:
+          - button
+          - text: Pay runs

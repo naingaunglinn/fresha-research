@@ -1,0 +1,46 @@
+URL: https://partners.fresha.com/calendar/drawer/new-sale/tips?date=2026-09-29&view=day&location_id=3210802&calendar_selected_resources=e-working&checkout-order-id=1078208179
+- dialog:
+  - button "Close Drawer"
+  - button "Add client"
+  - paragraph: Add client
+  - paragraph: Leave empty for walk-ins
+  - button
+  - button "Haircut"
+  - paragraph: Haircut
+  - paragraph: 45min • Aung Test Barber
+  - text: SGD 40
+  - button "Edit"
+  - button "Add to cart"
+  - button "Collapse"
+  - paragraph: Total
+  - paragraph: SGD 40
+  - button "Toggle":
+    - paragraph: To pay
+    - paragraph: SGD 40
+  - button "Open options"
+  - button "Continue to payment"
+  - heading "Select tip" [level=1]
+  - list:
+    - listitem:
+      - link "Cart":
+        - /url: /calendar/drawer/new-sale/?date=2026-09-29&view=day&location_id=3210802&calendar_selected_resources=e-working&checkout-order-id=1078208179
+    - listitem:
+      - link "Tip":
+        - /url: /calendar/drawer/new-sale/tips?date=2026-09-29&view=day&location_id=3210802&calendar_selected_resources=e-working&checkout-order-id=1078208179
+    - listitem:
+      - link "Payment":
+        - /url: /calendar/drawer/new-sale/payment-method?date=2026-09-29&view=day&location_id=3210802&calendar_selected_resources=e-working&checkout-order-id=1078208179
+  - paragraph: Select an amount for Naing Aung Linn
+  - button "No tip"
+  - paragraph: No tip
+  - button "10%"
+  - paragraph: 10%
+  - paragraph: SGD 4
+  - button "18%"
+  - paragraph: 18%
+  - paragraph: SGD 7.20
+  - button "25%"
+  - paragraph: 25%
+  - paragraph: SGD 10
+  - button "Custom tip"
+  - paragraph: Custom tip

@@ -1,0 +1,308 @@
+URL: https://partners.fresha.com/user-account/workspaces/3105095/settings/edit-workspace-notifications-modal/
+- link "Fresha":
+  - /url: /calendar
+  - img "Fresha"
+- button "Open user menu": NL
+- list:
+  - listitem:
+    - button
+    - text: Back
+  - listitem:
+    - paragraph: Your account
+    - list:
+      - listitem:
+        - button
+        - text: My profile
+      - listitem:
+        - button
+        - text: Portfolio
+      - listitem:
+        - button
+        - text: Reviews
+      - listitem:
+        - button
+        - text: Pay runs
+      - listitem:
+        - button
+        - text: Workspaces
+      - listitem:
+        - button
+        - text: Personal settings
+- button "Back"
+- navigation:
+  - list:
+    - listitem:
+      - link "Workspaces •":
+        - /url: /user-account/workspaces
+    - listitem: Baber Shop
+- paragraph: Baber Shop
+- paragraph:
+  - text: Manage your workspace settings.
+  - link "Learn more":
+    - /url: https://www.fresha.com/help-center/knowledge-base/workspace-settings/43-join-a-workspace
+- button "Actions"
+- heading "Linked calendars" [level=3]
+- paragraph:
+  - text: Link your Google or external calendar to keep your Fresha calendar and personal schedule in sync. See your full day in one place and avoid double-bookings.
+  - link "Learn more":
+    - /url: https://www.fresha.com/help-center/knowledge-base/calendar/101373-sync-your-fresha-calendar
+- link "Link a calendar":
+  - /url: /user-account/workspaces/3105095/settings/calendar-sync?wz-src=settings
+- heading "Workspace notifications" [level=3]
+- button "Manage"
+- paragraph: You have chosen to be notified about activity concerning all team members, and have 24 notifications settings turned on.
+- dialog "Notification preferences":
+  - button "Close"
+  - button "Save"
+  - heading "Notification preferences" [level=1]
+  - text: Choose which activity you're notified about and how you receive notifications.
+  - link "Learn more":
+    - /url: https://www.fresha.com/help-center/knowledge-base/personal-account/101231-manage-your-personal-account#manage-your-personal-notifications
+  - heading "Locations" [level=2]
+  - paragraph: Select the locations you want to receive notifications for
+  - text: Locations
+  - button "Locations": All locations
+  - paragraph: Notifications are sent for activity at all locations
+  - heading "Appointments" [level=2]
+  - text: "On"
+  - paragraph: Receive notifications when appointments are created or changed
+  - paragraph: Appointments
+  - checkbox "Appointments" [checked]
+  - text: Notify me about
+  - button "Activity concerning all team members Notify me about": Activity concerning all team members
+  - paragraph: Receive notifications for appointments assigned to any team member
+  - paragraph: Client activity
+  - paragraph: When clients book and manage appointments online
+  - text: Email Push In-app
+  - separator
+  - heading "New appointment" [level=3]
+  - heading "When a client books a new appointment online" [level=4]
+  - paragraph: Push
+  - checkbox "Push" [checked]
+  - paragraph: In-app
+  - checkbox "In-app" [checked]
+  - separator
+  - heading "Appointment confirmed" [level=3]
+  - heading "When a client confirms an appointment online with a card or deposit" [level=4]
+  - paragraph: Push
+  - checkbox "Push"
+  - paragraph: In-app
+  - checkbox "In-app"
+  - separator
+  - heading "Appointment reschedules" [level=3]
+  - heading "When a client reschedules an appointment online" [level=4]
+  - paragraph: Push
+  - checkbox "Push" [checked]
+  - paragraph: In-app
+  - checkbox "In-app" [checked]
+  - separator
+  - heading "Appointment cancellations" [level=3]
+  - heading "When an appointment is canceled by a client online" [level=4]
+  - paragraph: Push
+  - checkbox "Push" [checked]
+  - paragraph: In-app
+  - checkbox "In-app" [checked]
+  - separator
+  - heading "Waitlist entries" [level=3]
+  - heading "When a client joins the waitlist online" [level=4]
+  - paragraph: Push
+  - checkbox "Push" [checked]
+  - paragraph: In-app
+  - checkbox "In-app" [checked]
+  - paragraph: Team member activity
+  - paragraph: When team members take actions in the calendar
+  - text: Email Push In-app
+  - separator
+  - heading "New appointments" [level=3]
+  - heading "When a team member books a new appointment" [level=4]
+  - paragraph: Push
+  - checkbox "Push" [checked]
+  - paragraph: In-app
+  - checkbox "In-app" [checked]
+  - separator
+  - heading "Appointment reschedules" [level=3]
+  - heading "When a team member reschedules an appointment" [level=4]
+  - paragraph: Push
+  - checkbox "Push" [checked]
+  - paragraph: In-app
+  - checkbox "In-app" [checked]
+  - separator
+  - heading "Appointment cancellations" [level=3]
+  - heading "When a team member cancels an appointment" [level=4]
+  - paragraph: Push
+  - checkbox "Push" [checked]
+  - paragraph: In-app
+  - checkbox "In-app" [checked]
+  - separator
+  - heading "Appointment no-shows" [level=3]
+  - heading "When a team member marks an appointment as a no-show" [level=4]
+  - paragraph: Push
+  - checkbox "Push" [checked]
+  - paragraph: In-app
+  - checkbox "In-app" [checked]
+  - separator
+  - heading "Appointment status updates" [level=3]
+  - heading "When an appointment changes to one of all statuses. Edit" [level=4]:
+    - text: When an appointment changes to one of all statuses.
+    - button "Edit"
+  - paragraph: Push
+  - checkbox "Push"
+  - paragraph: In-app
+  - checkbox "In-app"
+  - separator
+  - heading "Waitlist entries" [level=3]
+  - heading "When a team member creates a new waitlist entry" [level=4]
+  - paragraph: Push
+  - checkbox "Push" [checked]
+  - paragraph: In-app
+  - checkbox "In-app" [checked]
+  - heading "Sales" [level=2]
+  - text: "On"
+  - paragraph: Receive notifications about sales and tips
+  - paragraph: Sales
+  - checkbox "Sales" [checked]
+  - text: Email Push In-app
+  - separator
+  - heading "Online product sales" [level=3]
+  - heading "When products are purchased by clients online" [level=4]
+  - paragraph: Email
+  - checkbox "Email" [checked]
+  - paragraph: Push
+  - checkbox "Push" [checked]
+  - paragraph: In-app
+  - checkbox "In-app" [checked]
+  - separator
+  - heading "Online membership and package sales" [level=3]
+  - heading "When memberships or packages are purchased by clients online" [level=4]
+  - paragraph: Push
+  - checkbox "Push" [checked]
+  - paragraph: In-app
+  - checkbox "In-app" [checked]
+  - separator
+  - heading "Tips" [level=3]
+  - heading "When a client leaves anyone a tip. Edit" [level=4]:
+    - text: When a client leaves anyone a tip.
+    - button "Edit"
+  - paragraph: Push
+  - checkbox "Push" [checked]
+  - paragraph: In-app
+  - checkbox "In-app" [checked]
+  - heading "Reviews" [level=2]
+  - text: "On"
+  - paragraph: Receive notifications when new reviews are submitted
+  - paragraph: Reviews
+  - checkbox "Reviews" [checked]
+  - text: Email Push In-app
+  - separator
+  - heading "New review received" [level=3]
+  - heading "When a client leaves anyone a review. Edit" [level=4]:
+    - text: When a client leaves anyone a review.
+    - button "Edit"
+  - paragraph: Push
+  - checkbox "Push" [checked]
+  - paragraph: In-app
+  - checkbox "In-app" [checked]
+  - heading "Messaging" [level=2]
+  - text: "On"
+  - paragraph: Receive notifications about client and team conversations
+  - paragraph: Messaging
+  - checkbox "Messaging" [checked]
+  - paragraph: Client Connect
+  - paragraph: Messages and activity about client conversations
+  - text: Email Push In-app
+  - separator
+  - heading "New client message" [level=3]
+  - heading "When a client sends a message" [level=4]
+  - paragraph: Email
+  - checkbox "Email" [checked]
+  - paragraph: Push
+  - checkbox "Push" [checked]
+  - paragraph: In-app
+  - checkbox "In-app" [checked]
+  - paragraph: Team Connect
+  - paragraph: Messages and activity about team conversations
+  - text: Email Push In-app
+  - separator
+  - heading "Direct messages" [level=3]
+  - heading "When someone sends a direct message to you or a group" [level=4]
+  - paragraph: Push
+  - checkbox "Push" [checked]
+  - paragraph: In-app
+  - checkbox "In-app" [checked]
+  - separator
+  - heading "Mentions" [level=3]
+  - heading "When you're @mentioned in a channel" [level=4]
+  - paragraph: Push
+  - checkbox "Push" [checked]
+  - paragraph: In-app
+  - checkbox "In-app" [checked]
+  - separator
+  - heading "Thread replies" [level=3]
+  - heading "When a reply is added to a thread you've participated in" [level=4]
+  - paragraph: Push
+  - checkbox "Push" [checked]
+  - paragraph: In-app
+  - checkbox "In-app" [checked]
+  - separator
+  - heading "Channel message" [level=3]
+  - heading "When a new message is sent in a channel with notifications enabled" [level=4]
+  - paragraph: Push
+  - checkbox "Push" [checked]
+  - paragraph: In-app
+  - checkbox "In-app" [checked]
+  - heading "Inventory" [level=2]
+  - text: "On"
+  - paragraph: Receive notifications about products and inventory
+  - paragraph: Inventory
+  - checkbox "Inventory" [checked]
+  - text: Email Push In-app
+  - separator
+  - heading "Low stock alerts" [level=3]
+  - heading "When a product reaches its low stock level" [level=4]
+  - paragraph: Push
+  - checkbox "Push" [checked]
+  - paragraph: In-app
+  - checkbox "In-app" [checked]
+  - separator
+  - heading "Low stock summary" [level=3]
+  - heading "Receive a weekly summary of products with low stock. Edit" [level=4]:
+    - text: Receive a weekly summary of products with low stock.
+    - button "Edit"
+  - paragraph: Push
+  - checkbox "Push" [checked]
+  - paragraph: In-app
+  - checkbox "In-app" [checked]
+  - heading "Insights" [level=2]
+  - text: "On"
+  - paragraph: Receive business performance summaries. You will only receive this if you have access to reports.
+  - paragraph: Insights
+  - checkbox "Insights" [checked]
+  - text: Email Push In-app
+  - separator
+  - heading "Daily summary" [level=3]
+  - heading "Daily business performance summary" [level=4]
+  - paragraph: Email
+  - checkbox "Email" [checked]
+  - separator
+  - heading "Weekly summary" [level=3]
+  - heading "Weekly business performance summary" [level=4]
+  - paragraph: Email
+  - checkbox "Email" [checked]
+  - separator
+  - heading "Monthly summary" [level=3]
+  - heading "Monthly business performance summary" [level=4]
+  - paragraph: Email
+  - checkbox "Email" [checked]
+  - heading "AI Concierge" [level=2]
+  - text: "On"
+  - paragraph: Receive notifications about AI Concierge
+  - paragraph: AI Concierge
+  - checkbox "AI Concierge" [checked]
+  - text: Email Push In-app
+  - separator
+  - heading "Client note" [level=3]
+  - heading "When a client leaves a note with AI Concierge" [level=4]
+  - paragraph: Push
+  - checkbox "Push" [checked]
+  - paragraph: In-app
+  - checkbox "In-app" [checked]

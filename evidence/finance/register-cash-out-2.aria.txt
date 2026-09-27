@@ -1,0 +1,17 @@
+URL: https://partners.fresha.com/sales/register/cash-out/
+- dialog:
+  - progressbar "Cash out progress":
+    - paragraph: Cash out progress
+  - button "Go back"
+  - text: Cash out petty cash
+  - button "Close"
+  - button "Confirm"
+  - heading "Cash out petty cash" [level=1]
+  - text: Enter the amount you want to take out and a note so you can refer to it later Amount SGD
+  - spinbutton "Amount"
+  - button "Count"
+  - text: Note 0/100
+  - textbox "Note 0/100":
+    - /placeholder: Add a note
+  - button "Add attachment"
+  - paragraph: Naing Aung Linn • Sep 27, 2026

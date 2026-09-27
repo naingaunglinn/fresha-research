@@ -1,0 +1,33 @@
+URL: https://partners.fresha.com/calendar?date=2026-09-27&view=day&location_id=3210819&calendar_selected_resources=e-working
+- link "Fresha":
+  - /url: /calendar
+  - img "Fresha"
+- button "Continue setup":
+  - paragraph: Continue setup
+- button "Search"
+- button "Performance insights"
+- button "Notifications"
+- link "Fresha Connect":
+  - /url: /connect
+- link "Wallet":
+  - /url: /calendar/drawer/wallet/all/accounts/?date=2026-09-27&view=day&location_id=3210819&calendar_selected_resources=e-working
+  - text: "1"
+- button "Open user menu": NL
+- link:
+  - /url: /dashboard
+- link:
+  - /url: /calendar?date=2026-09-27&view=day&location_id=3210819&calendar_selected_resources=e-working
+- button
+- button
+- button
+- button
+- button
+- button
+- link:
+  - /url: /reports
+- link:
+  - /url: /add-ons
+- link:
+  - /url: /setup
+- button
+- img "spinner"

@@ -1,0 +1,71 @@
+URL: https://partners.fresha.com/setup/scheduling/availability/edit-online-availability/
+- dialog "Booking window":
+  - text: Booking window
+  - button "Close"
+  - button "Save"
+  - heading "Booking window" [level=1]
+  - paragraph:
+    - text: Control when clients can book, cancel and reschedule appointments online.
+    - link "Learn more":
+      - /url: https://www.fresha.com/help-center/knowledge-base/calendar/101218-manage-online-bookings-settings
+  - paragraph: Online availability
+  - paragraph: Set how far in advance online bookings are allowed, and how close before they start
+  - text: Clients can book up to 12 months in advance
+  - combobox "Clients can book":
+    - option "up to 12 months in advance" [selected]
+    - option "up to 11 months in advance"
+    - option "up to 10 months in advance"
+    - option "up to 9 months in advance"
+    - option "up to 8 months in advance"
+    - option "up to 7 months in advance"
+    - option "up to 6 months in advance"
+    - option "up to 5 months in advance"
+    - option "up to 4 months in advance"
+    - option "up to 3 months in advance"
+    - option "up to 2 months in advance"
+    - option "up to 1 month in advance"
+  - text: and no later than immediately before start time
+  - combobox "and no later than":
+    - option "immediately before start time" [selected]
+    - option "15 minutes before start time"
+    - option "30 minutes before start time"
+    - option "45 minutes before start time"
+    - option "1 hour before start time"
+    - option "2 hours before start time"
+    - option "3 hours before start time"
+    - option "4 hours before start time"
+    - option "5 hours before start time"
+    - option "6 hours before start time"
+    - option "7 hours before start time"
+    - option "8 hours before start time"
+    - option "9 hours before start time"
+    - option "10 hours before start time"
+    - option "11 hours before start time"
+    - option "12 hours before start time"
+    - option "24 hours before start time"
+    - option "2 days before start time"
+    - option "3 days before start time"
+    - option "4 days before start time"
+    - option "5 days before start time"
+    - option "6 days before start time"
+    - option "7 days before start time"
+    - option "14 days before start time"
+  - paragraph: Cancellation and rescheduling
+  - paragraph: Set how close to an appointment clients can cancel or reschedule online. After this point, they must contact you directly.
+  - text: Clients can cancel or reschedule Anytime
+  - combobox "Clients can cancel or reschedule":
+    - option "Anytime" [selected]
+    - option "up to 30 minutes before start time"
+    - option "up to 1 hour before start time"
+    - option "up to 2 hours before start time"
+    - option "up to 3 hours before start time"
+    - option "up to 4 hours before start time"
+    - option "up to 5 hours before start time"
+    - option "up to 6 hours before start time"
+    - option "up to 12 hours before start time"
+    - option "up to 24 hours before start time"
+    - option "up to 48 hours before start time"
+    - option "up to 72 hours before start time"
+  - paragraph: Show your contact number when online changes aren't allowed
+  - paragraph: Clients can see your venue's contact number when attempting to cancel or reschedule within the restricted time frame
+  - checkbox "Show your contact number when online changes aren't allowed" [checked]

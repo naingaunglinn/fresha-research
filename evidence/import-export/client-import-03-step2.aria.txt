@@ -1,0 +1,62 @@
+URL: https://partners.fresha.com/clients/client-import/preview
+- link "Fresha":
+  - /url: /calendar
+  - img "Fresha"
+- button "Continue setup":
+  - paragraph: Continue setup
+- button "Search"
+- button "Performance insights"
+- button "Notifications"
+- link "Fresha Connect":
+  - /url: /connect
+- link "Wallet":
+  - /url: /clients/client-import/preview/drawer/wallet/all/accounts/
+  - text: "1"
+- button "Open user menu": NL
+- link:
+  - /url: /dashboard
+- link:
+  - /url: /calendar
+- button
+- button
+- button
+- button
+- button
+- button
+- link:
+  - /url: /reports
+- link:
+  - /url: /add-ons
+- link:
+  - /url: /setup
+- button
+- button "Collapse Navigation Menu"
+- paragraph: Clients
+- link "Clients list":
+  - /url: /clients/list
+  - paragraph: Clients list
+- link "Client segments":
+  - /url: /clients/segments
+  - paragraph: Client segments
+- separator
+- paragraph: Engage
+- link "Client loyalty":
+  - /url: /clients/loyalty
+  - paragraph: Client loyalty
+- link "Online reputation":
+  - /url: /clients/online-reputation
+  - paragraph: Online reputation
+- progressbar "Customer Import - Step 3 of 4":
+  - paragraph: Customer Import - Step 3 of 4
+- button "Go back"
+- text: Preview client list
+- button "Options"
+- button "Close"
+- button "Start import"
+- text: Import clients
+- heading "Preview client list" [level=1]
+- text: Check if all fields are imported correctly. Errors in a row will result in that row not being imported. Client details will be imported exactly as entered. By choosing to import them, you confirm they have agreed to receive messages (SMS or email) from your business that Fresha may send on your behalf.
+- tablist:
+  - tab "To be imported (0)" [selected]
+  - tab "Errors (5)"
+- tabpanel "To be imported (0)": No rows were found It looks like no data was found in this tab

@@ -1,0 +1,78 @@
+URL: https://partners.fresha.com/team/team-members/add/?section=services
+- dialog "Add team member":
+  - text: Add team member
+  - button "Close"
+  - button "Add"
+  - heading "Add team member" [level=1]
+  - paragraph: Services
+  - paragraph: Choose the services this team member provides
+  - textbox:
+    - /placeholder: Search services
+  - button
+  - paragraph: All services
+  - checkbox "All services" [checked]
+  - paragraph: All services
+  - text: "4"
+  - button
+  - paragraph: Hair & styling
+  - checkbox "Hair & styling" [checked]
+  - paragraph: Hair & styling
+  - text: "4"
+  - group "Hair & styling":
+    - paragraph: Hair & styling
+    - paragraph: Haircut
+    - paragraph: 45 min
+    - text: SGD 40
+    - checkbox "Haircut" [checked]
+    - separator
+    - paragraph: Hair Color
+    - paragraph: 1 hr, 15 min
+    - text: SGD 57
+    - checkbox "Hair Color" [checked]
+    - separator
+    - paragraph: Blow Dry
+    - paragraph: 35 min
+    - text: SGD 35
+    - checkbox "Blow Dry" [checked]
+    - separator
+    - paragraph: Balayage
+    - paragraph: 2 hr, 30 min
+    - text: SGD 150
+    - checkbox "Balayage" [checked]
+  - list:
+    - listitem:
+      - text: Personal
+      - list:
+        - listitem:
+          - button
+          - text: Profile
+        - listitem:
+          - button
+          - text: Addresses
+        - listitem:
+          - button
+          - text: Emergency contacts
+    - listitem:
+      - text: Workspace
+      - list:
+        - listitem:
+          - button
+          - text: Services 4
+        - listitem:
+          - button
+          - text: Locations
+        - listitem:
+          - button
+          - text: Settings
+    - listitem:
+      - text: Pay
+      - list:
+        - listitem:
+          - button
+          - text: Wages and timesheets
+        - listitem:
+          - button
+          - text: Commissions
+        - listitem:
+          - button
+          - text: Pay runs

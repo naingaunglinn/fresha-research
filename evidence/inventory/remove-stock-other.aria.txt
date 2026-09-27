@@ -1,0 +1,22 @@
+URL: https://partners.fresha.com/catalogue/products/drawer/product/13235071/stock-history/select-location/decrease-/stock/decrease/3210802/13235071?product-list-page=1&product-list-page-size=10&product-list-sort-order=desc&product-list-sort-by=updated_at&product-list-out-of-stock-only=false&product-list-low-stock=false
+- dialog "Remove stock":
+  - paragraph: Remove stock
+  - button "Close modal"
+  - paragraph: ZZTest Pomade
+  - text: 20 in stock Quantity
+  - spinbutton "Quantity": "2"
+  - button "Decrease value"
+  - button "Increase value"
+  - text: Reason Other
+  - combobox "Reason":
+    - option "Internal use"
+    - option "Damaged"
+    - option "Out of date"
+    - option "Adjustment"
+    - option "Lost"
+    - option "Other" [selected]
+  - text: Description
+  - textbox "Description":
+    - /placeholder: Please specify
+  - button "Cancel"
+  - button "Save"

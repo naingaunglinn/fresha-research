@@ -1,0 +1,49 @@
+URL: https://partners.fresha.com/team/team-members/edit/5609627/campaign-wizard/new/set-up-commission?section=commissions
+- dialog:
+  - progressbar:
+    - paragraph
+  - button "Go back"
+  - text: Set fixed rate commission
+  - button "Close"
+  - button "Continue"
+  - heading "Set fixed rate commission" [level=1]
+  - text: Choose how much this team member earns on each eligible sale Rate type Percentage of sale amount (%)
+  - combobox "Rate type":
+    - option "Percentage of sale amount (%)" [selected]
+    - option "Fixed value on sale amount (SGD)"
+  - text: Default rate %
+  - spinbutton "Default rate": "40.00"
+  - paragraph: E.g. For a SGD 100 sale, SGD 40 will be earned
+  - paragraph: Commission applies to
+  - paragraph: Select the items this commission covers
+  - group "Commission applies to":
+    - paragraph: Commission applies to
+    - heading "Services" [level=3]
+    - heading "All services included" [level=4]
+    - button "Customize"
+    - checkbox "Services" [checked]
+    - heading "Service add-ons" [level=3]
+    - checkbox "Service add-ons"
+    - heading "Products" [level=3]
+    - heading "All products included" [level=4]
+    - button "Customize"
+    - checkbox "Products" [checked]
+    - heading "Packages" [level=3]
+    - checkbox "Packages"
+    - heading "Memberships" [level=3]
+    - checkbox "Memberships"
+    - heading "Gift cards" [level=3]
+    - checkbox "Gift cards"
+    - heading "Late cancellation and no show fees" [level=3]
+    - checkbox "Late cancellation and no show fees"
+  - button "Advanced options"
+  - text: Commission rules
+  - button "Edit": Workspace defaults Edit
+  - paragraph: Discounts and taxes will be deducted from sale prices prior to calculating commission.
+  - text: Locations
+  - button "Edit": All locations Edit
+  - paragraph: This commission will be applied to sales at these locations
+  - text: Days this commission applies to
+  - button "Edit": Every day Edit
+  - paragraph:
+    - paragraph: Commission is earned only on scheduled shifts that fall on the selected days

@@ -1,0 +1,78 @@
+URL: https://partners.fresha.com/fresha/online-booking/buttons-and-links/overview-modal/direct-link-services/
+- link "Fresha":
+  - /url: /calendar
+  - img "Fresha"
+- button "Continue setup":
+  - paragraph: Continue setup
+- button "Search"
+- button "Performance insights"
+- button "Notifications"
+- link "Fresha Connect":
+  - /url: /connect
+- link "Wallet":
+  - /url: /fresha/online-booking/buttons-and-links/overview-modal/direct-link-services/drawer/wallet/all/accounts/
+  - text: "1"
+- button "Open user menu": NL
+- link:
+  - /url: /dashboard
+- link:
+  - /url: /calendar
+- button
+- button
+- button
+- button
+- button
+- button
+- link:
+  - /url: /reports
+- link:
+  - /url: /add-ons
+- link:
+  - /url: /setup
+- button
+- button "Collapse Navigation Menu"
+- paragraph: Online bookings
+- link "Marketplace profile":
+  - /url: /fresha/online-booking/locations
+  - paragraph: Marketplace profile
+- link "Reserve with Google":
+  - /url: /fresha/online-booking/google-reserve
+  - paragraph: Reserve with Google
+- link "Facebook and Instagram bookings":
+  - /url: /fresha/online-booking/facebook-setup
+  - paragraph: Facebook and Instagram bookings
+- link "Link builder":
+  - /url: /fresha/online-booking/buttons-and-links
+  - paragraph: Link builder
+- separator
+- paragraph: Your websites
+- link "Smart Website":
+  - /url: /fresha/online-booking/smart-website
+  - paragraph: Smart Website
+- link "Product store":
+  - /url: /fresha/online-booking/store
+  - paragraph: Product store
+- paragraph: Link builder
+- paragraph:
+  - text: Create shareable links and QR codes for anything that your clients can book or buy online.
+  - link "Learn more":
+    - /url: https://www.fresha.com/help-center/knowledge-base/online-presence/434-add-a-book-button-to-your-website
+- paragraph: Link to everything
+- paragraph: One simple link covering everything your clients can book or buy online.
+- button "Create link"
+- paragraph: Link to services
+- paragraph: Booking links for certain services, locations or team members.
+- button "Create link"
+- paragraph: Link to packages
+- paragraph: Link to a specific package or your full list of packages.
+- button "Create link"
+- paragraph: Link to memberships
+- paragraph: Link to a specific membership or your full list of memberships.
+- button "Create link"
+- paragraph: Link to gift cards
+- paragraph: Simple link to directly buy a gift card
+- button "Create link"
+- text: To sell services online, publish Fresha profile Join the world's largest beauty and wellness marketplace Get your business listed on the Fresha app Reach thousands of new clients who visit Fresha every day Free up time and get your clients self-booking online 24/7
+- button "Start now"
+- img
+- button "Close"

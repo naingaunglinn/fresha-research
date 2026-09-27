@@ -1,0 +1,54 @@
+URL: https://partners.fresha.com/team/payrun/overview
+- link "Fresha":
+  - /url: /calendar
+  - img "Fresha"
+- button "Continue setup":
+  - paragraph: Continue setup
+- button "Search"
+- button "Performance insights"
+- button "Notifications"
+- link "Fresha Connect":
+  - /url: /connect
+- link "Wallet":
+  - /url: /team/payrun/overview/drawer/wallet/all/accounts/
+  - text: "1"
+- button "Open user menu": NL
+- link:
+  - /url: /dashboard
+- link:
+  - /url: /calendar
+- button
+- button
+- button
+- button
+- button
+- button
+- link:
+  - /url: /reports
+- link:
+  - /url: /add-ons
+- link:
+  - /url: /setup
+- button
+- button "Collapse Navigation Menu"
+- paragraph: Team
+- link "Team members":
+  - /url: /team/team-members
+  - paragraph: Team members
+- link "Scheduled shifts":
+  - /url: /team/scheduled-shifts
+  - paragraph: Scheduled shifts
+- link "Timesheets":
+  - /url: /team/timesheets
+  - paragraph: Timesheets
+- link "Pay runs":
+  - /url: /team/payrun/overview
+  - paragraph: Pay runs
+- paragraph: Included in your plan
+- text: Put an end to your payroll struggles Make paying your team easy, so you can spend time on the things that matter Combine wages, commissions, and tips into a single pay run Adjust the amount owed to include bonuses Share detailed earning reports for each team member
+- button "Start now"
+- link "Learn more":
+  - /url: https://www.fresha.com/help-center/knowledge-base/team/101641-enable-pay-runs-and-set-your-pay-period
+- img
+- img
+- img

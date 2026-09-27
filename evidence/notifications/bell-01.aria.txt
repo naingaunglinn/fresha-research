@@ -1,0 +1,38 @@
+URL: https://partners.fresha.com/marketing/automated-messages/overview/new-appointment/drawer/notifications/
+- dialog:
+  - button "Close Drawer"
+  - text: Appointments
+  - button "Notification settings"
+  - heading "Appointments" [level=1]
+  - paragraph: Read
+  - button
+  - paragraph: New appointment (DEMO)
+  - paragraph: 2 hours ago
+  - text: J
+  - paragraph: 10:00 today Blow Dry for Jack booked with Wendy
+  - button
+  - paragraph: New appointment (DEMO)
+  - paragraph: 2 hours ago
+  - text: J
+  - paragraph: 11:00 today Hair Color for Jane booked with you
+  - button
+  - paragraph: New appointment (DEMO)
+  - paragraph: 2 hours ago
+  - text: J
+  - paragraph: 09:00 today Haircut for John booked with you
+  - list:
+    - listitem:
+      - button "Appointments":
+        - paragraph: Appointments
+    - listitem:
+      - button "Reviews":
+        - paragraph: Reviews
+    - listitem:
+      - button "Tips":
+        - paragraph: Tips
+    - listitem:
+      - button "Online sales":
+        - paragraph: Online sales
+    - listitem:
+      - button "Actions":
+        - paragraph: Actions

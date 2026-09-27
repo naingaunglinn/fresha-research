@@ -1,0 +1,30 @@
+URL: https://partners.fresha.com/setup/location/3210802/sales
+- link "Fresha":
+  - /url: /calendar
+  - img "Fresha"
+- button "Search"
+- button "Performance insights"
+- button "News": "3"
+- button "Notifications"
+- link "Fresha Connect":
+  - /url: /connect
+- link "Wallet":
+  - /url: /setup/location/3210802/sales/drawer/wallet/all/accounts/
+  - text: "1"
+- link:
+  - /url: /dashboard
+- link:
+  - /url: /calendar
+- button
+- button
+- button
+- button
+- button
+- button
+- link:
+  - /url: /reports
+- link:
+  - /url: /add-ons
+- link:
+  - /url: /setup
+- button

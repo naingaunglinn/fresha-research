@@ -1,0 +1,206 @@
+URL: https://partners.fresha.com/setup/team/permissions/manage-permissions/8139865
+- link "Fresha":
+  - /url: /calendar
+  - img "Fresha"
+- button "Continue setup":
+  - paragraph: Continue setup
+- button "Search"
+- button "Performance insights"
+- button "Notifications"
+- link "Fresha Connect":
+  - /url: /connect
+- link "Wallet":
+  - /url: /setup/team/permissions/manage-permissions/8139865/drawer/wallet/all/accounts/
+  - text: "1"
+- button "Open user menu": NL
+- link:
+  - /url: /dashboard
+- link:
+  - /url: /calendar
+- button
+- button
+- button
+- button
+- button
+- button
+- link:
+  - /url: /reports
+- link:
+  - /url: /add-ons
+- link:
+  - /url: /setup
+- button
+- button "Back"
+- navigation:
+  - list:
+    - listitem:
+      - link "Workspace settings •":
+        - /url: /setup
+    - listitem:
+      - link "Team":
+        - /url: /setup/team
+- paragraph: Team
+- list:
+  - listitem:
+    - list:
+      - listitem:
+        - link:
+          - /url: /setup/team/permissions
+        - text: Permission roles
+      - listitem:
+        - link:
+          - /url: /setup/team/time-off
+        - text: Time off types
+      - listitem:
+        - link:
+          - /url: /setup/team/timesheets
+        - text: Timesheets
+      - listitem:
+        - link:
+          - /url: /setup/team/shifts
+        - text: Shifts
+      - listitem:
+        - link:
+          - /url: /setup/team/pay-runs
+        - text: Pay runs
+      - listitem:
+        - link:
+          - /url: /setup/team/comissions
+        - text: Commissions
+      - listitem:
+        - link:
+          - /url: /setup/team/pin-switching
+        - text: PIN switching
+- separator
+- list:
+  - listitem:
+    - list:
+      - listitem:
+        - button
+        - text: Team members
+      - listitem:
+        - button
+        - text: Scheduled shifts
+- paragraph: Permission roles
+- paragraph:
+  - text: Choose what areas are accessible to each permission role.
+  - link "Learn more":
+    - /url: https://www.fresha.com/help-center/knowledge-base/team/100687-create-permission-roles
+- button "Options"
+- button "Add"
+- button
+- heading "Basic" [level=3]
+- heading "Partial access to Calendar, Sales, and Reports." [level=4]
+- button "MT"
+- button "AT"
+- button "Actions"
+- button
+- heading "Low" [level=3]
+- heading "Partial access to Calendar, Sales, Clients, Online profile, Marketing, Team, Reports, and Workspace." [level=4]
+- button "Actions"
+- button
+- heading "Medium" [level=3]
+- heading "Partial access to Calendar, Sales, Clients, Catalog, Online profile, Marketing, Team, Reports, and Workspace." [level=4]
+- button "Actions"
+- button
+- heading "High" [level=3]
+- heading "Full access to Clients, Online profile, Marketing, and Workspace. Partial access to Calendar, Sales, Catalog, Team, Reports, and Payments and wallet." [level=4]
+- button "Actions"
+- heading "Other" [level=2]
+- heading "Workspace owner" [level=3]
+- heading "Full access to all areas." [level=4]
+- text: NL
+- button "Actions"
+- heading "No access" [level=3]
+- heading "No access to workspace features." [level=4]
+- button "WS"
+- button "Actions"
+- dialog "Edit Basic permission role":
+  - text: Edit Basic permission role
+  - button "Close"
+  - button "Save"
+  - heading "Edit Basic permission role" [level=1]
+  - text: Select the areas of your workspace that team members in this role can access and manage Search permissions
+  - textbox "Search permissions":
+    - /placeholder: Search permissions...
+  - paragraph: Permission area
+  - list:
+    - listitem:
+      - list:
+        - listitem:
+          - button
+          - text: Calendar
+        - listitem:
+          - button
+          - text: Sales
+        - listitem:
+          - button
+          - text: Clients
+        - listitem:
+          - button
+          - text: Catalog
+        - listitem:
+          - button
+          - text: Online profile
+        - listitem:
+          - button
+          - text: Marketing
+        - listitem:
+          - button
+          - text: Team
+        - listitem:
+          - button
+          - text: Reports
+        - listitem:
+          - button
+          - text: Payments and wallet
+        - listitem:
+          - button
+          - text: Workspace
+  - paragraph: Calendar
+  - text: Active
+  - paragraph: Allow access to the calendar and decide what actions they can perform.
+  - paragraph:
+    - link "Learn more":
+      - /url: https://www.fresha.com/help-center/knowledge-base/team/100687-create-permission-roles
+  - paragraph: Active
+  - checkbox "Active" [checked]
+  - paragraph: Calendar access and actions
+  - paragraph: Can view their own calendar
+  - checkbox "Can view their own calendar" [checked] [disabled]
+  - paragraph: Can view other team members' calendars
+  - checkbox "Can view other team members' calendars" [checked]
+  - paragraph: Can create appointments
+  - checkbox "Can create appointments"
+  - paragraph: Can edit preferred team member for an appointment
+  - checkbox "Can edit preferred team member for an appointment" [disabled]
+  - paragraph: Can apply discounts to appointments
+  - checkbox "Can apply discounts to appointments" [disabled]
+  - paragraph: Blocked times
+  - paragraph: Can create a blocked time in their own calendar
+  - checkbox "Can create a blocked time in their own calendar"
+  - paragraph: Can create a blocked time for all team members
+  - checkbox "Can create a blocked time for all team members"
+  - paragraph: Can set up and change blocked time types for the workspace
+  - checkbox "Can set up and change blocked time types for the workspace"
+  - paragraph: Booking restrictions
+  - paragraph: Can book a service with team members not assigned to deliver that service
+  - checkbox "Can book a service with team members not assigned to deliver that service"
+  - paragraph: Can book a service with resources not set up to deliver that service
+  - checkbox "Can book a service with resources not set up to deliver that service"
+  - paragraph: Calendar settings
+  - paragraph: Can manage business closed dates
+  - checkbox "Can manage business closed dates"
+  - paragraph: Calendar sync
+  - paragraph: Can link their own calendar to external calendars
+  - checkbox "Can link their own calendar to external calendars" [checked]
+  - paragraph: Can export calendar items to an external calendar
+  - checkbox "Can export calendar items to an external calendar" [checked] [disabled]
+  - paragraph: Can import calendar items from an external calendar
+  - checkbox "Can import calendar items from an external calendar"
+  - paragraph: Can link any calendar to external calendars
+  - checkbox "Can link any calendar to external calendars" [checked]
+  - paragraph: Can export calendar items to an external calendar
+  - checkbox "Can export calendar items to an external calendar" [checked] [disabled]
+  - paragraph: Can import calendar items from an external calendar
+  - checkbox "Can import calendar items from an external calendar"

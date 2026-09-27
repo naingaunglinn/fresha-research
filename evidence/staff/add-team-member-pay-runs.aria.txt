@@ -1,0 +1,83 @@
+URL: https://partners.fresha.com/team/team-members/add/?section=payruns
+- dialog "Add team member":
+  - text: Add team member
+  - button "Close"
+  - button "Add"
+  - heading "Add team member" [level=1]
+  - paragraph: Pay runs
+  - text: "On"
+  - paragraph:
+    - text: Choose how you will pay this team member through pay runs.
+    - link "Learn more":
+      - /url: https://www.fresha.com/help-center/knowledge-base/team/101641-enable-pay-runs-and-set-your-pay-period
+  - paragraph: Enable pay runs
+  - checkbox "Enable pay runs" [checked]
+  - paragraph: Preferred payment method
+  - paragraph:
+    - text: Choose how you would prefer to pay your team member when completing a pay run. A processing fee may apply for transfers to bank accounts.
+    - link "Learn more":
+      - /url: https://www.fresha.com/help-center/knowledge-base/team/101641-enable-pay-runs-and-set-your-pay-period
+  - paragraph: Pay manually
+  - paragraph: Mark as paid outside of Fresha
+  - link "Change":
+    - /url: /team/team-members/add/select-payment-method/?section=payruns
+  - separator
+  - paragraph: Calculation of pay runs
+  - paragraph: Choose if the amount to pay is calculated automatically or manually entered at each pay period
+  - button "Automatic calculation"
+  - text: Automatic calculation Calculates the amount to pay based on activity from timesheets, earned wages, commissions and tips as configured on this team members settings.
+  - separator
+  - paragraph: Pay run deductions
+  - paragraph:
+    - text: Choose which fees to automatically deduct from this team member’s earnings.
+    - link "Learn more":
+      - /url: https://www.fresha.com/help-center/knowledge-base/team/101637-prepare-a-pay-run
+  - paragraph: Deduct Fresha payment processing fees
+  - paragraph: Deduct payment processing fees for items sold by this team member.
+  - checkbox "Deduct Fresha payment processing fees"
+  - paragraph: Deduct Fresha new client fees
+  - paragraph: Deduct the new client fee for any new client bookings with this team member.
+  - checkbox "Deduct Fresha new client fees"
+  - separator
+  - paragraph: Cash advances
+  - paragraph: Choose how you want to manage cash payments
+  - paragraph: Record cash payments for sales as 'paid' in pay runs
+  - paragraph: When a sale is paid in cash, record that this team member has taken the full cash amount as an advance within the pay period.
+  - checkbox "Record cash payments for sales as 'paid' in pay runs"
+  - list:
+    - listitem:
+      - text: Personal
+      - list:
+        - listitem:
+          - button
+          - text: Profile
+        - listitem:
+          - button
+          - text: Addresses
+        - listitem:
+          - button
+          - text: Emergency contacts
+    - listitem:
+      - text: Workspace
+      - list:
+        - listitem:
+          - button
+          - text: Services 4
+        - listitem:
+          - button
+          - text: Locations
+        - listitem:
+          - button
+          - text: Settings
+    - listitem:
+      - text: Pay
+      - list:
+        - listitem:
+          - button
+          - text: Wages and timesheets
+        - listitem:
+          - button
+          - text: Commissions
+        - listitem:
+          - button
+          - text: Pay runs

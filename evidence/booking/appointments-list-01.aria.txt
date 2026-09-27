@@ -1,0 +1,141 @@
+URL: https://partners.fresha.com/sales/appointments-list
+- link "Fresha":
+  - /url: /calendar
+  - img "Fresha"
+- button "Continue setup":
+  - paragraph: Continue setup
+- button "Search"
+- button "Performance insights"
+- button "Notifications"
+- link "Fresha Connect":
+  - /url: /connect
+- link "Wallet":
+  - /url: /sales/appointments-list/drawer/wallet/all/accounts/
+  - text: "1"
+- button "Open user menu": NL
+- link:
+  - /url: /dashboard
+- link:
+  - /url: /calendar
+- button
+- button
+- button
+- button
+- button
+- button
+- link:
+  - /url: /reports
+- link:
+  - /url: /add-ons
+- link:
+  - /url: /setup
+- button
+- button "Collapse Navigation Menu"
+- paragraph: Sales
+- link "Daily sales summary":
+  - /url: /sales/daily-sales
+  - paragraph: Daily sales summary
+- link "Register":
+  - /url: /sales/register
+  - paragraph: Register
+- link "Appointments":
+  - /url: /sales/appointments-list
+  - paragraph: Appointments
+- link "Sales":
+  - /url: /sales/sales-list
+  - paragraph: Sales
+- link "Payments":
+  - /url: /sales/payment-transactions
+  - paragraph: Payments
+- separator
+- paragraph: Sold items
+- link "Gift cards sold":
+  - /url: /sales/gift-cards
+  - paragraph: Gift cards sold
+- link "Packages sold":
+  - /url: /sales/packages-sold
+  - paragraph: Packages sold
+- link "Memberships sold":
+  - /url: /sales/paid-plans
+  - paragraph: Memberships sold
+- link "Product orders":
+  - /url: /sales/store-orders
+  - paragraph: Product orders
+- paragraph: Appointments
+- paragraph: View, filter and export appointments booked by your clients.
+- button "Export"
+- text: Search
+- textbox "Search":
+  - /placeholder: Search by Reference or Client
+- button "Month to date"
+- button "Filters"
+- button "Scheduled Date (newest first)"
+- region:
+  - table:
+    - rowgroup:
+      - 'row "Ref # Client Service Created by Created Date Scheduled Date Duration Location Team member Price Status"':
+        - 'columnheader "Ref #"'
+        - columnheader "Client"
+        - columnheader "Service"
+        - columnheader "Created by"
+        - columnheader "Created Date":
+          - button "Created Date"
+        - columnheader "Scheduled Date":
+          - button "Scheduled Date"
+        - columnheader "Duration":
+          - button "Duration"
+        - columnheader "Location"
+        - columnheader "Team member"
+        - columnheader "Price"
+        - columnheader "Status"
+  - table:
+    - rowgroup:
+      - row "#4560B034 Jane Doe Hair Color Naing Aung Linn 27 Sep 2026, 14:19 27 Sep 2026, 11:00 1h 15min Baber Shop Naing Aung Linn SGD 57.00 Booked":
+        - cell "#4560B034":
+          - link "#4560B034":
+            - /url: /sales/appointments-list/drawer/view-appointment/1314210100?resetAppointmentState=true
+        - cell "Jane Doe":
+          - link "Jane Doe":
+            - /url: /sales/appointments-list/drawer/clients/299742678
+        - cell "Hair Color"
+        - cell "Naing Aung Linn"
+        - cell "27 Sep 2026, 14:19"
+        - cell "27 Sep 2026, 11:00"
+        - cell "1h 15min"
+        - cell "Baber Shop"
+        - cell "Naing Aung Linn"
+        - cell "SGD 57.00"
+        - cell "Booked"
+      - row "#AA3E5CE4 Jack Doe Blow Dry Naing Aung Linn 27 Sep 2026, 14:19 27 Sep 2026, 10:00 35min Baber Shop Wendy Smith (Demo) SGD 35.00 Booked":
+        - cell "#AA3E5CE4":
+          - link "#AA3E5CE4":
+            - /url: /sales/appointments-list/drawer/view-appointment/1314210122?resetAppointmentState=true
+        - cell "Jack Doe":
+          - link "Jack Doe":
+            - /url: /sales/appointments-list/drawer/clients/299742684
+        - cell "Blow Dry"
+        - cell "Naing Aung Linn"
+        - cell "27 Sep 2026, 14:19"
+        - cell "27 Sep 2026, 10:00"
+        - cell "35min"
+        - cell "Baber Shop"
+        - cell "Wendy Smith (Demo)"
+        - cell "SGD 35.00"
+        - cell "Booked"
+      - row "#53B52046 John Doe Haircut Naing Aung Linn 27 Sep 2026, 14:19 27 Sep 2026, 09:00 45min Baber Shop Naing Aung Linn SGD 40.00 Booked":
+        - cell "#53B52046":
+          - link "#53B52046":
+            - /url: /sales/appointments-list/drawer/view-appointment/1314210097?resetAppointmentState=true
+        - cell "John Doe":
+          - link "John Doe":
+            - /url: /sales/appointments-list/drawer/clients/299742677
+        - cell "Haircut"
+        - cell "Naing Aung Linn"
+        - cell "27 Sep 2026, 14:19"
+        - cell "27 Sep 2026, 09:00"
+        - cell "45min"
+        - cell "Baber Shop"
+        - cell "Naing Aung Linn"
+        - cell "SGD 40.00"
+        - cell "Booked"
+- text: Viewing results 1 to 3 of 3

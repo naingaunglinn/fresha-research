@@ -1,0 +1,12 @@
+URL: https://partners.fresha.com/sales/register/open-register/
+- dialog:
+  - text: Open cash register
+  - button "Close"
+  - button "Open register"
+  - heading "Open cash register" [level=1]
+  - text: ZZTest Register B • Branch B Opening float SGD
+  - spinbutton "Opening float"
+  - button "Count"
+  - text: Note 0/100
+  - textbox "Note 0/100":
+    - /placeholder: Add a note

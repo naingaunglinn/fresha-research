@@ -1,0 +1,24 @@
+URL: https://partners.fresha.com/setup/scheduling/availability/edit-schedule-optimisation/
+- dialog "Schedule optimization":
+  - text: Schedule optimization
+  - button "Close"
+  - button "Save"
+  - heading "Schedule optimization" [level=1]
+  - paragraph:
+    - text: Choose which available times are offered to clients, to strategically reduce gaps between separate appointments.
+    - link "Learn more":
+      - /url: https://www.fresha.com/help-center/knowledge-base/calendar/496-optimize-online-schedule-availability
+  - text: Time slot interval
+  - button "15 minutes Time slot interval": 15 minutes
+  - radiogroup "Intelligent time slots":
+    - paragraph: Intelligent time slots
+    - paragraph: Show only specific time slots to clients booking online to prevent gaps in your calendar that are unable to be filled
+    - paragraph: Regular time slots Max availability
+    - paragraph: Show all available time slots based on your time slot interval. This may create gaps in your calendar
+    - radio "Regular time slots Max availability" [checked]
+    - paragraph: Reduce calendar gaps
+    - paragraph: Intelligently show your clients plenty of slots while preventing them from creating gaps that are difficult to fill
+    - radio "Reduce calendar gaps"
+    - paragraph: Eliminate calendar gaps
+    - paragraph: Only show slots before and after existing appointments and blocked time. This may limit your online availability
+    - radio "Eliminate calendar gaps"

@@ -1,0 +1,15 @@
+URL: https://partners.fresha.com/calendar/drawer/new-sale/quick-sale/discount/?date=2026-09-27&view=day&location_id=3210802&calendar_selected_resources=e-working&checkout-order-id=1078327106
+- dialog "Add cart discount":
+  - paragraph:
+    - paragraph: Add cart discount
+    - text: Taxes will be recalculated after the discount has been applied.
+  - button "Close modal"
+  - text: Amount %
+  - spinbutton "Amount": "0"
+  - button "SGD":
+    - paragraph: SGD
+  - button "%":
+    - paragraph: "%"
+  - paragraph: Total after discount
+  - text: SGD 55
+  - button "Add"

@@ -1,0 +1,58 @@
+URL: https://partners.fresha.com/team/team-members/add/?section=locations
+- dialog "Add team member":
+  - text: Add team member
+  - button "Close"
+  - button "Add"
+  - heading "Add team member" [level=1]
+  - paragraph: Works at
+  - paragraph: Choose the locations where this team member works
+  - button "All locations 2":
+    - checkbox
+    - paragraph: All locations
+    - text: "2"
+  - button "Branch B Orchard Boulevard, Singapore (Central Area)":
+    - checkbox
+    - paragraph: Branch B
+    - paragraph: Orchard Boulevard, Singapore (Central Area)
+  - button "Baber Shop Thukha Dagon Housing, South Dagon, No-203, Building-(A-3), Chanthar Street, Yangon (South Dagon)":
+    - checkbox
+    - paragraph: Baber Shop
+    - paragraph: Thukha Dagon Housing, South Dagon, No-203, Building-(A-3), Chanthar Street, Yangon (South Dagon)
+  - text: At least one location must be selected.
+  - list:
+    - listitem:
+      - text: Personal
+      - list:
+        - listitem:
+          - button
+          - text: Profile
+        - listitem:
+          - button
+          - text: Addresses
+        - listitem:
+          - button
+          - text: Emergency contacts
+    - listitem:
+      - text: Workspace
+      - list:
+        - listitem:
+          - button
+          - text: Services 4
+        - listitem:
+          - button
+          - text: Locations
+        - listitem:
+          - button
+          - text: Settings
+    - listitem:
+      - text: Pay
+      - list:
+        - listitem:
+          - button
+          - text: Wages and timesheets
+        - listitem:
+          - button
+          - text: Commissions
+        - listitem:
+          - button
+          - text: Pay runs

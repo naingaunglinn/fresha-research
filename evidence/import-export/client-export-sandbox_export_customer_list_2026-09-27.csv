@@ -1,0 +1,6 @@
+"Client ID","First Name","Last Name","Full Name","Blocked","Block Reason","Gender","Mobile Number","Telephone","Email","Accepts Marketing","Accepts SMS Marketing","Address","Apartement Suite","Area","City","State","Post Code","Date of Birth","Added","Staff alert","Referral Source","Tags"
+"299749314","ZZTest","Duplicate Email","ZZTest Duplicate Email","No","","","","","zztest.clienta@example.com","Yes","Yes","","","","","","","","2026-09-27","","Walk-In",""
+"299742684","Jack","Doe","Jack Doe","No","","Male","","","jack@example.com","Yes","Yes","","","","","","","","2026-09-27","","",""
+"299742678","Jane","Doe","Jane Doe","No","","Female","","","jane@example.com","Yes","Yes","","","","","","","","2026-09-27","","",""
+"299742677","John","Doe","John Doe","No","","Male","","","john@example.com","Yes","Yes","","","","","","","","2026-09-27","","",""
+""

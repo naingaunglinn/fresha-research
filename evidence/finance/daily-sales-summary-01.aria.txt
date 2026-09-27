@@ -1,0 +1,172 @@
+URL: https://partners.fresha.com/sales/daily-sales
+- link "Fresha":
+  - /url: /calendar
+  - img "Fresha"
+- button "Continue setup":
+  - paragraph: Continue setup
+- button "Search"
+- button "Performance insights"
+- button "Notifications"
+- link "Fresha Connect":
+  - /url: /connect
+- link "Wallet":
+  - /url: /sales/daily-sales/drawer/wallet/all/accounts/
+  - text: "1"
+- button "Open user menu": NL
+- link:
+  - /url: /dashboard
+- link:
+  - /url: /calendar
+- button
+- button
+- button
+- button
+- button
+- button
+- link:
+  - /url: /reports
+- link:
+  - /url: /add-ons
+- link:
+  - /url: /setup
+- button
+- button "Collapse Navigation Menu"
+- paragraph: Sales
+- link "Daily sales summary":
+  - /url: /sales/daily-sales
+  - paragraph: Daily sales summary
+- link "Register":
+  - /url: /sales/register
+  - paragraph: Register
+- link "Appointments":
+  - /url: /sales/appointments-list
+  - paragraph: Appointments
+- link "Sales":
+  - /url: /sales/sales-list
+  - paragraph: Sales
+- link "Payments":
+  - /url: /sales/payment-transactions
+  - paragraph: Payments
+- separator
+- paragraph: Sold items
+- link "Gift cards sold":
+  - /url: /sales/gift-cards
+  - paragraph: Gift cards sold
+- link "Packages sold":
+  - /url: /sales/packages-sold
+  - paragraph: Packages sold
+- link "Memberships sold":
+  - /url: /sales/paid-plans
+  - paragraph: Memberships sold
+- link "Product orders":
+  - /url: /sales/store-orders
+  - paragraph: Product orders
+- paragraph: Daily sales
+- paragraph: View, filter and export the transactions and cash movement for the day.
+- button "Export"
+- button "Add new"
+- group:
+  - button "Previous day"
+  - button "Today"
+  - button "Sunday, 27 Sep 2026"
+  - button "Next day" [disabled]
+- paragraph: Button group
+- button "Filters"
+- region:
+  - paragraph: Transaction summary
+  - table:
+    - rowgroup:
+      - row "Item type Sales qty Refund qty Gross total":
+        - columnheader "Item type"
+        - columnheader "Sales qty"
+        - columnheader "Refund qty"
+        - columnheader "Gross total"
+    - rowgroup:
+      - row "Services 2 1 SGD 40.00":
+        - cell "Services"
+        - cell "2"
+        - cell "1"
+        - cell "SGD 40.00"
+      - row "Service add-ons 0 0 SGD 0.00":
+        - cell "Service add-ons"
+        - cell "0"
+        - cell "0"
+        - cell "SGD 0.00"
+      - row "Products 1 0 SGD 15.00":
+        - cell "Products"
+        - cell "1"
+        - cell "0"
+        - cell "SGD 15.00"
+      - row "Shipping 0 0 SGD 0.00":
+        - cell "Shipping"
+        - cell "0"
+        - cell "0"
+        - cell "SGD 0.00"
+      - row "Gift cards 0 0 SGD 0.00":
+        - cell "Gift cards"
+        - cell "0"
+        - cell "0"
+        - cell "SGD 0.00"
+      - row "Packages 0 0 SGD 0.00":
+        - cell "Packages"
+        - cell "0"
+        - cell "0"
+        - cell "SGD 0.00"
+      - row "Memberships 0 0 SGD 0.00":
+        - cell "Memberships"
+        - cell "0"
+        - cell "0"
+        - cell "SGD 0.00"
+      - row "Late cancellation fees 0 0 SGD 0.00":
+        - cell "Late cancellation fees"
+        - cell "0"
+        - cell "0"
+        - cell "SGD 0.00"
+      - row "No-show fees 0 0 SGD 0.00":
+        - cell "No-show fees"
+        - cell "0"
+        - cell "0"
+        - cell "SGD 0.00"
+      - row "Refund amount 0 0 SGD 0.00":
+        - cell "Refund amount"
+        - cell "0"
+        - cell "0"
+        - cell "SGD 0.00"
+      - row "Total Sales 3 1 SGD 55.00":
+        - cell "Total Sales"
+        - cell "3"
+        - cell "1"
+        - cell "SGD 55.00"
+- region:
+  - paragraph: Cash movement summary
+  - table:
+    - rowgroup:
+      - row "Payment type Payments collected Refunds paid":
+        - columnheader "Payment type"
+        - columnheader "Payments collected"
+        - columnheader "Refunds paid"
+    - rowgroup:
+      - row "Cash SGD 75.00 - SGD 20.00":
+        - cell "Cash"
+        - cell "SGD 75.00"
+        - cell "- SGD 20.00"
+      - row "KBZPay SGD 24.00 - SGD 20.00":
+        - cell "KBZPay"
+        - cell "SGD 24.00"
+        - cell "- SGD 20.00"
+      - row "Other SGD 0.00 SGD 0.00":
+        - cell "Other"
+        - cell "SGD 0.00"
+        - cell "SGD 0.00"
+      - row "Gift card redemptions SGD 0.00 SGD 0.00":
+        - cell "Gift card redemptions"
+        - cell "SGD 0.00"
+        - cell "SGD 0.00"
+      - row "Payments collected SGD 99.00 - SGD 40.00":
+        - cell "Payments collected"
+        - cell "SGD 99.00"
+        - cell "- SGD 40.00"
+      - row "Of which tips SGD 4.00 SGD 0.00":
+        - cell "Of which tips"
+        - cell "SGD 4.00"
+        - cell "SGD 0.00"

@@ -1,0 +1,90 @@
+URL: https://partners.fresha.com/setup/team/permissions/manage-permissions/8139867?area=calendar
+- dialog "Edit Medium permission role":
+  - text: Edit Medium permission role
+  - button "Close"
+  - button "Save"
+  - heading "Edit Medium permission role" [level=1]
+  - text: Select the areas of your workspace that team members in this role can access and manage Search permissions
+  - textbox "Search permissions":
+    - /placeholder: Search permissions...
+  - paragraph: Permission area
+  - list:
+    - listitem:
+      - list:
+        - listitem:
+          - button
+          - text: Calendar
+        - listitem:
+          - button
+          - text: Sales
+        - listitem:
+          - button
+          - text: Clients
+        - listitem:
+          - button
+          - text: Catalog
+        - listitem:
+          - button
+          - text: Online profile
+        - listitem:
+          - button
+          - text: Marketing
+        - listitem:
+          - button
+          - text: Team
+        - listitem:
+          - button
+          - text: Reports
+        - listitem:
+          - button
+          - text: Payments and wallet
+        - listitem:
+          - button
+          - text: Workspace
+  - paragraph: Calendar
+  - text: Active
+  - paragraph: Allow access to the calendar and decide what actions they can perform.
+  - paragraph:
+    - link "Learn more":
+      - /url: https://www.fresha.com/help-center/knowledge-base/team/100687-create-permission-roles
+  - paragraph: Active
+  - checkbox "Active" [checked]
+  - paragraph: Calendar access and actions
+  - paragraph: Can view their own calendar
+  - checkbox "Can view their own calendar" [checked] [disabled]
+  - paragraph: Can view other team members' calendars
+  - checkbox "Can view other team members' calendars" [checked]
+  - paragraph: Can create appointments
+  - checkbox "Can create appointments" [checked]
+  - paragraph: Can edit preferred team member for an appointment
+  - checkbox "Can edit preferred team member for an appointment" [checked]
+  - paragraph: Can apply discounts to appointments
+  - checkbox "Can apply discounts to appointments" [checked]
+  - paragraph: Blocked times
+  - paragraph: Can create a blocked time in their own calendar
+  - checkbox "Can create a blocked time in their own calendar" [checked]
+  - paragraph: Can create a blocked time for all team members
+  - checkbox "Can create a blocked time for all team members" [checked]
+  - paragraph: Can set up and change blocked time types for the workspace
+  - checkbox "Can set up and change blocked time types for the workspace"
+  - paragraph: Booking restrictions
+  - paragraph: Can book a service with team members not assigned to deliver that service
+  - checkbox "Can book a service with team members not assigned to deliver that service" [checked]
+  - paragraph: Can book a service with resources not set up to deliver that service
+  - checkbox "Can book a service with resources not set up to deliver that service" [checked]
+  - paragraph: Calendar settings
+  - paragraph: Can manage business closed dates
+  - checkbox "Can manage business closed dates"
+  - paragraph: Calendar sync
+  - paragraph: Can link their own calendar to external calendars
+  - checkbox "Can link their own calendar to external calendars" [checked]
+  - paragraph: Can export calendar items to an external calendar
+  - checkbox "Can export calendar items to an external calendar" [checked] [disabled]
+  - paragraph: Can import calendar items from an external calendar
+  - checkbox "Can import calendar items from an external calendar" [checked]
+  - paragraph: Can link any calendar to external calendars
+  - checkbox "Can link any calendar to external calendars" [checked]
+  - paragraph: Can export calendar items to an external calendar
+  - checkbox "Can export calendar items to an external calendar" [checked] [disabled]
+  - paragraph: Can import calendar items from an external calendar
+  - checkbox "Can import calendar items from an external calendar"

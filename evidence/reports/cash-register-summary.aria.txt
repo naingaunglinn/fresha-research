@@ -1,0 +1,100 @@
+URL: https://partners.fresha.com/reports/table/cash-register-summary
+- link "Fresha":
+  - /url: /calendar
+  - img "Fresha"
+- button "Continue setup":
+  - paragraph: Continue setup
+- button "Search"
+- button "Performance insights"
+- button "Notifications"
+- link "Fresha Connect":
+  - /url: /connect
+- link "Wallet":
+  - /url: /reports/table/cash-register-summary/drawer/wallet/all/accounts/
+  - text: "1"
+- button "Open user menu": NL
+- link:
+  - /url: /dashboard
+- link:
+  - /url: /calendar
+- button
+- button
+- button
+- button
+- button
+- button
+- link:
+  - /url: /reports
+- link:
+  - /url: /add-ons
+- link:
+  - /url: /setup
+- button
+- button "Back"
+- navigation:
+  - list:
+    - listitem:
+      - link "All reports •":
+        - /url: /reports
+    - listitem:
+      - link "Sales •":
+        - /url: /reports/report-group/1?category=salesPerformance
+    - listitem: Cash register summary
+- paragraph: Cash register summary
+- button "Add to favorites"
+- paragraph: Overview of register activities. Excludes online purchases. Data from 28 mins ago
+- button "Options"
+- button "Month to date"
+- button "Filters"
+- button "Advanced filters"
+- button "Customize"
+- region:
+  - table:
+    - rowgroup:
+      - row "Date Register Opening by Fresha terminals Fresha online Redemptions Custom methods Cash opening float Cash payments Cash in Cash out Cash total Cash counted Cash difference Custom methods difference Total balance Of which tips Closed by Counted Cash to bank Cash closing float":
+        - columnheader "Date":
+          - button "Date"
+        - button "Register":
+          - button "Register"
+        - button "Opening by":
+          - button "Opening by"
+        - button "Fresha terminals":
+          - button "Fresha terminals"
+        - button "Fresha online":
+          - button "Fresha online"
+        - button "Redemptions":
+          - button "Redemptions"
+        - button "Custom methods":
+          - button "Custom methods"
+        - button "Cash opening float":
+          - button "Cash opening float"
+        - button "Cash payments":
+          - button "Cash payments"
+        - button "Cash in":
+          - button "Cash in"
+        - button "Cash out":
+          - button "Cash out"
+        - button "Cash total":
+          - button "Cash total"
+        - button "Cash counted":
+          - button "Cash counted"
+        - button "Cash difference":
+          - button "Cash difference"
+        - button "Custom methods difference":
+          - button "Custom methods difference"
+        - button "Total balance":
+          - button "Total balance"
+        - button "Of which tips":
+          - button "Of which tips"
+        - button "Closed by":
+          - button "Closed by"
+        - button "Counted":
+          - button "Counted"
+        - button "Cash to bank":
+          - button "Cash to bank"
+        - button "Cash closing float":
+          - button "Cash closing float"
+  - table:
+    - rowgroup
+  - text: No results found Try using different filters
+- status

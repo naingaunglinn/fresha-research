@@ -1,0 +1,109 @@
+URL: https://partners.fresha.com/sales/sales-list
+- link "Fresha":
+  - /url: /calendar
+  - img "Fresha"
+- button "Continue setup":
+  - paragraph: Continue setup
+- button "Search"
+- button "Performance insights"
+- button "Notifications"
+- link "Fresha Connect":
+  - /url: /connect
+- link "Wallet":
+  - /url: /sales/sales-list/drawer/wallet/all/accounts/
+  - text: "1"
+- button "Open user menu": NL
+- link:
+  - /url: /dashboard
+- link:
+  - /url: /calendar
+- button
+- button
+- button
+- button
+- button
+- button
+- link:
+  - /url: /reports
+- link:
+  - /url: /add-ons
+- link:
+  - /url: /setup
+- button
+- button "Collapse Navigation Menu"
+- paragraph: Sales
+- link "Daily sales summary":
+  - /url: /sales/daily-sales
+  - paragraph: Daily sales summary
+- link "Register":
+  - /url: /sales/register
+  - paragraph: Register
+- link "Appointments":
+  - /url: /sales/appointments-list
+  - paragraph: Appointments
+- link "Sales":
+  - /url: /sales/sales-list
+  - paragraph: Sales
+- link "Payments":
+  - /url: /sales/payment-transactions
+  - paragraph: Payments
+- separator
+- paragraph: Sold items
+- link "Gift cards sold":
+  - /url: /sales/gift-cards
+  - paragraph: Gift cards sold
+- link "Packages sold":
+  - /url: /sales/packages-sold
+  - paragraph: Packages sold
+- link "Memberships sold":
+  - /url: /sales/paid-plans
+  - paragraph: Memberships sold
+- link "Product orders":
+  - /url: /sales/store-orders
+  - paragraph: Product orders
+- paragraph: Sales
+- paragraph:
+  - text: View, filter and export the history of your sales.
+  - link "Learn more":
+    - /url: https://www.fresha.com/help-center/knowledge-base/sales
+- button "Options"
+- button "Add new"
+- tablist:
+  - tab "Sales" [selected]
+  - tab "Drafts"
+- text: Search
+- textbox "Search":
+  - /placeholder: Search by Sale or Client
+- button "Today"
+- button "Filters"
+- button "Sort by"
+- region:
+  - table:
+    - rowgroup:
+      - 'row "Sale # Client Status Sale date Location Tips Gross total"':
+        - 'columnheader "Sale #"':
+          - 'button "Sale #"'
+        - columnheader "Client":
+          - button "Client"
+        - columnheader "Status"
+        - columnheader "Sale date":
+          - button "Sale date"
+        - columnheader "Location":
+          - button "Location"
+        - columnheader "Tips":
+          - button "Tips"
+        - columnheader "Gross total":
+          - button "Gross total"
+  - table:
+    - rowgroup:
+      - row "1 Walk-In Completed 27 Sep 2026, 15:59 Baber Shop SGD 4.00 SGD 40.00":
+        - cell "1":
+          - link "1":
+            - /url: /sales/sales-list/drawer/invoice/565420462
+        - cell "Walk-In"
+        - cell "Completed"
+        - cell "27 Sep 2026, 15:59"
+        - cell "Baber Shop"
+        - cell "SGD 4.00"
+        - cell "SGD 40.00"
+- text: Viewing results 1 to 1 of 1

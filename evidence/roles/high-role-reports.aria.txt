@@ -1,0 +1,62 @@
+URL: https://partners.fresha.com/setup/team/permissions/manage-permissions/8139868?area=reports
+- dialog "Edit High permission role":
+  - text: Edit High permission role
+  - button "Close"
+  - button "Save"
+  - heading "Edit High permission role" [level=1]
+  - text: Select the areas of your workspace that team members in this role can access and manage Search permissions
+  - textbox "Search permissions":
+    - /placeholder: Search permissions...
+  - paragraph: Permission area
+  - list:
+    - listitem:
+      - list:
+        - listitem:
+          - button
+          - text: Calendar
+        - listitem:
+          - button
+          - text: Sales
+        - listitem:
+          - button
+          - text: Clients
+        - listitem:
+          - button
+          - text: Catalog
+        - listitem:
+          - button
+          - text: Online profile
+        - listitem:
+          - button
+          - text: Marketing
+        - listitem:
+          - button
+          - text: Team
+        - listitem:
+          - button
+          - text: Reports
+        - listitem:
+          - button
+          - text: Payments and wallet
+        - listitem:
+          - button
+          - text: Workspace
+  - paragraph: Reports
+  - text: "Off"
+  - paragraph: Allow access to reports and decide what actions they can perform.
+  - paragraph:
+    - link "Learn more":
+      - /url: https://www.fresha.com/help-center/knowledge-base/team/100687-create-permission-roles
+  - paragraph: Active
+  - checkbox "Active"
+  - paragraph: Can access reports
+  - checkbox "Can access reports" [disabled]
+  - paragraph: Can view all team members' data
+  - checkbox "Can view all team members' data" [checked] [disabled]
+  - paragraph: Can view performance Insights drawer
+  - checkbox "Can view performance Insights drawer" [checked] [disabled]
+  - paragraph: Can manage data connections
+  - checkbox "Can manage data connections" [disabled]
+  - paragraph: Permissions for individual reports can be managed in Insights
+  - link "Go to Insights":
+    - /url: /reports/report-group/1

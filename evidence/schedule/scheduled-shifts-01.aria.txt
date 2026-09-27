@@ -1,0 +1,153 @@
+URL: https://partners.fresha.com/team/scheduled-shifts?locationId=3210819&date=2026-09-21
+- link "Fresha":
+  - /url: /calendar
+  - img "Fresha"
+- button "Continue setup":
+  - paragraph: Continue setup
+- button "Search"
+- button "Performance insights"
+- button "Notifications"
+- link "Fresha Connect":
+  - /url: /connect
+- link "Wallet":
+  - /url: /team/scheduled-shifts/drawer/wallet/all/accounts/?locationId=3210819&date=2026-09-21
+  - text: "1"
+- button "Open user menu": NL
+- link:
+  - /url: /dashboard
+- link:
+  - /url: /calendar
+- button
+- button
+- button
+- button
+- button
+- button
+- link:
+  - /url: /reports
+- link:
+  - /url: /add-ons
+- link:
+  - /url: /setup
+- button
+- button "Collapse Navigation Menu"
+- paragraph: Team
+- link "Team members":
+  - /url: /team/team-members
+  - paragraph: Team members
+- link "Scheduled shifts":
+  - /url: /team/scheduled-shifts
+  - paragraph: Scheduled shifts
+- link "Timesheets":
+  - /url: /team/timesheets
+  - paragraph: Timesheets
+- link "Pay runs":
+  - /url: /team/payrun/overview
+  - paragraph: Pay runs
+- paragraph: Scheduled shifts
+- button "Options"
+- button "Add"
+- button "Location"
+- button "Branch B"
+- button "Custom order"
+- button "This week"
+- group:
+  - button "Previous week"
+  - button "Sep 21 – 27, 2026"
+  - button "Next week"
+- paragraph: Button group
+- table:
+  - rowgroup:
+    - row "Team member Change Mon, Sep 21 20 hr Tue, Sep 22 18 hr Wed, Sep 23 18 hr Thu, Sep 24 18 hr Fri, Sep 25 18 hr Sat, Sep 26 14 hr Sun, Sep 27 12 hr":
+      - columnheader "Team member Change":
+        - paragraph:
+          - text: Team member
+          - button "Change"
+      - columnheader "Mon, Sep 21 20 hr":
+        - button "Mon, Sep 21 20 hr":
+          - paragraph: Mon, Sep 21
+          - paragraph: 20 hr
+      - columnheader "Tue, Sep 22 18 hr":
+        - button "Tue, Sep 22 18 hr":
+          - paragraph: Tue, Sep 22
+          - paragraph: 18 hr
+      - columnheader "Wed, Sep 23 18 hr":
+        - button "Wed, Sep 23 18 hr":
+          - paragraph: Wed, Sep 23
+          - paragraph: 18 hr
+      - columnheader "Thu, Sep 24 18 hr":
+        - button "Thu, Sep 24 18 hr":
+          - paragraph: Thu, Sep 24
+          - paragraph: 18 hr
+      - columnheader "Fri, Sep 25 18 hr":
+        - button "Fri, Sep 25 18 hr":
+          - paragraph: Fri, Sep 25
+          - paragraph: 18 hr
+      - columnheader "Sat, Sep 26 14 hr":
+        - button "Sat, Sep 26 14 hr":
+          - paragraph: Sat, Sep 26
+          - paragraph: 14 hr
+      - columnheader "Sun, Sep 27 12 hr":
+        - button "Sun, Sep 27 12 hr":
+          - paragraph: Sun, Sep 27
+          - paragraph: 12 hr
+  - rowgroup:
+    - row "MT Min Test Barber 59 hr Edit 09:00 - 19:00 10:00 - 19:00 10:00 - 19:00 10:00 - 19:00 10:00 - 19:00 10:00 - 17:00 10:00 - 16:00":
+      - cell "MT Min Test Barber 59 hr Edit":
+        - button "MT Min Test Barber 59 hr Edit":
+          - text: MT
+          - paragraph: Min Test Barber
+          - paragraph: 59 hr
+          - text: Edit
+      - cell "09:00 - 19:00":
+        - paragraph: 09:00 - 19:00
+        - button
+      - cell "10:00 - 19:00":
+        - paragraph: 10:00 - 19:00
+        - button
+      - cell "10:00 - 19:00":
+        - paragraph: 10:00 - 19:00
+        - button
+      - cell "10:00 - 19:00":
+        - paragraph: 10:00 - 19:00
+        - button
+      - cell "10:00 - 19:00":
+        - paragraph: 10:00 - 19:00
+        - button
+      - cell "10:00 - 17:00":
+        - paragraph: 10:00 - 17:00
+        - button
+      - cell "10:00 - 16:00":
+        - paragraph: 10:00 - 16:00
+        - button
+    - row "AT Aung Test Barber 59 hr Edit 09:00 - 19:00 10:00 - 19:00 10:00 - 19:00 10:00 - 19:00 10:00 - 19:00 10:00 - 17:00 10:00 - 16:00":
+      - cell "AT Aung Test Barber 59 hr Edit":
+        - button "AT Aung Test Barber 59 hr Edit":
+          - text: AT
+          - paragraph: Aung Test Barber
+          - paragraph: 59 hr
+          - text: Edit
+      - cell "09:00 - 19:00":
+        - paragraph: 09:00 - 19:00
+        - button
+      - cell "10:00 - 19:00":
+        - paragraph: 10:00 - 19:00
+        - button
+      - cell "10:00 - 19:00":
+        - paragraph: 10:00 - 19:00
+        - button
+      - cell "10:00 - 19:00":
+        - paragraph: 10:00 - 19:00
+        - button
+      - cell "10:00 - 19:00":
+        - paragraph: 10:00 - 19:00
+        - button
+      - cell "10:00 - 17:00":
+        - paragraph: 10:00 - 17:00
+        - button
+      - cell "10:00 - 16:00":
+        - paragraph: 10:00 - 16:00
+        - button
+- text: The team roster shows your availability for bookings and is not linked to your business standard opening hours. To set your standard opening hours,
+- link "click here.":
+  - /url: /setup/locations/3210819/opening-hours/edit

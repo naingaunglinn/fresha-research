@@ -1,0 +1,103 @@
+URL: https://partners.fresha.com/catalogue/services/service/edit/25689868?section=online-booking
+- dialog "Edit service":
+  - text: Edit service
+  - button "Close"
+  - button "Save"
+  - heading "Edit service" [level=1]
+  - list:
+    - listitem:
+      - list:
+        - listitem:
+          - button
+          - text: Basic details
+        - listitem:
+          - button
+          - text: Locations 2
+        - listitem:
+          - button
+          - text: Team members 2
+        - listitem:
+          - button
+          - text: Resources
+        - listitem:
+          - button
+          - text: Service add-ons
+    - listitem:
+      - text: Settings
+      - list:
+        - listitem:
+          - button
+          - text: Online booking
+        - listitem:
+          - button
+          - text: Portfolio images
+        - listitem:
+          - button
+          - text: Forms 1
+        - listitem:
+          - button
+          - text: Commissions
+        - listitem:
+          - button
+          - text: Settings
+  - button
+  - paragraph: Attract new clients with online bookings
+  - paragraph: Join the world's largest beauty and wellness marketplace
+  - button "Start now"
+  - img "online booking"
+  - paragraph: Online booking
+  - text: "On"
+  - paragraph: Allow clients to book this service online via the Fresha Marketplace, socials, AI Concierge and your own custom booking links
+  - paragraph: Enable online booking
+  - checkbox "Enable online booking" [checked]
+  - text: Available for All genders
+  - combobox "Available for":
+    - option "All genders" [selected]
+    - option "Female only"
+    - option "Male only"
+  - paragraph: Upselling
+  - paragraph:
+    - text: Encourage clients to book additional services and buy suitable memberships when booking online. Manage your
+    - link "workspace settings":
+      - /url: /setup/scheduling/booking-options/edit-upselling-settings/
+    - text: or
+    - link "learn more":
+      - /url: https://www.fresha.com/help-center/knowledge-base/packages-memberships-and-gift-cards/134-set-up-services-and-memberships-upselling
+    - text: .
+  - group "Service upselling":
+    - paragraph: Service upselling
+    - paragraph: Service upselling
+    - paragraph: Adds an additional step when booking, where clients can choose additional services
+    - checkbox "Service upselling"
+  - group "Membership upselling" [disabled]:
+    - paragraph: Membership upselling
+    - paragraph: Membership upselling
+    - paragraph: When selecting a service, a specific membership will be suggested to the client
+    - checkbox "Membership upselling" [disabled]
+    - text: You do not currently have any memberships set up for this service.
+    - link "Create a membership" [disabled]:
+      - /url: /catalogue/memberships
+    - text: to enable upselling
+  - group "Package upselling":
+    - paragraph: Package upselling
+    - paragraph: Package upselling
+    - paragraph: When selecting a service, a specific package will be suggested to the client
+    - checkbox "Package upselling" [checked]
+    - text: Package
+    - button "Edit": Let Fresha decide Edit
+    - paragraph: Fresha selects the best package to upsell
+  - paragraph: Limit service availability
+  - paragraph:
+    - text: Select when the service can be scheduled.
+    - link "Learn more":
+      - /url: https://www.fresha.com/help-center/knowledge-base/catalog/100643-limit-online-service-availability
+  - group "Limit availability between specific dates":
+    - paragraph: Limit availability between specific dates
+    - paragraph: Limit availability between specific dates
+    - paragraph: Set a start and end date to control when this service can be booked
+    - checkbox "Limit availability between specific dates"
+  - group "Limit availability to specific days of the week and time of day":
+    - paragraph: Limit availability to specific days of the week and time of day
+    - paragraph: Limit availability to specific days of the week and time of day
+    - paragraph: Service availability depends on team member availability and scheduled shifts
+    - checkbox "Limit availability to specific days of the week and time of day"

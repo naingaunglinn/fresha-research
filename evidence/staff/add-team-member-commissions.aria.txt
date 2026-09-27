@@ -1,0 +1,53 @@
+URL: https://partners.fresha.com/team/team-members/add/?section=commissions
+- dialog "Add team member":
+  - text: Add team member
+  - button "Close"
+  - button "Add"
+  - heading "Add team member" [level=1]
+  - text: Included in your plan
+  - paragraph: Set up flexible commissions for your team
+  - paragraph: Set percentage or fixed-rate commissions that work automatically with every sale.
+  - paragraph: Pay commission on services, products, memberships, packages, and more
+  - paragraph: Apply different rates by day, location, or item
+  - paragraph: Control calculation of how discounts and taxes affect earnings
+  - button "Set up now"
+  - link "Learn more":
+    - /url: https://www.fresha.com/help-center/knowledge-base/team/98-set-up-commissions-for-team-members
+  - img "Commissions feature"
+  - list:
+    - listitem:
+      - text: Personal
+      - list:
+        - listitem:
+          - button
+          - text: Profile
+        - listitem:
+          - button
+          - text: Addresses
+        - listitem:
+          - button
+          - text: Emergency contacts
+    - listitem:
+      - text: Workspace
+      - list:
+        - listitem:
+          - button
+          - text: Services 4
+        - listitem:
+          - button
+          - text: Locations
+        - listitem:
+          - button
+          - text: Settings
+    - listitem:
+      - text: Pay
+      - list:
+        - listitem:
+          - button
+          - text: Wages and timesheets
+        - listitem:
+          - button
+          - text: Commissions
+        - listitem:
+          - button
+          - text: Pay runs

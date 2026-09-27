@@ -1,0 +1,148 @@
+URL: https://partners.fresha.com/reports/table/attendance-summary
+- link "Fresha":
+  - /url: /calendar
+  - img "Fresha"
+- button "Continue setup":
+  - paragraph: Continue setup
+- button "Search"
+- button "Performance insights"
+- button "Notifications"
+- link "Fresha Connect":
+  - /url: /connect
+- link "Wallet":
+  - /url: /reports/table/attendance-summary/drawer/wallet/all/accounts/
+  - text: "1"
+- button "Open user menu": NL
+- link:
+  - /url: /dashboard
+- link:
+  - /url: /calendar
+- button
+- button
+- button
+- button
+- button
+- button
+- link:
+  - /url: /reports
+- link:
+  - /url: /add-ons
+- link:
+  - /url: /setup
+- button
+- button "Back"
+- navigation:
+  - list:
+    - listitem:
+      - link "All reports •":
+        - /url: /reports
+    - listitem:
+      - link "Team •":
+        - /url: /reports/report-group/1?category=team
+    - listitem: Attendance summary
+- paragraph: Attendance summary
+- button "Add to favorites"
+- paragraph: Overview of team members' punctuality and attendance for their shifts Data from 28 mins ago
+- button "Options"
+- button "Team member"
+- button "Month to date"
+- button "Filters"
+- button "Advanced filters"
+- button "Customize"
+- region:
+  - table:
+    - rowgroup:
+      - row "Team member Scheduled shifts On time clock ins Early clock ins Late clock ins On time clock outs Early clock outs Late clock outs Punctuality Missed shifts Attendance":
+        - columnheader "Team member":
+          - button "Team member"
+        - button "Scheduled shifts":
+          - button "Scheduled shifts"
+        - button "On time clock ins":
+          - button "On time clock ins"
+        - button "Early clock ins":
+          - button "Early clock ins"
+        - button "Late clock ins":
+          - button "Late clock ins"
+        - button "On time clock outs":
+          - button "On time clock outs"
+        - button "Early clock outs":
+          - button "Early clock outs"
+        - button "Late clock outs":
+          - button "Late clock outs"
+        - button "Punctuality":
+          - button "Punctuality"
+        - button "Missed shifts":
+          - button "Missed shifts"
+        - button "Attendance":
+          - button "Attendance"
+  - table:
+    - rowgroup:
+      - row "Total 1 0 0 0 0 0 0 0% 1 0%":
+        - cell "Total":
+          - paragraph: Total
+        - cell "1":
+          - paragraph:
+            - paragraph: "1"
+        - cell "0":
+          - paragraph:
+            - paragraph: "0"
+        - cell "0":
+          - paragraph:
+            - paragraph: "0"
+        - cell "0":
+          - paragraph:
+            - paragraph: "0"
+        - cell "0":
+          - paragraph:
+            - paragraph: "0"
+        - cell "0":
+          - paragraph:
+            - paragraph: "0"
+        - cell "0":
+          - paragraph:
+            - paragraph: "0"
+        - cell "0%":
+          - paragraph:
+            - paragraph: 0%
+        - cell "1":
+          - paragraph:
+            - paragraph: "1"
+        - cell "0%":
+          - paragraph:
+            - paragraph: 0%
+      - row "Aung Test Barber 1 0 0 0 0 0 0 0% 1 0%":
+        - cell "Aung Test Barber":
+          - link "Aung Test Barber":
+            - /url: /reports/table/working-hours-activity?employee_id=5609627&shortcut=month_to_date
+        - cell "1":
+          - paragraph:
+            - paragraph: "1"
+        - cell "0":
+          - paragraph:
+            - paragraph: "0"
+        - cell "0":
+          - paragraph:
+            - paragraph: "0"
+        - cell "0":
+          - paragraph:
+            - paragraph: "0"
+        - cell "0":
+          - paragraph:
+            - paragraph: "0"
+        - cell "0":
+          - paragraph:
+            - paragraph: "0"
+        - cell "0":
+          - paragraph:
+            - paragraph: "0"
+        - cell "0%":
+          - paragraph:
+            - paragraph: 0%
+        - cell "1":
+          - paragraph:
+            - paragraph: "1"
+        - cell "0%":
+          - paragraph:
+            - paragraph: 0%
+- status
+- text: Viewing results 1 to 1 of 1

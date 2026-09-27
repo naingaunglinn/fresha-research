@@ -1,0 +1,82 @@
+URL: https://partners.fresha.com/clients/list/drawer/clients/299749314
+- dialog:
+  - button "Close Drawer"
+  - text: Z
+  - paragraph: ZZTest Duplicate Email
+  - paragraph:
+    - button "zztest.clienta@example.com"
+  - button "Actions"
+  - button "Book now"
+  - separator
+  - paragraph:
+    - link "Add pronouns":
+      - /url: /clients/list/299749314/edit?focus=pronoun
+  - paragraph:
+    - link "Add date of birth":
+      - /url: /clients/list/299749314/edit?focus=birthday
+  - paragraph: Created Sep 27, 2026
+  - list:
+    - listitem:
+      - list:
+        - listitem:
+          - button
+          - paragraph: Overview
+        - listitem:
+          - button
+          - paragraph: Appointments
+          - text: "2"
+        - listitem:
+          - button
+          - paragraph: Sales
+        - listitem:
+          - button
+          - paragraph: Client details
+        - listitem:
+          - button
+          - paragraph: Items
+        - listitem:
+          - button
+          - text: Records
+        - listitem:
+          - button
+          - paragraph: Wallet
+        - listitem:
+          - button
+          - paragraph: Loyalty
+        - listitem:
+          - button
+          - paragraph: Reviews
+  - heading "Overview" [level=1]
+  - paragraph: Wallet
+  - link "View wallet":
+    - /url: /clients/list/drawer/clients/299749314/wallet?
+  - paragraph: Balance
+  - paragraph: SGD 0
+  - paragraph: Summary
+  - paragraph: Total sales
+  - paragraph: SGD 0
+  - paragraph: Appointments
+  - paragraph: "2"
+  - paragraph: Rating
+  - paragraph: "-"
+  - paragraph: Canceled
+  - paragraph: "1"
+  - paragraph: No show
+  - paragraph: "0"
+  - paragraph: Upcoming appointment
+  - link "View all":
+    - /url: /clients/list/drawer/clients/299749314/appointments?
+  - button
+  - paragraph: Appointment
+  - text: Booked
+  - paragraph: Mon, Sep 28, 15:15
+  - paragraph: •
+  - paragraph: Branch B
+  - paragraph: Haircut
+  - paragraph: SGD 40
+  - paragraph: 15:15
+  - paragraph: •
+  - paragraph: 45 min
+  - paragraph: •
+  - paragraph: Aung Test Barber
+  - button "Checkout"

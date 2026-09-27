@@ -1,0 +1,80 @@
+URL: https://partners.fresha.com/catalogue/services/service/edit/25689868?section=settings
+- dialog "Edit service":
+  - text: Edit service
+  - button "Close"
+  - button "Save"
+  - heading "Edit service" [level=1]
+  - list:
+    - listitem:
+      - list:
+        - listitem:
+          - button
+          - text: Basic details
+        - listitem:
+          - button
+          - text: Locations 2
+        - listitem:
+          - button
+          - text: Team members 2
+        - listitem:
+          - button
+          - text: Resources
+        - listitem:
+          - button
+          - text: Service add-ons
+    - listitem:
+      - text: Settings
+      - list:
+        - listitem:
+          - button
+          - text: Online booking
+        - listitem:
+          - button
+          - text: Portfolio images
+        - listitem:
+          - button
+          - text: Forms 1
+        - listitem:
+          - button
+          - text: Commissions
+        - listitem:
+          - button
+          - text: Settings
+  - paragraph: General settings
+  - paragraph: Require patch test
+  - paragraph: Show a patch test requirement when creating appointments with this service.
+  - checkbox "Require patch test"
+  - paragraph: Notifications
+  - group "Aftercare instructions":
+    - paragraph: Aftercare instructions
+    - paragraph: Aftercare instructions
+    - paragraph: Provide aftercare instructions to clients in thank you notifications
+    - checkbox "Aftercare instructions"
+  - group "Reminder to rebook notifications":
+    - paragraph: Reminder to rebook notifications
+    - paragraph: Reminder to rebook notifications
+    - paragraph: Choose when you would like to notify your clients to rebook this service
+    - checkbox "Reminder to rebook notifications" [checked]
+    - text: Delay value
+    - spinbutton "Delay value": "4"
+    - text: Choose reminder interval Weeks after
+    - combobox "Choose reminder interval":
+      - option "Days after"
+      - option "Weeks after" [selected]
+  - paragraph: Advanced settings
+  - text: Sales tax (Included in price)
+  - textbox "Sales tax (Included in price)": Custom setting
+  - link "Edit":
+    - /url: /catalogue/services/service/edit/25689868/tax-settings/?section=settings
+  - paragraph: Configure sales tax settings for each of your locations
+  - text: Cost of service SGD
+  - spinbutton "Cost of service"
+  - button "SGD":
+    - paragraph: SGD
+  - button "%":
+    - paragraph: "%"
+  - paragraph: Set the cost to your business for delivering this service
+  - text: SKU 0/20
+  - textbox "SKU 0/20":
+    - /placeholder: ABC-12345-H-SH
+  - paragraph: Assign a SKU to help identify this service in reports and exports

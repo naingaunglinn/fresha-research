@@ -1,0 +1,158 @@
+URL: https://partners.fresha.com/team/payrun/overview
+- link "Fresha":
+  - /url: /calendar
+  - img "Fresha"
+- button "Continue setup":
+  - paragraph: Continue setup
+- button "Search"
+- button "Performance insights"
+- button "Notifications"
+- link "Fresha Connect":
+  - /url: /connect
+- link "Wallet":
+  - /url: /team/payrun/overview/drawer/wallet/all/accounts/
+  - text: "1"
+- button "Open user menu": NL
+- link:
+  - /url: /dashboard
+- link:
+  - /url: /calendar
+- button
+- button
+- button
+- button
+- button
+- button
+- link:
+  - /url: /reports
+- link:
+  - /url: /add-ons
+- link:
+  - /url: /setup
+- button
+- button "Collapse Navigation Menu"
+- paragraph: Team
+- link "Team members":
+  - /url: /team/team-members
+  - paragraph: Team members
+- link "Scheduled shifts":
+  - /url: /team/scheduled-shifts
+  - paragraph: Scheduled shifts
+- link "Timesheets":
+  - /url: /team/timesheets
+  - paragraph: Timesheets
+- link "Pay runs":
+  - /url: /team/payrun/overview
+  - paragraph: Pay runs
+- paragraph: Pay runs
+- paragraph:
+  - text: Calculate and settle the amount owed to your team for tips, commissions, and wages.
+  - link "Learn more":
+    - /url: https://www.fresha.com/help-center/knowledge-base/team/101641-enable-pay-runs-and-set-your-pay-period
+- button "Options"
+- tablist:
+  - tab "Pay periods" [selected]
+  - tab "Settlements"
+- button "Sep 21 – 27, 2026"
+- button "All locations"
+- button "Search by name"
+- paragraph: Earnings
+- paragraph: SGD 20
+- paragraph: Other
+- paragraph: SGD 0
+- paragraph: Total
+- paragraph: SGD 20
+- paragraph: Paid
+- paragraph: SGD 0
+- paragraph: To pay
+- paragraph: SGD 20
+- button "Pay team"
+- button "View breakdown":
+  - text: AT
+  - paragraph: Aung Test Barber
+  - paragraph: Baber Shop
+  - button "Actions"
+  - separator
+  - paragraph: Earnings
+  - paragraph: SGD 20
+  - paragraph: Other
+  - paragraph: SGD 0
+  - separator
+  - paragraph: Total
+  - paragraph: SGD 20
+  - paragraph: Paid
+  - paragraph: SGD 0
+  - paragraph: To pay
+  - paragraph: SGD 20
+- button "View breakdown":
+  - text: AT
+  - paragraph: Aung Test Barber
+  - paragraph: Branch B
+  - button "Actions"
+  - separator
+  - paragraph: Earnings
+  - paragraph: SGD 0
+  - paragraph: Other
+  - paragraph: SGD 0
+  - separator
+  - paragraph: Total
+  - paragraph: SGD 0
+  - paragraph: Paid
+  - paragraph: SGD 0
+  - paragraph: To pay
+  - paragraph: SGD 0
+- button "View breakdown":
+  - text: MT
+  - paragraph: Min Test Barber
+  - paragraph: Branch B
+  - button "Actions"
+  - separator
+  - paragraph: Earnings
+  - paragraph: SGD 0
+  - paragraph: Other
+  - paragraph: SGD 0
+  - separator
+  - paragraph: Total
+  - paragraph: SGD 0
+  - paragraph: Paid
+  - paragraph: SGD 0
+  - paragraph: To pay
+  - paragraph: SGD 0
+- button "View breakdown":
+  - text: NL
+  - paragraph: Naing Aung Linn
+  - paragraph: Baber Shop
+  - button "Actions"
+  - separator
+  - paragraph: Earnings
+  - paragraph: SGD 0
+  - paragraph: Other
+  - paragraph: SGD 0
+  - separator
+  - paragraph: Total
+  - paragraph: SGD 0
+  - paragraph: Paid
+  - paragraph: SGD 0
+  - paragraph: To pay
+  - paragraph: SGD 0
+- button "View breakdown":
+  - img "The avatar of Wendy Smith (Demo)"
+  - paragraph: Wendy Smith (Demo)
+  - paragraph: Baber Shop
+  - button "Actions"
+  - separator
+  - paragraph: Earnings
+  - paragraph: SGD 0
+  - paragraph: Other
+  - paragraph: SGD 0
+  - separator
+  - paragraph: Total
+  - paragraph: SGD 0
+  - paragraph: Paid
+  - paragraph: SGD 0
+  - paragraph: To pay
+  - paragraph: SGD 0
+- button "Track and pay your team's wages, commissions, tips and deductions all in one place":
+  - paragraph: Step 1 of 4
+  - paragraph: Track and pay your team's wages, commissions, tips and deductions all in one place
+  - button "Next"

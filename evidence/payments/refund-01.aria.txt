@@ -1,0 +1,30 @@
+URL: https://partners.fresha.com/sales/refund-sale/565420462
+- dialog "Refund sale":
+  - text: Refund sale
+  - button "Close"
+  - button "Continue" [disabled]
+  - heading "Refund sale" [level=1]
+  - paragraph: "Sale #1 • Sunday, Sep 27, 2026 • Baber Shop"
+  - link "Learn more":
+    - /url: https://www.fresha.com/help-center/knowledge-base/sales/368-refund-a-sale
+  - button "Refund item":
+    - paragraph: Refund item
+  - button "Refund amount":
+    - paragraph: Refund amount
+  - paragraph:
+    - paragraph: All items
+  - checkbox "All items"
+  - paragraph: Amount
+  - separator
+  - paragraph: Haircut
+  - paragraph: 10:15, 29 Sep 2026 with Aung Test Barber
+  - checkbox "Haircut"
+  - text: SGD 40
+  - paragraph: Tips
+  - checkbox "Tips"
+  - text: SGD 4
+  - separator
+  - paragraph: Tax
+  - paragraph: SGD 0
+  - paragraph: Total to refund
+  - paragraph: SGD 0

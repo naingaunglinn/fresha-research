@@ -1,0 +1,66 @@
+URL: https://partners.fresha.com/clients/client-import/start
+- link "Fresha":
+  - /url: /calendar
+  - img "Fresha"
+- button "Continue setup":
+  - paragraph: Continue setup
+- button "Search"
+- button "Performance insights"
+- button "Notifications"
+- link "Fresha Connect":
+  - /url: /connect
+- link "Wallet":
+  - /url: /clients/client-import/start/drawer/wallet/all/accounts/
+  - text: "1"
+- button "Open user menu": NL
+- link:
+  - /url: /dashboard
+- link:
+  - /url: /calendar
+- button
+- button
+- button
+- button
+- button
+- button
+- link:
+  - /url: /reports
+- link:
+  - /url: /add-ons
+- link:
+  - /url: /setup
+- button
+- button "Collapse Navigation Menu"
+- paragraph: Clients
+- link "Clients list":
+  - /url: /clients/list
+  - paragraph: Clients list
+- link "Client segments":
+  - /url: /clients/segments
+  - paragraph: Client segments
+- separator
+- paragraph: Engage
+- link "Client loyalty":
+  - /url: /clients/loyalty
+  - paragraph: Client loyalty
+- link "Online reputation":
+  - /url: /clients/online-reputation
+  - paragraph: Online reputation
+- progressbar "CSV Customer Import - Step 1 of 4":
+  - paragraph: CSV Customer Import - Step 1 of 4
+- text: Upload file
+- button "Close"
+- button "Next step"
+- text: Import clients
+- heading "Upload file" [level=1]
+- text: Upload a CSV file with your client data, or download and fill the template below.
+- link "Learn more":
+  - /url: https://www.fresha.com/help-center/knowledge-base/clients/101243-import-your-existing-client-list
+- text: Client details will be imported exactly as entered. By choosing to import them, you confirm they have agreed to receive messages (SMS or email) from your business that Fresha may send on your behalf.
+- img
+- text: Upload CSV file
+- button "File uploader"
+- button "Choose a CSV file"
+- paragraph:
+  - text: Don't have a file? Fill our template with your client information and upload.
+  - button "Download template"

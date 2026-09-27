@@ -1,0 +1,44 @@
+URL: https://partners.fresha.com/calendar/drawer/view-appointment/1314234814/activity-list/?date=2026-09-29&view=day&location_id=3210802&calendar_selected_resources=e-working&focusedBookingId=1775334335
+- dialog:
+  - button "Close Drawer"
+  - button "Minimize Drawer"
+  - button "Focus appointment"
+  - button
+  - paragraph: Add client
+  - paragraph: Or leave empty for walk-ins
+  - button "Tue 29 Sep":
+    - paragraph: Tue 29 Sep
+  - button "Booked"
+  - button "Booked"
+  - button "Tue 29 Sep":
+    - heading "Tue 29 Sep" [level=1]:
+      - paragraph: Tue 29 Sep
+  - button "10:15"
+  - text: •
+  - button "Doesn't repeat"
+  - paragraph: Services
+  - button "Haircut"
+  - paragraph: Haircut
+  - paragraph: 10:15 • 45min • Aung Test Barber
+  - text: SGD 40
+  - button "Edit"
+  - button "Remove"
+  - text: Team member is not available
+  - button "Add service"
+  - button "Collapse"
+  - paragraph: Total
+  - paragraph: SGD 40
+  - button "Toggle":
+    - paragraph: To pay
+    - paragraph: SGD 40
+  - button "Options"
+  - button "Pay now"
+  - button "Checkout"
+  - button "Back"
+  - text: Appointment activity
+  - heading "Appointment activity" [level=1]
+  - listitem:
+    - paragraph: Appointment created
+    - paragraph: Sep 27, 2026, 15:50
+    - paragraph: Booked by Naing Aung, reference C145FD8C
+  - paragraph: Activity for this appointment in the last 12 months

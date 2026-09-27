@@ -1,0 +1,13 @@
+URL: https://partners.fresha.com/calendar/drawer/new-sale/payment-method/split-payment/select/?date=2026-09-29&view=day&location_id=3210802&calendar_selected_resources=e-working&checkout-order-id=1078208179
+- dialog "Select payment":
+  - paragraph: Select payment
+  - button "Close modal"
+  - button "Cash"
+  - paragraph: Cash
+  - button "Redeem gift"
+  - paragraph: Redeem gift
+  - button "KBZPay"
+  - paragraph: KBZPay
+  - button "Other"
+  - paragraph: Other
+  - button "Cancel"

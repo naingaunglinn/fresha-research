@@ -1,0 +1,41 @@
+URL: https://partners.fresha.com/clients/list/add?data=&section=settings
+- dialog "Add a new client":
+  - text: Add a new client
+  - button "Close"
+  - button "Save"
+  - heading "Add a new client" [level=1]
+  - paragraph: Settings
+  - paragraph: Client notifications
+  - paragraph: Choose which channels are used when sending notifications to this client
+  - paragraph: Send email notifications
+  - checkbox "Send email notifications" [checked]
+  - paragraph: Send text message notifications
+  - checkbox "Send text message notifications" [checked]
+  - paragraph: Send WhatsApp message notifications
+  - checkbox "Send WhatsApp message notifications" [checked]
+  - separator
+  - paragraph: Marketing messages
+  - paragraph: Choose which channels are used when sending marketing message to this client. You confirm they have agreed to receive messages from your business that Fresha may send on your behalf.
+  - paragraph: Send email messages
+  - checkbox "Send email messages" [checked]
+  - paragraph: Send text messages
+  - checkbox "Send text messages" [checked]
+  - paragraph: Send WhatsApp messages
+  - checkbox "Send WhatsApp messages" [checked]
+  - list:
+    - listitem:
+      - text: Personal
+      - list:
+        - listitem:
+          - button
+          - paragraph: Profile
+        - listitem:
+          - button
+          - paragraph: Addresses
+        - listitem:
+          - button
+          - paragraph: Emergency contacts
+        - separator
+        - listitem:
+          - button
+          - paragraph: Settings

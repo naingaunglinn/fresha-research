@@ -1,0 +1,143 @@
+URL: https://partners.fresha.com/marketing/notifications
+- link "Fresha":
+  - /url: /calendar
+  - img "Fresha"
+- button "Continue setup":
+  - paragraph: Continue setup
+- button "Search"
+- button "Performance insights"
+- button "Notifications"
+- link "Fresha Connect":
+  - /url: /connect
+- link "Wallet":
+  - /url: /marketing/notifications/drawer/wallet/all/accounts/
+  - text: "1"
+- button "Open user menu": NL
+- link:
+  - /url: /dashboard
+- link:
+  - /url: /calendar
+- button
+- button
+- button
+- button
+- button
+- button
+- link:
+  - /url: /reports
+- link:
+  - /url: /add-ons
+- link:
+  - /url: /setup
+- button
+- button "Collapse Navigation Menu"
+- paragraph: Messaging
+- link "Blast campaigns":
+  - /url: /marketing/blast-campaigns/home
+  - paragraph: Blast campaigns
+- link "Automations":
+  - /url: /marketing/automated-messages
+  - paragraph: Automations
+- link "Messages history":
+  - /url: /marketing/notifications
+  - paragraph: Messages history
+- separator
+- paragraph: Promotion
+- link "Deals":
+  - /url: /marketing/deals
+  - paragraph: Deals
+- link "Smart pricing":
+  - /url: /marketing/peak-pricing
+  - paragraph: Smart pricing
+- separator
+- paragraph: Engage
+- link "Reviews":
+  - /url: /clients/online-reputation?tab=all
+  - paragraph: Reviews
+- paragraph: Messages history
+- paragraph:
+  - text: View all the automated messages sent to your clients. Manage your
+  - button "settings"
+  - text: or
+  - link "learn more":
+    - /url: https://www.fresha.com/help-center/knowledge-base/marketing/101299-automated-messages-overview
+- text: Search
+- textbox "Search":
+  - /placeholder: Search by name, email or booking reference
+- region:
+  - table:
+    - rowgroup:
+      - row "Time sent Client Appointment Channel Type Status":
+        - columnheader "Time sent"
+        - columnheader "Client"
+        - columnheader "Appointment"
+        - columnheader "Channel"
+        - columnheader "Type"
+        - columnheader "Status"
+  - table:
+    - rowgroup:
+      - 'row "Sep 27, 2026, 16:22 ZZTest Client A #D7C048A9 Email Reschedule Error"':
+        - cell "Sep 27, 2026, 16:22":
+          - paragraph: Sep 27, 2026, 16:22
+        - cell "ZZTest Client A":
+          - paragraph:
+            - link "ZZTest Client A":
+              - /url: /marketing/notifications/drawer/clients/299746603
+        - cell "#D7C048A9":
+          - paragraph:
+            - button "#D7C048A9"
+        - cell "Email":
+          - paragraph: Email
+        - cell "Reschedule":
+          - paragraph:
+            - button "Reschedule"
+        - cell "Error"
+      - 'row "Sep 27, 2026, 16:22 ZZTest Client A #867B2E43 Email Cancellation Error"':
+        - cell "Sep 27, 2026, 16:22":
+          - paragraph: Sep 27, 2026, 16:22
+        - cell "ZZTest Client A":
+          - paragraph:
+            - link "ZZTest Client A":
+              - /url: /marketing/notifications/drawer/clients/299746603
+        - cell "#867B2E43":
+          - paragraph:
+            - button "#867B2E43"
+        - cell "Email":
+          - paragraph: Email
+        - cell "Cancellation":
+          - paragraph:
+            - button "Cancellation"
+        - cell "Error"
+      - 'row "Sep 27, 2026, 15:49 ZZTest Client A #867B2E43 Email Confirmation Error"':
+        - cell "Sep 27, 2026, 15:49":
+          - paragraph: Sep 27, 2026, 15:49
+        - cell "ZZTest Client A":
+          - paragraph:
+            - link "ZZTest Client A":
+              - /url: /marketing/notifications/drawer/clients/299746603
+        - cell "#867B2E43":
+          - paragraph:
+            - button "#867B2E43"
+        - cell "Email":
+          - paragraph: Email
+        - cell "Confirmation":
+          - paragraph:
+            - button "Confirmation"
+        - cell "Error"
+      - 'row "Sep 27, 2026, 15:46 ZZTest Client A #D7C048A9 Email Confirmation Error"':
+        - cell "Sep 27, 2026, 15:46":
+          - paragraph: Sep 27, 2026, 15:46
+        - cell "ZZTest Client A":
+          - paragraph:
+            - link "ZZTest Client A":
+              - /url: /marketing/notifications/drawer/clients/299746603
+        - cell "#D7C048A9":
+          - paragraph:
+            - button "#D7C048A9"
+        - cell "Email":
+          - paragraph: Email
+        - cell "Confirmation":
+          - paragraph:
+            - button "Confirmation"
+        - cell "Error"
+- text: Viewing results 1 to 4 of 4

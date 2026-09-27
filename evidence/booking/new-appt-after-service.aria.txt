@@ -1,0 +1,40 @@
+URL: https://partners.fresha.com/calendar/drawer/new-appointment/?appt_startDate=2026-09-27&appt_employeeId=&appt_roomId=&appt_locationId=3210819&appt_customerId=&appt_groupId=&appt_startTime=&appt_flow=pickFromCalendar&date=2026-09-27&view=day&location_id=3210819&calendar_selected_resources=e-working
+- dialog:
+  - button "Close Drawer"
+  - button "Minimize Drawer"
+  - button "Focus appointment"
+  - text: Z
+  - paragraph: ZZTest Client A
+  - paragraph:
+    - button "zztest.clienta@example.com"
+  - button "Actions"
+  - button "View profile"
+  - separator
+  - paragraph:
+    - link "Add pronouns":
+      - /url: /clients/list/299746603/edit?focus=pronoun
+  - paragraph:
+    - link "Add date of birth":
+      - /url: /clients/list/299746603/edit?focus=birthday
+  - paragraph: Created Sep 27, 2026
+  - list:
+    - listitem:
+      - button "Services"
+    - listitem: Time
+  - heading "Services" [level=1]
+  - button "Haircut"
+  - paragraph: Haircut
+  - paragraph: 45min
+  - text: SGD 40
+  - button "Edit"
+  - button "Remove"
+  - button "Any team member":
+    - paragraph: Any team member
+  - button "Add service"
+  - button "Collapse"
+  - paragraph: Total
+  - paragraph: SGD 40
+  - button "Toggle":
+    - paragraph: To pay
+    - paragraph: SGD 40
+  - button "Continue"

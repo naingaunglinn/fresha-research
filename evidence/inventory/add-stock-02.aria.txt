@@ -1,0 +1,21 @@
+URL: https://partners.fresha.com/catalogue/products/drawer/product/13235071/stock-history/select-location/increase-/stock/increase/3210802/13235071?product-list-page=1&product-list-page-size=10&product-list-sort-order=desc&product-list-sort-by=updated_at&product-list-out-of-stock-only=false&product-list-low-stock=false
+- dialog "Add stock":
+  - paragraph: Add stock
+  - button "Close modal"
+  - paragraph: ZZTest Pomade
+  - text: 20 in stock Quantity
+  - spinbutton "Quantity": "1"
+  - button "Decrease value" [disabled]
+  - button "Increase value"
+  - text: Supply price SGD
+  - spinbutton "0.00": "5.00"
+  - checkbox "Save price for next time" [checked]
+  - text: Save price for next time Reason New Stock
+  - combobox "Reason":
+    - option "New Stock" [selected]
+    - option "Return"
+    - option "Transfer"
+    - option "Adjustment"
+    - option "Other"
+  - button "Cancel"
+  - button "Save"

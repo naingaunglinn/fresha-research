@@ -1,0 +1,47 @@
+URL: https://partners.fresha.com/team/payrun/overview/adjustments-modal/5609627/3210802/WAGES
+- dialog "Adjustments for Aung Test Barber":
+  - paragraph: Adjustments for Aung Test Barber
+  - button "Close modal"
+  - separator
+  - tablist:
+    - tab "Wages" [selected]
+    - tab "Commissions"
+    - tab "Tips"
+    - tab "Other"
+  - tabpanel "Wages":
+    - text: Amount SGD
+    - spinbutton "Amount"
+    - button "+ Add":
+      - paragraph: + Add
+    - button "- Deduct":
+      - paragraph: "- Deduct"
+    - separator
+    - button "Add note"
+  - separator
+  - paragraph: Earnings
+  - paragraph: Wages
+  - paragraph: SGD 0
+  - paragraph: Commissions
+  - paragraph: SGD 16
+  - paragraph: Tips
+  - paragraph: SGD 4
+  - paragraph: Other
+  - paragraph: Payment processing fees
+  - paragraph: SGD 0
+  - paragraph: New client fees
+  - paragraph: SGD 0
+  - paragraph: Other Adjustments
+  - paragraph: SGD 0
+  - separator
+  - paragraph: Earnings
+  - paragraph: SGD 20
+  - paragraph: Other
+  - paragraph: SGD 0
+  - paragraph: Paid
+  - paragraph: SGD 0
+  - separator
+  - paragraph: To pay
+  - paragraph: SGD 20
+  - separator
+  - button "Cancel"
+  - button "Apply"

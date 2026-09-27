@@ -1,0 +1,46 @@
+URL: https://partners.fresha.com/calendar/drawer/new-sale/quick-sale/?date=2026-09-27&view=day&location_id=3210802&calendar_selected_resources=e-working&checkout-order-id=1078261337
+- dialog:
+  - button "Close Drawer"
+  - button "Add client"
+  - paragraph: Add client
+  - paragraph: Leave empty for walk-ins
+  - button
+  - img "Empty cart"
+  - paragraph: Your cart is empty
+  - paragraph: Tap an item to add to cart or add an existing client for smart recommendations
+  - text: Add to cart
+  - heading "Add to cart" [level=1]
+  - button "Baber Shop"
+  - list:
+    - listitem:
+      - link "Cart":
+        - /url: /calendar/drawer/new-sale/?date=2026-09-27&view=day&location_id=3210802&calendar_selected_resources=e-working&checkout-order-id=1078261337
+    - listitem: Tip
+    - listitem: Payment
+  - textbox "Search"
+  - button "Appointments"
+  - paragraph: Appointments
+  - button "Services"
+  - paragraph: Services
+  - button "Products"
+  - paragraph: Products
+  - button "Packages"
+  - paragraph: Packages
+  - button "Memberships"
+  - paragraph: Memberships
+  - button "Gift cards"
+  - paragraph: Gift cards
+  - paragraph: Quick sale
+  - button "Edit"
+  - button "Haircut"
+  - paragraph: Haircut
+  - paragraph: SGD 40
+  - button "Hair Color"
+  - paragraph: Hair Color
+  - paragraph: SGD 57
+  - button "Blow Dry"
+  - paragraph: Blow Dry
+  - paragraph: SGD 35
+  - button "Balayage"
+  - paragraph: Balayage
+  - paragraph: SGD 150

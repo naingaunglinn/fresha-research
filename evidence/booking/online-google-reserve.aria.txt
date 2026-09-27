@@ -1,0 +1,117 @@
+URL: https://partners.fresha.com/add-ons#integrations
+- link "Fresha":
+  - /url: /calendar
+  - img "Fresha"
+- button "Continue setup":
+  - paragraph: Continue setup
+- button "Search"
+- button "Performance insights"
+- button "Notifications"
+- link "Fresha Connect":
+  - /url: /connect
+- link "Wallet":
+  - /url: /add-ons/drawer/wallet/all/accounts/
+  - text: "1"
+- button "Open user menu": NL
+- link:
+  - /url: /dashboard
+- link:
+  - /url: /calendar
+- button
+- button
+- button
+- button
+- button
+- button
+- link:
+  - /url: /reports
+- link:
+  - /url: /add-ons
+- link:
+  - /url: /setup
+- button
+- heading "Fresha add-ons" [level=1]
+- paragraph: Take your business to the next level with Fresha add-ons.
+- tablist:
+  - tab "Add-ons"
+  - tab "Integrations" [selected]
+- img "Payments"
+- paragraph: Payments
+- paragraph: Get paid by clients online and in-store with low cost, safe and simple payments integrated directly to your workspace.
+- button "View"
+- img "Premium Support"
+- text: On free trial
+- paragraph: Premium Support
+- paragraph: Get the most out of the Fresha platform and it's features with help from our experienced business support specialists.
+- button "View"
+- img "Insights"
+- paragraph: Insights
+- paragraph: Unlock additional reports and create your own unique reports which you can share with your team
+- button "View"
+- img "Google Rating Boost"
+- paragraph: Google Rating Boost
+- paragraph: Prompt your clients to leave a Google review after they've had a positive experience and increase your footfall.
+- button "View"
+- img "Client Loyalty"
+- paragraph: Client Loyalty
+- paragraph: Encourage repeat visits and larger purchases by rewarding clients with exclusive offers that celebrate their loyalty
+- button "View"
+- img "Data Connector"
+- paragraph: Data Connector
+- paragraph: Connect the power of Fresha data to your external spreadsheets, systems and other software
+- button "View"
+- img "AI Concierge"
+- paragraph: AI Concierge Beta
+- paragraph: Automate incoming calls with a friendly AI Concierge that books clients and answers questions
+- button "View"
+- img "Client Connect"
+- text: Active
+- paragraph: Client Connect
+- paragraph: Keep clients close with two-way messaging and a shared inbox across web and app, all in one place
+- button "View"
+- img "Smart Website"
+- paragraph: Smart Website
+- paragraph: Your own professional website that updates itself as your business evolves
+- button "View"
+- img "Team Connect"
+- paragraph: Team Connect
+- paragraph: Give your team a dedicated space to collaborate, create group chats, and share files without leaving Fresha
+- button "View"
+- img "Bookable Resources"
+- paragraph: Bookable Resources
+- paragraph: Manage resources like rooms and equipment. Assign them to services and track usage with detailed reports.
+- button "View"
+- paragraph: Integrations
+- img "Xero Accounting"
+- paragraph: Xero Accounting
+- paragraph: Streamline your sales and accounting with Fresha by connecting Xero
+- button "View"
+- img "QuickBooks Accounting"
+- paragraph: QuickBooks Accounting
+- paragraph: Streamline your sales and accounting with Fresha by connecting QuickBooks
+- button "View"
+- img "Mall GTO"
+- paragraph: Mall GTO
+- paragraph: Automated daily sales reporting for businesses operating in shopping malls
+- link "View":
+  - /url: /add-ons/integration/mall-gto/intro
+- img "Google Reserve"
+- paragraph: Google Reserve
+- paragraph: Capture online bookings directly from Google Search, Google Maps and more with our Google integration.
+- button "View" [disabled]
+- img "Facebook and Instagram bookings"
+- paragraph: Facebook and Instagram bookings
+- paragraph: Add online booking to your social media pages.
+- button "View"
+- img "Meta Pixel Ads"
+- paragraph: Meta Pixel Ads
+- paragraph: Use your Facebook Ads Pixel to track events, and create audiences based on their activities.
+- button "View"
+- img "Google Analytics"
+- paragraph: Google Analytics
+- paragraph: Send events about certain actions to Google Analytics, and create goals based on events to track conversions
+- button "View"
+- img "Google Ads"
+- paragraph: Google Ads
+- paragraph: Track booking conversions from your Google Ads campaigns, optimize bidding, and retarget potential clients based on their activity.
+- button "View"

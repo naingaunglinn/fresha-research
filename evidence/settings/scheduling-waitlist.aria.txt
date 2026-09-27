@@ -1,0 +1,121 @@
+URL: https://partners.fresha.com/setup/scheduling/waitlist
+- link "Fresha":
+  - /url: /calendar
+  - img "Fresha"
+- button "Continue setup":
+  - paragraph: Continue setup
+- button "Search"
+- button "Performance insights"
+- button "Notifications"
+- link "Fresha Connect":
+  - /url: /connect
+- link "Wallet":
+  - /url: /setup/scheduling/waitlist/drawer/wallet/all/accounts/
+  - text: "1"
+- button "Open user menu": NL
+- link:
+  - /url: /dashboard
+- link:
+  - /url: /calendar
+- button
+- button
+- button
+- button
+- button
+- button
+- link:
+  - /url: /reports
+- link:
+  - /url: /add-ons
+- link:
+  - /url: /setup
+- button
+- button "Back"
+- navigation:
+  - list:
+    - listitem:
+      - link "Workspace settings •":
+        - /url: /setup
+    - listitem:
+      - link "Scheduling":
+        - /url: /setup/scheduling
+- paragraph: Scheduling
+- list:
+  - listitem:
+    - list:
+      - listitem:
+        - link:
+          - /url: /setup/scheduling/time-and-calendar
+        - text: Time and calendar
+      - listitem:
+        - link:
+          - /url: /setup/scheduling/waitlist
+        - text: Waitlist appointments
+      - listitem:
+        - link:
+          - /url: /setup/scheduling/blocked-time-types
+        - text: Blocked time types
+      - listitem:
+        - link:
+          - /url: /setup/scheduling/resources
+        - text: Resources
+      - listitem:
+        - link:
+          - /url: /setup/scheduling/cancellation-reasons
+        - text: Cancellation reasons
+      - listitem:
+        - link:
+          - /url: /setup/scheduling/appointment-statuses
+        - text: Appointment statuses
+      - listitem:
+        - link:
+          - /url: /setup/scheduling/closed-periods
+        - text: Closed periods
+  - listitem:
+    - text: Online booking
+    - list:
+      - listitem:
+        - link:
+          - /url: /setup/scheduling/dynamic-assignment
+        - text: Dynamic assignment
+      - listitem:
+        - link:
+          - /url: /setup/scheduling/availability
+        - text: Availability
+      - listitem:
+        - link:
+          - /url: /setup/scheduling/booking-options
+        - text: Booking options
+- separator
+- list:
+  - listitem:
+    - list:
+      - listitem:
+        - button
+        - text: Marketplace profile
+      - listitem:
+        - button
+        - text: Service menu
+      - listitem:
+        - button
+        - text: Scheduled shifts
+- paragraph: Waitlist
+- paragraph:
+  - text: Enable a waitlist online and choose how waitlisted clients are offered a time slot.
+  - link "Learn more":
+    - /url: https://www.fresha.com/help-center/knowledge-base/calendar/259-set-up-and-manage-your-waitlist
+  - text: .
+- heading "Settings" [level=2]
+- button "Edit"
+- paragraph: Waitlist type
+- paragraph: Automatically book
+- paragraph: Waitlist priority
+- paragraph: First in line
+- paragraph: Waitlist for online bookings
+- paragraph: Active • Request any preferred time
+- separator
+- paragraph: Client notifications
+- paragraph:
+  - text: Configure how clients are notified about the waitlist in
+  - link "automated messages":
+    - /url: /marketing/automated-messages

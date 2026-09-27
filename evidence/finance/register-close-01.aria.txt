@@ -1,0 +1,151 @@
+URL: https://partners.fresha.com/sales/register/drawer/register-period/7271/close-register/
+- dialog:
+  - text: Close register
+  - button "Close"
+  - button "Close register"
+  - heading "Close register" [level=1]
+  - text: ZZTest Register B • Branch B
+  - region:
+    - table:
+      - rowgroup:
+        - row "Payment types Expected Counted Difference":
+          - columnheader "Payment types"
+          - columnheader "Expected"
+          - columnheader "Counted"
+          - columnheader "Difference"
+      - rowgroup:
+        - row "Fresha terminals SGD 0 SGD 0 SGD 0":
+          - cell "Fresha terminals":
+            - paragraph: Fresha terminals
+          - cell "SGD 0":
+            - paragraph: SGD 0
+          - cell "SGD 0":
+            - paragraph: SGD 0
+          - cell "SGD 0":
+            - paragraph: SGD 0
+        - row "Tap to Pay SGD 0 SGD 0 SGD 0":
+          - cell "Tap to Pay":
+            - paragraph: Tap to Pay
+          - cell "SGD 0":
+            - paragraph: SGD 0
+          - cell "SGD 0":
+            - paragraph: SGD 0
+          - cell "SGD 0":
+            - paragraph: SGD 0
+        - row "Redemptions SGD 0 SGD 0 SGD 0":
+          - cell "Redemptions":
+            - paragraph: Redemptions
+          - cell "SGD 0":
+            - paragraph: SGD 0
+          - cell "SGD 0":
+            - paragraph: SGD 0
+          - cell "SGD 0":
+            - paragraph: SGD 0
+        - row "Gift cards SGD 0 SGD 0 SGD 0":
+          - cell "Gift cards":
+            - paragraph: Gift cards
+          - cell "SGD 0":
+            - paragraph: SGD 0
+          - cell "SGD 0":
+            - paragraph: SGD 0
+          - cell "SGD 0":
+            - paragraph: SGD 0
+        - row "Deposits SGD 0 SGD 0 SGD 0":
+          - cell "Deposits":
+            - paragraph: Deposits
+          - cell "SGD 0":
+            - paragraph: SGD 0
+          - cell "SGD 0":
+            - paragraph: SGD 0
+          - cell "SGD 0":
+            - paragraph: SGD 0
+        - row "Fresha credit SGD 0 SGD 0 SGD 0":
+          - cell "Fresha credit":
+            - paragraph: Fresha credit
+          - cell "SGD 0":
+            - paragraph: SGD 0
+          - cell "SGD 0":
+            - paragraph: SGD 0
+          - cell "SGD 0":
+            - paragraph: SGD 0
+        - row "Online SGD 0 SGD 0 SGD 0":
+          - cell "Online":
+            - paragraph: Online
+          - cell "SGD 0":
+            - paragraph: SGD 0
+          - cell "SGD 0":
+            - paragraph: SGD 0
+          - cell "SGD 0":
+            - paragraph: SGD 0
+        - row "Card SGD 0 SGD 0 SGD 0":
+          - cell "Card":
+            - paragraph: Card
+          - cell "SGD 0":
+            - paragraph: SGD 0
+          - cell "SGD 0":
+            - paragraph: SGD 0
+          - cell "SGD 0":
+            - paragraph: SGD 0
+        - row "Custom methods SGD 0 – –":
+          - cell "Custom methods":
+            - paragraph: Custom methods
+          - cell "SGD 0":
+            - paragraph: SGD 0
+          - cell "–":
+            - paragraph: –
+          - cell "–":
+            - paragraph: –
+        - row "Other SGD 0 Other counted amount SGD –":
+          - cell "Other":
+            - paragraph: Other
+          - cell "SGD 0":
+            - paragraph: SGD 0
+          - cell "Other counted amount SGD":
+            - text: Other counted amount SGD
+            - spinbutton "Other counted amount"
+          - cell "–":
+            - paragraph: –
+        - row "KBZPay SGD 0 KBZPay counted amount SGD –":
+          - cell "KBZPay":
+            - paragraph: KBZPay
+          - cell "SGD 0":
+            - paragraph: SGD 0
+          - cell "KBZPay counted amount SGD":
+            - text: KBZPay counted amount SGD
+            - spinbutton "KBZPay counted amount"
+          - cell "–":
+            - paragraph: –
+        - row "Cash SGD 45 Cash counted amount SGD Count –":
+          - cell "Cash":
+            - paragraph: Cash
+          - cell "SGD 45":
+            - paragraph: SGD 45
+          - cell "Cash counted amount SGD Count":
+            - text: Cash counted amount SGD
+            - spinbutton "Cash counted amount"
+            - button "Count"
+          - cell "–":
+            - paragraph: –
+        - row "Total balance SGD 45 – –":
+          - cell "Total balance":
+            - paragraph: Total balance
+          - cell "SGD 45":
+            - paragraph: SGD 45
+          - cell "–":
+            - paragraph: –
+          - cell "–":
+            - paragraph: –
+  - paragraph: Cash closing float
+  - paragraph: Amount left in the register, this will be added to the float of the next day you open the register
+  - text: Cash closing float SGD
+  - spinbutton "Cash closing float"
+  - button "Count"
+  - paragraph: Cash to bank
+  - paragraph: Amount of cash being removed from the register and deposited to the bank today.
+  - text: Cash to bank SGD
+  - spinbutton "Cash to bank"
+  - button "Count"
+  - paragraph: Add a note
+  - text: Add a note 0/100
+  - textbox "Add a note 0/100":
+    - /placeholder: Add a note that can be referred later

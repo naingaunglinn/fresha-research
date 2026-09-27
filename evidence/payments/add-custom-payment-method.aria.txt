@@ -1,0 +1,9 @@
+URL: https://partners.fresha.com/setup/sales/payment-methods/create/
+- dialog "Add payment method":
+  - text: Add payment method
+  - button "Close"
+  - button "Add"
+  - heading "Add payment method" [level=1]
+  - text: Name
+  - textbox "Name":
+    - /placeholder: e.g Mastercard

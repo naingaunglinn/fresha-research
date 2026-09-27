@@ -1,0 +1,151 @@
+URL: https://partners.fresha.com/clients/list
+- link "Fresha":
+  - /url: /calendar
+  - img "Fresha"
+- button "Continue setup":
+  - paragraph: Continue setup
+- button "Search"
+- button "Performance insights"
+- button "Notifications"
+- link "Fresha Connect":
+  - /url: /connect
+- link "Wallet":
+  - /url: /clients/list/drawer/wallet/all/accounts/
+  - text: "1"
+- button "Open user menu": NL
+- link:
+  - /url: /dashboard
+- link:
+  - /url: /calendar
+- button
+- button
+- button
+- button
+- button
+- button
+- link:
+  - /url: /reports
+- link:
+  - /url: /add-ons
+- link:
+  - /url: /setup
+- button
+- button "Collapse Navigation Menu"
+- paragraph: Clients
+- link "Clients list":
+  - /url: /clients/list
+  - paragraph: Clients list
+- link "Client segments":
+  - /url: /clients/segments
+  - paragraph: Client segments
+- separator
+- paragraph: Engage
+- link "Client loyalty":
+  - /url: /clients/loyalty
+  - paragraph: Client loyalty
+- link "Online reputation":
+  - /url: /clients/online-reputation
+  - paragraph: Online reputation
+- heading "Clients list" [level=1]
+- text: "4"
+- paragraph:
+  - text: View, add, edit and delete your client's details.
+  - link "Learn more":
+    - /url: https://www.fresha.com/help-center/knowledge-base/clients/320-create-client-profiles
+- button "Options"
+- button "Add"
+- paragraph: Import your client list
+- paragraph: Takes a few minutes and prevents new client fees for existing clients who book online
+- button "Start import"
+- link "Learn more":
+  - /url: https://www.fresha.com/help-center/knowledge-base/clients/101243-import-your-existing-client-list
+- img "Import clients"
+- button "Close"
+- text: Search
+- textbox "Search":
+  - /placeholder: Name, email or phone
+- button "Filters"
+- button "Created at (newest first)"
+- region:
+  - table:
+    - rowgroup:
+      - row "selectAll selectAll Client name Mobile number Reviews Sales Created at":
+        - columnheader "selectAll selectAll":
+          - paragraph: selectAll
+          - checkbox "selectAll"
+        - columnheader "Client name":
+          - button "Client name"
+        - columnheader "Mobile number"
+        - columnheader "Reviews":
+          - button "Reviews"
+        - columnheader "Sales":
+          - button "Sales"
+        - columnheader "Created at":
+          - button "Created at"
+  - table:
+    - rowgroup:
+      - button "select-row-299746603 select-row-299746603 Z ZZTest Client A zztest.clienta@example.com - - SGD 0 Sep 27, 2026":
+        - cell "select-row-299746603 select-row-299746603":
+          - paragraph: select-row-299746603
+          - checkbox "select-row-299746603"
+        - cell "Z ZZTest Client A zztest.clienta@example.com":
+          - text: Z
+          - paragraph: ZZTest Client A
+          - paragraph: zztest.clienta@example.com
+        - cell "-":
+          - paragraph: "-"
+        - cell "-":
+          - paragraph: "-"
+        - cell "SGD 0":
+          - paragraph: SGD 0
+        - cell "Sep 27, 2026":
+          - paragraph: Sep 27, 2026
+      - button "select-row-299742684 select-row-299742684 J Jack Doe jack@example.com - - SGD 0 Sep 27, 2026":
+        - cell "select-row-299742684 select-row-299742684":
+          - paragraph: select-row-299742684
+          - checkbox "select-row-299742684"
+        - cell "J Jack Doe jack@example.com":
+          - text: J
+          - paragraph: Jack Doe
+          - paragraph: jack@example.com
+        - cell "-":
+          - paragraph: "-"
+        - cell "-":
+          - paragraph: "-"
+        - cell "SGD 0":
+          - paragraph: SGD 0
+        - cell "Sep 27, 2026":
+          - paragraph: Sep 27, 2026
+      - button "select-row-299742678 select-row-299742678 J Jane Doe jane@example.com - - SGD 0 Sep 27, 2026":
+        - cell "select-row-299742678 select-row-299742678":
+          - paragraph: select-row-299742678
+          - checkbox "select-row-299742678"
+        - cell "J Jane Doe jane@example.com":
+          - text: J
+          - paragraph: Jane Doe
+          - paragraph: jane@example.com
+        - cell "-":
+          - paragraph: "-"
+        - cell "-":
+          - paragraph: "-"
+        - cell "SGD 0":
+          - paragraph: SGD 0
+        - cell "Sep 27, 2026":
+          - paragraph: Sep 27, 2026
+      - button "select-row-299742677 select-row-299742677 J John Doe john@example.com - - SGD 0 Sep 27, 2026":
+        - cell "select-row-299742677 select-row-299742677":
+          - paragraph: select-row-299742677
+          - checkbox "select-row-299742677"
+        - cell "J John Doe john@example.com":
+          - text: J
+          - paragraph: John Doe
+          - paragraph: john@example.com
+        - cell "-":
+          - paragraph: "-"
+        - cell "-":
+          - paragraph: "-"
+        - cell "SGD 0":
+          - paragraph: SGD 0
+        - cell "Sep 27, 2026":
+          - paragraph: Sep 27, 2026
+- text: Viewing results 1 to 4 of 4

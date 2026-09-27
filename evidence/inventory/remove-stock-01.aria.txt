@@ -1,0 +1,11 @@
+URL: https://partners.fresha.com/catalogue/products/drawer/product/13235071/stock-history/select-location/decrease-stock/13235071?product-list-page=1&product-list-page-size=10&product-list-sort-order=desc&product-list-sort-by=updated_at&product-list-out-of-stock-only=false&product-list-low-stock=false
+- dialog "Select a location to remove stock at":
+  - paragraph: Select a location to remove stock at
+  - button "Close modal"
+  - button
+  - heading "Branch B" [level=3]
+  - heading "10 in stock" [level=4]
+  - separator
+  - button
+  - heading "Baber Shop" [level=3]
+  - heading "20 in stock" [level=4]

@@ -1,0 +1,98 @@
+URL: https://partners.fresha.com/team/team-members/add/?section=wagesAndTimesheets
+- dialog "Add team member":
+  - text: Add team member
+  - button "Close"
+  - button "Add"
+  - heading "Add team member" [level=1]
+  - paragraph: Wages and timesheets
+  - text: "On"
+  - paragraph:
+    - text: Set up how much this team member earns.
+    - link "Learn more":
+      - /url: https://www.fresha.com/help-center/knowledge-base/team/291-set-up-wages-for-team-members
+  - paragraph: Enable wages and timesheets
+  - checkbox "Enable wages and timesheets" [checked]
+  - text: Compensation type Hourly pay
+  - combobox "Compensation type":
+    - option "None"
+    - option "Hourly pay" [selected]
+  - text: Hourly rate SGD
+  - spinbutton "0.00"
+  - separator
+  - paragraph: Overtime
+  - paragraph:
+    - text: Set how much this team member earns when working above their regular hours.
+    - link "Learn more":
+      - /url: https://www.fresha.com/help-center/knowledge-base/team/291-set-up-wages-for-team-members
+  - paragraph: Overtime pay
+  - paragraph: Allow this team member to earn overtime
+  - checkbox "Overtime pay"
+  - separator
+  - paragraph: Timesheet settings
+  - paragraph:
+    - text: Configure timesheet settings for this team member.
+    - link "Learn more":
+      - /url: https://www.fresha.com/help-center/knowledge-base/team/291-set-up-wages-for-team-members
+  - paragraph: Proximity controls
+  - text: Location restrictions
+  - combobox:
+    - option "Workspace default (Disabled)" [selected]
+    - option "Enabled"
+    - option "Disabled"
+  - text: Prevent manual timesheet entries when more than 50m away
+  - paragraph: Timesheet automation
+  - text: Auto clock in
+  - combobox:
+    - option "Workspace default (Disabled)" [selected]
+    - option "Enabled"
+    - option "Disabled"
+  - text: Automatically clock in at the beginning of shifts Auto clock out
+  - combobox:
+    - option "Workspace default (Disabled)" [selected]
+    - option "Enabled"
+    - option "Disabled"
+  - text: Automatically clock out at the end of shifts Automated breaks
+  - combobox:
+    - option "Workspace default (disabled)" [selected]
+    - option "Enabled"
+    - option "Disabled"
+  - text: Automatically start and stop scheduled breaks Workspace default settings can be adjusted
+  - link "here":
+    - /url: /setup/timesheets
+  - list:
+    - listitem:
+      - text: Personal
+      - list:
+        - listitem:
+          - button
+          - text: Profile
+        - listitem:
+          - button
+          - text: Addresses
+        - listitem:
+          - button
+          - text: Emergency contacts
+    - listitem:
+      - text: Workspace
+      - list:
+        - listitem:
+          - button
+          - text: Services 2
+        - listitem:
+          - button
+          - text: Locations 2
+        - listitem:
+          - button
+          - text: Settings
+    - listitem:
+      - text: Pay
+      - list:
+        - listitem:
+          - button
+          - text: Wages and timesheets
+        - listitem:
+          - button
+          - text: Commissions
+        - listitem:
+          - button
+          - text: Pay runs

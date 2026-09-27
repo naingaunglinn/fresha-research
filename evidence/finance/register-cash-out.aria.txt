@@ -1,0 +1,16 @@
+URL: https://partners.fresha.com/sales/register/cash-out/
+- dialog:
+  - progressbar "Cash out progress":
+    - paragraph: Cash out progress
+  - text: Choose reason for cash out
+  - button "Close"
+  - heading "Choose reason for cash out" [level=1]
+  - text: Enter the amount you want to take out and a reason so you can refer to it later
+  - button
+  - heading "Petty cash for purchases" [level=3]
+  - button
+  - heading "Pay team member tips" [level=3]
+  - button
+  - heading "Deposit to bank or safe" [level=3]
+  - button
+  - heading "Other adjustment" [level=3]

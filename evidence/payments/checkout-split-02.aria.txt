@@ -1,0 +1,43 @@
+URL: https://partners.fresha.com/calendar/drawer/new-sale/payment-method/split-payment/cash-payment/?date=2026-09-29&view=day&location_id=3210802&calendar_selected_resources=e-working&checkout-order-id=1078208179
+- dialog "Add cash amount":
+  - button "Go back"
+  - paragraph: Add cash amount
+  - button "Close modal"
+  - text: Amount SGD
+  - textbox "Amount":
+    - /placeholder: "0"
+    - text: "44"
+  - button "SGD 44"
+  - button "SGD 45"
+  - button "SGD 50"
+  - button "SGD 60"
+  - button "SGD 100"
+  - button "1":
+    - paragraph: "1"
+  - button "2":
+    - paragraph: "2"
+  - button "3":
+    - paragraph: "3"
+  - button "4":
+    - paragraph: "4"
+  - button "5":
+    - paragraph: "5"
+  - button "6":
+    - paragraph: "6"
+  - button "7":
+    - paragraph: "7"
+  - button "8":
+    - paragraph: "8"
+  - button "9":
+    - paragraph: "9"
+  - button ".":
+    - paragraph: .
+  - button "0":
+    - paragraph: "0"
+  - button
+  - paragraph: Cash received by
+  - text: •
+  - button "Naing Aung Linn"
+  - paragraph: Left to pay •
+  - paragraph: SGD 0
+  - button "Add"

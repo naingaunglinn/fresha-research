@@ -1,0 +1,77 @@
+URL: https://partners.fresha.com/setup/location/new/business-type
+- link "Fresha":
+  - /url: /calendar
+  - img "Fresha"
+- button "Continue setup":
+  - paragraph: Continue setup
+- button "Search"
+- button "Performance insights"
+- button "Notifications"
+- link "Fresha Connect":
+  - /url: /connect
+- link "Wallet":
+  - /url: /setup/location/new/business-type/drawer/wallet/all/accounts/
+  - text: "1"
+- button "Open user menu": NL
+- link:
+  - /url: /dashboard
+- link:
+  - /url: /calendar
+- button
+- button
+- button
+- button
+- button
+- button
+- link:
+  - /url: /reports
+- link:
+  - /url: /add-ons
+- link:
+  - /url: /setup
+- button
+- progressbar "Step 2 of 4, 50% complete":
+  - paragraph: Step 2 of 4, 50% complete
+- button "Go back"
+- text: Select categories that best describe your business
+- button "Close"
+- button "Continue"
+- text: Add new location
+- heading "Select categories that best describe your business" [level=1]
+- text: Choose your primary and up to 3 related service type
+- group "Business types":
+  - paragraph: Business types
+  - text: Primary
+  - paragraph: Hair Salon
+  - checkbox "Primary Hair Salon" [checked]
+  - paragraph: Nails
+  - checkbox "Nails"
+  - paragraph: Eyebrows & Lashes
+  - checkbox "Eyebrows & Lashes"
+  - paragraph: Beauty Salon
+  - checkbox "Beauty Salon"
+  - paragraph: Medspa
+  - checkbox "Medspa"
+  - text: "2"
+  - paragraph: Barber
+  - checkbox "2 Barber" [checked]
+  - paragraph: Massage
+  - checkbox "Massage"
+  - paragraph: Spa & sauna
+  - checkbox "Spa & sauna"
+  - paragraph: Waxing Salon
+  - checkbox "Waxing Salon"
+  - paragraph: Tattooing & piercing
+  - checkbox "Tattooing & piercing"
+  - paragraph: Tanning Studio
+  - checkbox "Tanning Studio"
+  - paragraph: Fitness & recovery
+  - checkbox "Fitness & recovery"
+  - paragraph: Physical therapy
+  - checkbox "Physical therapy"
+  - paragraph: Health practice
+  - checkbox "Health practice"
+  - paragraph: Pet grooming
+  - checkbox "Pet grooming"
+  - paragraph: Other
+  - checkbox "Other"

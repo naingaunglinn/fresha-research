@@ -1,0 +1,65 @@
+URL: https://partners.fresha.com/catalogue/products/drawer/product/13235071?product-list-page=1&product-list-page-size=10&product-list-sort-order=desc&product-list-sort-by=updated_at&product-list-out-of-stock-only=false&product-list-low-stock=false
+- dialog:
+  - button "Close Drawer"
+  - img
+  - paragraph: ZZTest Pomade
+  - text: 30 in stock
+  - button "Actions"
+  - separator
+  - list:
+    - listitem:
+      - list:
+        - listitem:
+          - button
+          - paragraph: Product details
+        - listitem:
+          - button
+          - paragraph: Stock orders
+        - listitem:
+          - button
+          - paragraph: Sales
+        - listitem:
+          - button
+          - paragraph: Stock history
+  - link "Edit":
+    - /url: /catalogue/products/13235071/edit
+  - heading "Product details" [level=1]
+  - paragraph: Basic info
+  - paragraph: Product barcode
+  - paragraph: "-"
+  - paragraph: Brand
+  - paragraph: "-"
+  - paragraph: Product category
+  - paragraph: "-"
+  - paragraph: Supplier
+  - paragraph: "-"
+  - paragraph: Amount
+  - paragraph: 100 g
+  - paragraph: Short description
+  - text: "-"
+  - paragraph: Product description
+  - text: "-"
+  - paragraph: Stock info
+  - paragraph: Primary SKU
+  - paragraph: "-"
+  - paragraph: Stock on hand
+  - paragraph: "30"
+  - paragraph: Retail price
+  - paragraph: SGD 15
+  - paragraph: Total retail value
+  - paragraph: SGD 450
+  - paragraph: Supply price
+  - paragraph: SGD 5
+  - paragraph: Total supply value
+  - paragraph: SGD 150
+  - paragraph: Average cost
+  - paragraph: SGD 5
+  - paragraph: Total cost
+  - paragraph: SGD 150
+  - paragraph: Stock on hand
+  - text: "30"
+  - separator
+  - heading "Branch B" [level=3]
+  - text: "10"
+  - heading "Baber Shop" [level=3]
+  - text: "20"

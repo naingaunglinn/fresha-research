@@ -1,0 +1,60 @@
+URL: https://partners.fresha.com/catalogue/services/service/edit/25689868?section=locations
+- dialog "Edit service":
+  - text: Edit service
+  - button "Close"
+  - button "Save"
+  - heading "Edit service" [level=1]
+  - list:
+    - listitem:
+      - list:
+        - listitem:
+          - button
+          - text: Basic details
+        - listitem:
+          - button
+          - text: Locations 2
+        - listitem:
+          - button
+          - text: Team members 2
+        - listitem:
+          - button
+          - text: Resources
+        - listitem:
+          - button
+          - text: Service add-ons
+    - listitem:
+      - text: Settings
+      - list:
+        - listitem:
+          - button
+          - text: Online booking
+        - listitem:
+          - button
+          - text: Portfolio images
+        - listitem:
+          - button
+          - text: Forms 1
+        - listitem:
+          - button
+          - text: Commissions
+        - listitem:
+          - button
+          - text: Settings
+  - paragraph: Locations
+  - paragraph: Choose the locations where this service will take place
+  - button
+  - paragraph: All locations
+  - checkbox "All locations" [checked]
+  - paragraph: All locations
+  - text: "2"
+  - button
+  - paragraph: Branch B
+  - checkbox "Branch B" [checked]
+  - paragraph: Branch B
+  - paragraph: Orchard Boulevard, Singapore (Central Area)
+  - separator
+  - button
+  - paragraph: Baber Shop
+  - checkbox "Baber Shop" [checked]
+  - paragraph: Baber Shop
+  - paragraph: Thukha Dagon Housing, South Dagon, No-203, Building-(A-3), Chanthar Street, Yangon (South Dagon)

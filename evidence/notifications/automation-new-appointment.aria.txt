@@ -1,0 +1,112 @@
+URL: https://partners.fresha.com/marketing/automated-messages/overview/new-appointment
+- link "Fresha":
+  - /url: /calendar
+  - img "Fresha"
+- button "Continue setup":
+  - paragraph: Continue setup
+- button "Search"
+- button "Performance insights"
+- button "Notifications"
+- link "Fresha Connect":
+  - /url: /connect
+- link "Wallet":
+  - /url: /marketing/automated-messages/overview/new-appointment/drawer/wallet/all/accounts/
+  - text: "1"
+- button "Open user menu": NL
+- link:
+  - /url: /dashboard
+- link:
+  - /url: /calendar
+- button
+- button
+- button
+- button
+- button
+- button
+- link:
+  - /url: /reports
+- link:
+  - /url: /add-ons
+- link:
+  - /url: /setup
+- button
+- button "Collapse Navigation Menu"
+- paragraph: Messaging
+- link "Blast campaigns":
+  - /url: /marketing/blast-campaigns/home
+  - paragraph: Blast campaigns
+- link "Automations":
+  - /url: /marketing/automated-messages
+  - paragraph: Automations
+- link "Messages history":
+  - /url: /marketing/notifications
+  - paragraph: Messages history
+- separator
+- paragraph: Promotion
+- link "Deals":
+  - /url: /marketing/deals
+  - paragraph: Deals
+- link "Smart pricing":
+  - /url: /marketing/peak-pricing
+  - paragraph: Smart pricing
+- separator
+- paragraph: Engage
+- link "Reviews":
+  - /url: /clients/online-reputation?tab=all
+  - paragraph: Reviews
+- button "Back"
+- navigation:
+  - list:
+    - listitem:
+      - link "Automations •":
+        - /url: /marketing/automated-messages
+    - listitem: New appointment
+- heading "New appointment" [level=1]
+- text: Enabled
+- button "Options"
+- paragraph:
+  - paragraph: Reach out to clients when their appointment is booked for them.
+- tablist:
+  - tab "Performance" [selected]
+  - tab "Preview"
+  - tab "Details"
+- tabpanel "Performance":
+  - button "Year to date"
+  - paragraph: Sent messages over time
+  - button "Sent messages"
+  - img
+  - paragraph: Email
+  - img
+  - paragraph: Text
+  - img
+  - paragraph: WhatsApp
+  - application:
+    - paragraph: Jan
+    - paragraph: Feb
+    - paragraph: Mar
+    - paragraph: Apr
+    - paragraph: May
+    - paragraph: Jun
+    - paragraph: Jul
+    - paragraph: Aug
+    - paragraph: Sep
+  - paragraph: Sent
+  - paragraph: "0"
+  - paragraph: "Email: 0"
+  - paragraph: "Text: 0"
+  - paragraph: "WhatsApp: 0"
+  - paragraph: Delivered
+  - paragraph: "0"
+  - paragraph: "Email: 0 (0%)"
+  - paragraph: "Text: 0 (0%)"
+  - paragraph: "WhatsApp: 0 (0%)"
+  - paragraph: Opened
+  - paragraph: "0"
+  - paragraph: "Email: 0 (0%)"
+  - paragraph: "Text: -"
+  - paragraph: "WhatsApp: -"
+  - paragraph: Clicked
+  - paragraph: "0"
+  - paragraph: "Email: 0 (0%)"
+  - paragraph: "Text: 0 (0%)"
+  - paragraph: "WhatsApp: 0 (0%)"

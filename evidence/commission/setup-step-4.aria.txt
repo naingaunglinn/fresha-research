@@ -1,0 +1,28 @@
+URL: https://partners.fresha.com/team/team-members/edit/5609627/campaign-wizard/new/effective-date?section=commissions
+- dialog:
+  - progressbar:
+    - paragraph
+  - button "Go back"
+  - text: When should this commission be effective from?
+  - button "Close"
+  - button "Apply"
+  - heading "When should this commission be effective from?" [level=1]
+  - text: Apply this commission now, or schedule it for a future date. You can also set it in the past to recalculate data reporting.
+  - radiogroup "Starts":
+    - paragraph:
+      - paragraph: Starts
+    - paragraph:
+      - paragraph: Today (Sun, Sep 27, 2026)
+    - radio "Today (Sun, Sep 27, 2026)" [checked]
+    - paragraph:
+      - paragraph: Select a date
+    - radio "Select a date"
+  - radiogroup "Ends":
+    - paragraph:
+      - paragraph: Ends
+    - paragraph:
+      - paragraph: Never
+    - radio "Never" [checked]
+    - paragraph:
+      - paragraph: Select a date
+    - radio "Select a date"

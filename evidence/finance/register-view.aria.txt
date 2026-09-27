@@ -1,0 +1,65 @@
+URL: https://partners.fresha.com/sales/register/drawer/register-period/7271
+- dialog:
+  - button "Close Drawer"
+  - text: Summary
+  - button "Close register"
+  - button "More options"
+  - paragraph: ZZTest Register B balance
+  - heading "SGD 45" [level=1]
+  - text: Open
+  - paragraph: Branch B • Opened Sep 27, 2026, 17:11 by Naing Aung Linn
+  - button "Cash in"
+  - button "Cash out"
+  - paragraph: Payments
+  - paragraph: Collected through this register
+  - paragraph: Expected
+  - paragraph: Fresha terminals
+  - paragraph: SGD 0
+  - paragraph: Tap to Pay
+  - paragraph: SGD 0
+  - separator
+  - paragraph: Online
+  - paragraph: SGD 0
+  - paragraph: Card
+  - paragraph: SGD 0
+  - separator
+  - paragraph: Redemptions
+  - paragraph: SGD 0
+  - paragraph: Gift cards
+  - paragraph: SGD 0
+  - paragraph: Deposits
+  - paragraph: SGD 0
+  - paragraph: Fresha credit
+  - paragraph: SGD 0
+  - separator
+  - paragraph: Custom methods
+  - paragraph: SGD 0
+  - paragraph: Other
+  - paragraph: SGD 0
+  - paragraph: KBZPay
+  - paragraph: SGD 0
+  - separator
+  - paragraph: Cash
+  - paragraph: SGD 45
+  - paragraph: Register opening float
+  - paragraph: SGD 50
+  - paragraph: Cash payments
+  - paragraph: SGD 0
+  - paragraph: Cash in
+  - paragraph: SGD 0
+  - button "Cash out":
+    - paragraph: Cash out
+  - paragraph: "- SGD 5"
+  - separator
+  - paragraph: Total balance
+  - paragraph: SGD 45
+  - paragraph: Of which tips
+  - paragraph: SGD 0
+  - paragraph: This balance does not include payments collected through online purchases, such as gift card sales or deposits paid via the marketplace. For full business details view reports.
+  - list:
+    - listitem:
+      - button "Summary":
+        - paragraph: Summary
+    - listitem:
+      - button "Activity":
+        - paragraph: Activity

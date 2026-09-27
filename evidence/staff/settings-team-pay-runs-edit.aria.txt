@@ -1,0 +1,37 @@
+URL: https://partners.fresha.com/setup/team/pay-runs/edit/
+- dialog "Pay run settings":
+  - text: Pay run settings
+  - button "Close"
+  - button "Save"
+  - heading "Pay run settings" [level=1]
+  - paragraph: Pay period
+  - paragraph:
+    - text: Choose the period your team's earnings are grouped into for each pay run, making them easy to track and report on.
+    - link "Learn more":
+      - /url: https://www.fresha.com/help-center/knowledge-base/team/101641-enable-pay-runs-and-set-your-pay-period
+  - text: Frequency
+  - button "Weekly Frequency": Weekly
+  - text: Restarts on
+  - button "Monday Restarts on": Monday
+  - text: Starts from
+  - button "Next billing cycle Starts from": Next billing cycle
+  - paragraph: Pay period schedule
+  - list:
+    - listitem:
+      - paragraph: Current period
+      - paragraph: Sep 21 – 27, 2026 (7 days)
+    - listitem:
+      - paragraph: New schedule
+      - paragraph: Sep 28 – Oct 4, 2026 (7 days)
+      - paragraph: Oct 5 – 11, 2026 (7 days)
+  - paragraph: Automatic payments
+  - paragraph:
+    - text: Save time by automatically sending your team their earnings directly from your business wallet.
+    - link "Learn more":
+      - /url: https://www.fresha.com/help-center/knowledge-base/team/101641-enable-pay-runs-and-set-your-pay-period
+  - text: Automatically pay Wages, Commissions, Other
+  - button "Disabled Automatically pay Wages, Commissions, Other": Disabled
+  - paragraph: Paid manually when you're ready
+  - text: Automatically pay tips
+  - button "Disabled Automatically pay tips": Disabled
+  - paragraph: Paid manually when you're ready

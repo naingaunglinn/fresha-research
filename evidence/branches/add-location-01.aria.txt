@@ -1,0 +1,50 @@
+URL: https://partners.fresha.com/setup/location/new/basic-info
+- link "Fresha":
+  - /url: /calendar
+  - img "Fresha"
+- button "Continue setup":
+  - paragraph: Continue setup
+- button "Search"
+- button "Performance insights"
+- button "Notifications"
+- link "Fresha Connect":
+  - /url: /connect
+- link "Wallet":
+  - /url: /setup/location/new/basic-info/drawer/wallet/all/accounts/
+  - text: "1"
+- button "Open user menu": NL
+- link:
+  - /url: /dashboard
+- link:
+  - /url: /calendar
+- button
+- button
+- button
+- button
+- button
+- button
+- link:
+  - /url: /reports
+- link:
+  - /url: /add-ons
+- link:
+  - /url: /setup
+- button
+- progressbar "Step 1 of 4, 25% complete":
+  - paragraph: Step 1 of 4, 25% complete
+- text: Add your business details
+- button "Close"
+- button "Continue"
+- text: Add new location
+- heading "Add your business details" [level=1]
+- text: Location name 0/60
+- textbox "Location name 0/60"
+- paragraph: Public name visible to your clients in notifications and when booking online. E.g. Trendy Salon London
+- text: Internal location name (Optional) 0/60
+- textbox "Internal location name (Optional) 0/60"
+- paragraph: Internal name visible only to your team members. E.g. London branch
+- text: Location phone number
+- button "+65"
+- textbox "Country code"
+- text: Location email address
+- textbox "Location email address"
