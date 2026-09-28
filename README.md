@@ -9,6 +9,8 @@ Factual research on the **Fresha partner web app**, carried out to inform the sp
 - **Live account findings:** `fresha-live-findings.md` is a separate read-only study of the real "Point barbershop" production account
   (2026-09-28): how the three branches actually use Fresha, with volumes, payments, pricing, staff and settings. It holds counts only,
   with no customer or staff personal details.
+- **Live commission research:** `fresha-commission-research.md` is a read-only study of how the live account sets up, attributes,
+  reports and pays staff commission (2026-09-28). Staff are described by role only.
 - **Decisions for the owner:** `owner-decisions.md`
 - **Fresha vs plan matrix:** `gap-analysis.md`
 - **Speed and usability:** `ux-analysis.md`
