@@ -6,6 +6,9 @@ Factual research on the **Fresha partner web app**, carried out to inform the sp
 - **Start here:** `executive-summary.md` (final report: summary, strengths, pain points, differences, missing features, risks, owner decisions, next research)
 - **Single-file report:** `fresha-gap.md` is the user's Markdown export of the published doc. It holds the executive summary, both gap
   tables and the owner decisions. Its evidence paths are relative to this folder.
+- **Live account findings:** `fresha-live-findings.md` is a separate read-only study of the real "Point barbershop" production account
+  (2026-09-28): how the three branches actually use Fresha, with volumes, payments, pricing, staff and settings. It holds counts only,
+  with no customer or staff personal details.
 - **Decisions for the owner:** `owner-decisions.md`
 - **Fresha vs plan matrix:** `gap-analysis.md`
 - **Speed and usability:** `ux-analysis.md`
@@ -22,7 +25,7 @@ Factual research on the **Fresha partner web app**, carried out to inform the sp
 | Date | 2026-09-27 |
 | Product | Fresha partner web app `partners.fresha.com` (desktop Chrome 152 on Linux/WSLg, viewport ~1908×960; responsive checks at 390 px and 820 px) |
 | Workspace | **"Baber Shop"**: the user's **test / sandbox** workspace (USER-PROVIDED), **trial plan**, **country Singapore, currency SGD**, time zone GMT+8, 24-hour time |
-| Live account | **Not accessed.** The user states it is set to **Myanmar / MMK** (USER-PROVIDED) |
+| Live account | Not accessed during this sandbox study. Later examined read-only (2026-09-28) through the shared "RC Team" login: **Myanmar / MMK** confirmed. See `fresha-live-findings.md` |
 | Starting data | 1 location, owner + 1 demo team member, 3 demo clients, 4 demo services, 3 demo appointments |
 | Added for testing | Location "Branch B"; test barbers Aung (2 branches) and Min (Branch B); test clients; custom payment method "KBZPay"; product, supplier, transfer, stocktake; register; commission plan; timesheet; time off; sales, refund, void (see `test-data-log.md`) |
 | Customer-side booking | Observed on a **third-party public Fresha venue** (Good Luck Barbers, Singapore), anonymously, stopped before login/submit, by the user's choice |
